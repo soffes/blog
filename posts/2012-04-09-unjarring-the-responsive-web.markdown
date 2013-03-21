@@ -65,8 +65,8 @@ One thing to note, all of those vendor prefixes are really annoying. I highly re
 ``` scss
 body > header {
   margin:3em auto;
-	@include transition-property(margin);
-	@include transition-duration(0.2s);
+  @include transition-property(margin);
+  @include transition-duration(0.2s);
 }
 
 /* The media query is unchanged */

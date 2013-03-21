@@ -20,17 +20,17 @@ Apple added [`CIDetector`](http://developer.apple.com/library/ios/#documentation
 ``` objective-c
 // Use high quality detection
 NSDictionary *detectorOptions = [NSDictionary dictionaryWithObjectsAndKeys:
-								 CIDetectorAccuracyHigh, CIDetectorAccuracy,
-								 nil];
+  CIDetectorAccuracyHigh, CIDetectorAccuracy,
+  nil];
 
 // Create the detector
 CIDetector *detector = [CIDetector detectorOfType:CIDetectorTypeFace context:ciContext options:detectorOptions];
 
 // Loop through all of the faces it found
 for (CIFeature *feature in [detector featuresInImage:ciImage]) {
-	// Simply draw a solid color in the face's rect
-	// Obviously you could do something much more interesting
-	CGContextFillRect(context, feature.bounds);
+  // Simply draw a solid color in the face's rect
+  // Obviously you could do something much more interesting
+  CGContextFillRect(context, feature.bounds);
 }
 ```
 

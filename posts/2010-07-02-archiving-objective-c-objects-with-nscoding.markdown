@@ -21,9 +21,9 @@ Say you have an object that looks like this:
 
 ``` objective-c
 @interface Note : NSObject {
-	NSString *title;
-	NSString *author;
-	BOOL published;
+  NSString *title;
+  NSString *author;
+  BOOL published;
 }
 
 @property (nonatomic, copy) NSString *title;
@@ -43,9 +43,9 @@ Say you have an object that looks like this:
 @synthesize published;
 
 - (void)dealloc {
-	[title release];
-	[author release];
-	[super dealloc];
+  [title release];
+  [author release];
+  [super dealloc];
 }
 
 @end
@@ -57,9 +57,9 @@ Now, all you have to do to implement NSCoding is the following:
 
 ``` objective-c
 @interface Note : NSObject <NSCoding> {
-	NSString *title;
-	NSString *author;
-	BOOL published;
+  NSString *title;
+  NSString *author;
+  BOOL published;
 }
 
 @property (nonatomic, copy) NSString *title;
@@ -79,24 +79,24 @@ Now, all you have to do to implement NSCoding is the following:
 @synthesize published;
 
 - (void)dealloc {
-	[title release];
-	[author release];
-	[super dealloc];
+  [title release];
+  [author release];
+  [super dealloc];
 }
 
 - (id)initWithCoder:(NSCoder *)decoder {
-	if (self = [super init]) {
-		self.title = [decoder decodeObjectForKey:@"title"];
-		self.author = [decoder decodeObjectForKey:@"author"];
-		self.published = [decoder decodeBoolForKey:@"published"];
-	}
-	return self;
+  if (self = [super init]) {
+    self.title = [decoder decodeObjectForKey:@"title"];
+    self.author = [decoder decodeObjectForKey:@"author"];
+    self.published = [decoder decodeBoolForKey:@"published"];
+  }
+  return self;
 }
 
 - (void)encodeWithCoder:(NSCoder *)encoder {
-	[encoder encodeObject:title forKey:@"time"];
-	[encoder encodeObject:author forKey:@"author"];
-	[encoder encodeBool:published forKey:@"published"];
+  [encoder encodeObject:title forKey:@"time"];
+  [encoder encodeObject:author forKey:@"author"];
+  [encoder encodeBool:published forKey:@"published"];
 }
 
 @end
