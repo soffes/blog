@@ -34,14 +34,14 @@ The comments in the code block explain each part. If you were to have this on a 
 body > header {
   /* Same margin code from the previous example */
   margin: 3em auto;
-  
+
   /* Transition anytime the margin changes */
   -webkit-transition-property: margin;
   -moz-transition-property: margin;
   -ms-transition-property: margin;
   -o-transition-property: margin;
   transition-property: margin;
-  
+
   /* Animate for 0.2 seconds */
   -webkit-transition-duration: 0.2s;
   -moz-transition-duration: 0.2s;
@@ -62,7 +62,7 @@ Easy! Now if you resize the window, the header will animate to it's new position
 
 One thing to note, all of those vendor prefixes are really annoying. I highly recommend using [Compass](http://compass-style.org). You can replace all of that with just two lines:
 
-```
+``` scss
 body > header {
   margin:3em auto;
 	@include transition-property(margin);

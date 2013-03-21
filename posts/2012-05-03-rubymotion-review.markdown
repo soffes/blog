@@ -94,7 +94,9 @@ You can just run `rake config` to see the entire configuration of your applicati
 
 You can command-click a view on the screen and then it becomes `self` in the console. Say you command-click a UILabel in the simulator. You can type the following command:
 
-    >> self.text = 'Awesome'
+``` ruby
+>> self.text = 'Awesome'
+```
 
 and see label's text updates immediately.
 

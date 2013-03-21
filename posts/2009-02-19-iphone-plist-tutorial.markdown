@@ -13,8 +13,10 @@ So you're probably thinking, "So, great I'll just keep doing that." I did too un
 
 The huge benefit to using plists over JSON is that you *don't have to parse them, they are 100% native*. You can initialize an `NSDictionary` or `NSArray` with just one method.
 
-    NSDictionary *dictionary = [NSDictionary dictionaryWithContentsOfURL:plistURL];
-    NSArray *array = [NSArray arrayWithContentsOfURL:plistURL];
+``` objc
+NSDictionary *dictionary = [NSDictionary dictionaryWithContentsOfURL:plistURL];
+NSArray *array = [NSArray arrayWithContentsOfURL:plistURL];
+```
 
 This is a super simple and easy way to do this. I would recommend using `NSURLConnection` to pull down your plist file to the temp directory and the run `initWithContentsOfFile:` instead of using the `initWithContentsOfURL:`. `NSURLConnection` provides some great added features, like being asynchronous and handeling HTTP auth, etc.
 
