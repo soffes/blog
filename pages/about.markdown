@@ -6,7 +6,7 @@ title: About Sam.
 
 I am a [iOS and Rails software engineer](https://github.com/soffes), [musician](/music), [wanna be designer](http://dribbble.com/soffes), and burger connoisseur. I live in Lousiville, KY right now. I'll be moving back to San Francisco in the fall. I previously worked at [Hipstamatic](http://hipstamatic.com).
 
-Now, I'm the VP of Engineering at [Seesaw](https://seesaw.co). I also work on [Cheddar](https://cheddarapp.com) in my spare time. Checkout my <%= link_to 'recent projects', projects_url %>.
+Now, I'm the VP of Engineering at [Seesaw](https://seesaw.co). I also work on [Cheddar](https://cheddarapp.com) in my spare time. Checkout my [recent projects](/projects).
 
 When the iPhone SDK first came out in 2008, I wrote this app called [Bible](http://youversion.com/mobile) that launched day one of the App Store. There are millions of people using it now, which is really humbling. I used to own a few companies, freelanced, and worked at some startups. [Ask me about it on Twitter](https://twitter.com/intent/tweet?screen_name=soffes)</a> if you're curious.
 
