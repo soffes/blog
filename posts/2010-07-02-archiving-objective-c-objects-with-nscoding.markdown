@@ -94,7 +94,7 @@ Now, all you have to do to implement NSCoding is the following:
 }
 
 - (void)encodeWithCoder:(NSCoder *)encoder {
-  [encoder encodeObject:title forKey:@"time"];
+  [encoder encodeObject:title forKey:@"title"];
   [encoder encodeObject:author forKey:@"author"];
   [encoder encodeBool:published forKey:@"published"];
 }
