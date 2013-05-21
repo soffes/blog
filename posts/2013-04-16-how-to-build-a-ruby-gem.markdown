@@ -1,11 +1,11 @@
 ---
 title: How to Build a Ruby Gem
-tags: [development, ruby, treehouse]
+tags: [development, ruby, video, treehouse]
 ---
 
 This is my first post on the [Treehouse Blog](http://blog.teamtreehouse.com). I did an 8 minute video tutorial on how to make a Ruby gem with Bundler. Check it out.
 
-<div class="video wide"><iframe src="http://player.vimeo.com/video/63605506?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class="video vimeo"><iframe src="http://player.vimeo.com/video/63605506?title=0&amp;byline=0&amp;portrait=0&amp;color=f05b35" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 The code from this video can be found here: [github.com/soffes/adder](https://github.com/soffes/adder). Here is Ruby's [module_function documentation](http://ruby-doc.org/core-2.0/Module.html#method-i-module_function).
 
