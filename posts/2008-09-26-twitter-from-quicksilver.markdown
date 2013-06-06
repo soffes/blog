@@ -3,9 +3,9 @@ title: Twitter from Quicksilver
 tags: [mac, quicksilver, twitter]
 ---
 
-*So I am a huge [Quicksilver](http://blacktree.com) fan!* I use it constantly. You can do so much with it. Since I love keyboard shortcuts so much, so it's probably one of my favorite apps. It is the first thing I download and install when I get a new Mac.
+==So I am a huge [Quicksilver](http://blacktree.com) fan!== I use it constantly. You can do so much with it. Since I love keyboard shortcuts so much, so it's probably one of my favorite apps. It is the first thing I download and install when I get a new Mac.
 
-Anyway, there is this thing called [Twitter](http://twitter.com/samsoffes) that is pretty cool. *I use it a lot.* I was thinking about something and remembered seeing a little action someone had written to twitter from Quicksilver. I thought I'd download it and try it out.
+Anyway, there is this thing called [Twitter](http://twitter.com/samsoffes) that is pretty cool. ==I use it a lot.== I was thinking about something and remembered seeing a little action someone had written to twitter from Quicksilver. I thought I'd download it and try it out.
 
 I must say, it's pretty cool. I still enjoy using my favorite client, [TweetDeck](http://tweetdeck.com) more, but for posting something quick, it's kinda cool to use Quicksilver. I found [this script](http://blog.codahale.com/2007/01/15/tweet-twitter-quicksilver/) that enables Tweet as an action in Quicksilver. I thought It would be neat to add [Growl](http://growl.info) support to it (as it takes several seconds for it to actually work).
 

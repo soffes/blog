@@ -36,7 +36,7 @@ NSLog(@"Beard face length: %i", @"👨".length);
 // Beard face length: 2
 ```
 
-After watching “Session 128 - Advanced Text Processing” from WWDC 2011, I learned that the beard face is actually a *surrogate unicode pair*. Basically, high UTF-16 characters use this to form characters. For example, `é` is actually `e` + `´`. This is super common in Korean, Chinese, Vietnamese, etc. Emoji is made the same way. Here's another fun discovery:
+After watching “Session 128 - Advanced Text Processing” from WWDC 2011, I learned that the beard face is actually a ==surrogate unicode pair==. Basically, high UTF-16 characters use this to form characters. For example, `é` is actually `e` + `´`. This is super common in Korean, Chinese, Vietnamese, etc. Emoji is made the same way. Here's another fun discovery:
 
 ``` objective-c
 NSLog(@"Same first character: %i", [@"👮" characterAtIndex:0] == [@"💇" characterAtIndex:0]);

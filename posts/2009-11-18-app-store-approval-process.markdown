@@ -11,7 +11,7 @@ Like the other apps from his company, the don't do much besides play an entertai
 
 Here's my take on the whole thing. If Joel or anyone else wants to release a bunch of fun little sound, fine. Personally, I think they are dumb and wouldn't pay for one, but a lot of people have enjoyed iFart and other similar apps, so more power to them. (By the way [Joel's company](http://infomediainc.com/) also makes other kinds of apps like [this](http://www.ivotemobile.com/), [this](http://www.gamedock.com/), and [this](http://mobilesyndicationsolutions.com/). Cool stuff.) My big issue with all of this is the same as Joel's: *consistency*.
 
-**Apple, please be consistent.** As a developer that has submitted several apps to the App Store, and experienced this frustration many times before, I really wish they would publish a set of rules and stick to them.
+==Apple, please be consistent.== As a developer that has submitted several apps to the App Store, and experienced this frustration many times before, I really wish they would publish a set of rules and stick to them.
 
 ### Joe Hewitt
 

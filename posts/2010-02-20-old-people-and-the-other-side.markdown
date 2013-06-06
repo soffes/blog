@@ -18,7 +18,7 @@ My guess as to why she had such problems with the system are that she has a prec
 It is interesting to me that no matter how well you design software to be useable, some people will not be able to use it. As a developer, I don't know what to do to solve this problem. I want everyone to be able to use my software. Granted, no old people are going to use Countdown Maker, but regardless, I want them to be super easy to use.
 
 ### The Other Side
-The other side of all of this is [OmniFocus](http://www.omnigroup.com/applications/omnifocus). OmniFocus is unlike any other app I've used. The table view in it is completely custom and doesn't behave like I'd expect, they don't use any real world metaphors for their UI, and if you didn't understand GTD principals, you would be 100% confused (as I was). 
+The other side of all of this is [OmniFocus](http://www.omnigroup.com/applications/omnifocus). OmniFocus is unlike any other app I've used. The table view in it is completely custom and doesn't behave like I'd expect, they don't use any real world metaphors for their UI, and if you didn't understand GTD principals, you would be 100% confused (as I was).
 
 The only way I was able to use this app was to watch their screen casts. After watching their screen casts, I know exactly how to use the app and I felt like a pro. This was very interesting to me as a developer. They threw out almost everything and started over. They wanted you to forget how to use software and do it their way.
 
@@ -27,4 +27,4 @@ I don't this this is the solution by any means, but it was very interesting to m
 ### Now what?
 Well I intend to keep making software so the old lady can use it, or at least try. If she really wanted to get her package shipped, I think she could have done it. Everything she need was spelled out for her. If I am making a pro app (think Photoshop or Final Cut) then I would go more the other side approach. I want to optimize the software for people that know how to use it instead of teaching people to use it.
 
-*I think the sweet spot is finding a balance of these two.* Make the stuff people wouldn't understand more out of the way and make everything on the surface feel easy so the user can choose which path to take.
+==I think the sweet spot is finding a balance of these two.== Make the stuff people wouldn't understand more out of the way and make everything on the surface feel easy so the user can choose which path to take.

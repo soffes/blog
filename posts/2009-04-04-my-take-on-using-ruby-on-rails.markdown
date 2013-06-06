@@ -7,9 +7,9 @@ So I recently decided to give [Ruby on Rails][] another chance. For many of the 
 
 I was a huge fan of [MooTools][] (and still am), but I decided to give [jQuery][] a chance. I liked [MooTools][] better. I thought it was superior to [jQuery][] in its organization and many other things. You have to admit that [MooTools][]'s animations look way better.
 
-All of that said, two things made me switch: *the amount of code I didn't have to write* and *the huge community around it*. 
+All of that said, two things made me switch: ==the amount of code I didn't have to write== and ==the huge community around it==.
 
-With [jQuery][] you write a lot less code than you do with [MooTools][]. I sometimes feel that its a lot less elegant, but less code equals quicker development time. 
+With [jQuery][] you write a lot less code than you do with [MooTools][]. I sometimes feel that its a lot less elegant, but less code equals quicker development time.
 
 My biggest frustration with [MooTools][] was that they changed major stuff in every release (at least when I was using it about a year ago). This means that if you needed a lightbox, you could find a few, but none of them would work with the current version. If you searched for [jQuery][] ones, you could find tons of them.
 
@@ -17,7 +17,7 @@ My biggest frustration with [MooTools][] was that they changed major stuff in ev
 
 I took the same approach when I was giving [Ruby on Rails][] another chance. I knew the community was huge. It seems Rails is growing in popularity every day. All of the [PHP][] programmers I knew were either dabbling in [WordPress][] or writing really ugly, non-MVC code. It just seems that it's hard to find a PHP programmer doing cool stuff these days. I know a few don't get me wrong, the number just seems less and less.
 
-Any one writing stuff in Rails is doing it in the [MVC (model, view, controller) design pattern](http://en.wikipedia.org/wiki/Model-view-controller). I'm a huge MVC fan, so that was attractive to me. 
+Any one writing stuff in Rails is doing it in the [MVC (model, view, controller) design pattern](http://en.wikipedia.org/wiki/Model-view-controller). I'm a huge MVC fan, so that was attractive to me.
 
 ### First Impressions
 

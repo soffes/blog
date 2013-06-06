@@ -21,7 +21,7 @@ Abobe Illustrator CS6 is my tool of choice for editing SVGs. I've spent years in
 
 3. Scale your content to fit exactly in the bounds of your artboard
 
-4. *Make sure all of your anchor points align to whole points.* This is key. For complex shapes, this may not be possible. For any straight lines, it is really important to line them up.
+4. ==Make sure all of your anchor points align to whole points.== This is key. For complex shapes, this may not be possible. For any straight lines, it is really important to line them up.
 
     Phil Coffman has [a great video on how to do this in Photoshop](http://methodandcraft.com/videos/pixel-hinting-vectors-in-photoshop) that's worth watching. It works the same way in Illustrator.
 

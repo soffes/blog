@@ -9,11 +9,11 @@ For the seasoned Cocoa developer, this is a piece of cake. For newer developers,
 
 You can't put just any object in a [plist](http://en.wikipedia.org/wiki/Property_list). This mainly gets people when they want to put something into [NSUserDefaults](http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Classes/NSUserDefaults_Class/Reference/Reference.html) and get an error (because NSUserDefaults archives to a plist under the hood).
 
-Plists only support the core types: `NSString`, `NSNumber`, `NSDate`, `NSData`, `NSArray`, `NSDictionary` (and their CF buddies thanks to the toll-free bridge). The key here is `NSData`. *You can convert any object to `NSData` with the `NSCoding` protocol.*
+Plists only support the core types: `NSString`, `NSNumber`, `NSDate`, `NSData`, `NSArray`, `NSDictionary` (and their CF buddies thanks to the toll-free bridge). The key here is `NSData`. ==You can convert any object to `NSData` with the `NSCoding` protocol.==
 
 ### The Solution
 
-There are two things you have to do: *implement NSCoding* and then *use the archiver and unarchiver*.
+There are two things you have to do: ==implement NSCoding== and then ==use the archiver and unarchiver==.
 
 #### Implementing NSCoding
 

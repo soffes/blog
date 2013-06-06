@@ -3,7 +3,7 @@ title: SuperConf 2013
 tags: [development, objective-c, ruby, soa, talks]
 ---
 
-The wonder folks at [SuperConf](http://superconf.co) asked me to come to warm Miami and give a talk. I decided to talk about *Building Realtime Applications*.
+The wonder folks at [SuperConf](http://superconf.co) asked me to come to warm Miami and give a talk. I decided to talk about ==Building Realtime Applications==.
 
 <script async class="speakerdeck-embed" data-id="9f6990305edd01307e0412313b031ac2" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 

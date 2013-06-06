@@ -7,9 +7,9 @@ December was a month of rejection for me. The [X3watch app][] another of my clie
 
 ### What Changed
 
-*Apple changed the rules recently*, which is fine. They change the App Store every month or so. Normally, you just click accept to the new terms and go about your business. Do you ever read EULAs? I don't. Basically the same thing.
+==Apple changed the rules recently==, which is fine. They change the App Store every month or so. Normally, you just click accept to the new terms and go about your business. Do you ever read EULAs? I don't. Basically the same thing.
 
-The important change to note (that they obviously didn't highlight, but expected you to read the massive terms in legal speak) was their new policy on undocumented APIs. Before, *private APIs* were not allowed and *undocumented APIs* were just frowned upon but still allowed.
+The important change to note (that they obviously didn't highlight, but expected you to read the massive terms in legal speak) was their new policy on undocumented APIs. Before, ==private APIs== were not allowed and ==undocumented APIs== were just frowned upon but still allowed.
 
 #### The Difference Between Private and Undocumented
 
@@ -21,7 +21,7 @@ Apple's rules for the App Store are intended to keep the apps in it good and the
 
 ### Why I Care So Much
 
-I understand Apple's reasoning for this, but I don't like it. There are a lot of things that many apps rely on that are undocumented. Even worse, Apple will let [certain apps use undocumented APIs](http://daringfireball.net/2008/11/google_mobile_uses_private_iphone_apis) which is so unfair. *We just want consistency Apple.*
+I understand Apple's reasoning for this, but I don't like it. There are a lot of things that many apps rely on that are undocumented. Even worse, Apple will let [certain apps use undocumented APIs](http://daringfireball.net/2008/11/google_mobile_uses_private_iphone_apis) which is so unfair. ==We just want consistency Apple.==
 
 All of the apps that I mentioned earlier that got rejected, got rejected for `UIWebView` (the view that shows Safari-like content in an app) undocumented APIs. [Bible][] was using undocumented methods for scrolling. Without the use of these undocumented APIs, the ability to scroll the webview without the user is impossible. [X3watch][] got rejected for the same thing undocumented API (as well their keywords). My other client's app got rejected for disabling the scrolling of a webview with an undocumented API. So frustrating.
 

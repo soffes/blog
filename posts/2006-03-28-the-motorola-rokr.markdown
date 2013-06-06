@@ -5,7 +5,7 @@ tags: [technology, itunes]
 
 ![Motorola ROKR](http://assets.samsoff.es/posts/the-motorola-rokr/isyncrokr20050912.jpg)
 
-The Motorola ROKR is amazing! I upgraded my Motorola V180 to it a few weeks ago and I love it. It got bad reviews saying that it wasn't a true iTunes phone. I agree. It is a phone *with* iTunes. Even if it didn't have iTunes, it is still a sweet phone. I like a ton more than the RAZR, even though that is one awesome phone. I have heard that the ROKR is just like the SLVR only thicker and the ROKR doesn't have FireWire.
+The Motorola ROKR is amazing! I upgraded my Motorola V180 to it a few weeks ago and I love it. It got bad reviews saying that it wasn't a true iTunes phone. I agree. It is a phone ==with== iTunes. Even if it didn't have iTunes, it is still a sweet phone. I like a ton more than the RAZR, even though that is one awesome phone. I have heard that the ROKR is just like the SLVR only thicker and the ROKR doesn't have FireWire.
 
 Anyway (back to the ROKR), when you plug it in through USB, it shows up like an external hard drive. I can drag wallpapers, ring tones, pictures, etc. to it and drag my pictures off it to my desktop. That alone is amazing. I have spent hours making ring tones with [Audacity](http://audacity.sf.net/).
 

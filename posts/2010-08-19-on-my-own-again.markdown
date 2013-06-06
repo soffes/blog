@@ -3,7 +3,7 @@ title: On My Own Again
 tags: [development, freelance, life, open-source]
 ---
 
-So if you remember, I wrote a blog post [about a year ago](http://samsoff.es/posts/moving-to-dallas) about life and such. I [quit my job](http://samsoff.es/posts/i-dont-have-a-boss-anymore) and then freelanced for a bit. After doing that for a bit and hating it, I started working at [Tasteful Works](http://tastefulworks.com). It's been a good ride here at Tasteful Works, but *August 31 is my last day*. Still friends with those guys. Quality dudes.
+So if you remember, I wrote a blog post [about a year ago](http://samsoff.es/posts/moving-to-dallas) about life and such. I [quit my job](http://samsoff.es/posts/i-dont-have-a-boss-anymore) and then freelanced for a bit. After doing that for a bit and hating it, I started working at [Tasteful Works](http://tastefulworks.com). It's been a good ride here at Tasteful Works, but ==August 31 is my last day==. Still friends with those guys. Quality dudes.
 
 ### What I'll Be Doing
 
@@ -15,8 +15,8 @@ I've already gotten a few job offers. For now, I plan on sticking with working f
 
 ### What About...
 
-*Double Shot* - No idea. Tasteful Works owns all of that code. Hopefully it will get released eventually. It's some of my best work.
+==Double Shot== - No idea. Tasteful Works owns all of that code. Hopefully it will get released eventually. It's some of my best work.
 
-*TWToolkit* - Check out my forks: [SSToolkit](http://github.com/samsoffes/sstoolkit), [SSOAuthKit](http://github.com/samsoffes/ssoauthkit), and [SSZipArchive](http://github.com/samsoffes/ssziparchive). The Tasteful Works versions will remain, although I won't be working on them anymore.
+==TWToolkit== - Check out my forks: [SSToolkit](http://github.com/samsoffes/sstoolkit), [SSOAuthKit](http://github.com/samsoffes/ssoauthkit), and [SSZipArchive](http://github.com/samsoffes/ssziparchive). The Tasteful Works versions will remain, although I won't be working on them anymore.
 
-*Countdown Maker* - [Countdown Maker](http://tastefulworks.com/countdown-maker) and [Stage Time](http://tastefulworks.com/stage-time) will remain Tasteful Works products. Kinda hate to see them go, but oh well. Hopefully they will continue to be maintained.
+==Countdown Maker== - [Countdown Maker](http://tastefulworks.com/countdown-maker) and [Stage Time](http://tastefulworks.com/stage-time) will remain Tasteful Works products. Kinda hate to see them go, but oh well. Hopefully they will continue to be maintained.

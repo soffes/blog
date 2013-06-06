@@ -17,7 +17,7 @@ We were using [SNI SSL](http://addons.heroku.com/ssl) for the [Tasteful Works St
 
 Chrome [really yells](http://assets.samsoff.es/posts/hosting-frustrations/sni-chrome.png) at you when you go to a site using SNI SSL.
 
-To get around this, you have to pay $100 a month ($95 more than SNI). This totally sucks. Heroku is awesome because they are affordable and easy. We finally decided to suck it up and pay the extra $95 a month. After paying they told it would take 1-2 business days to set it up. *That totally sucks.* After paying all of that money, we have to wait. I was pissed to say the least. They got it setup in 8 hours, but still.
+To get around this, you have to pay $100 a month ($95 more than SNI). This totally sucks. Heroku is awesome because they are affordable and easy. We finally decided to suck it up and pay the extra $95 a month. After paying they told it would take 1-2 business days to set it up. ==That totally sucks.== After paying all of that money, we have to wait. I was pissed to say the least. They got it setup in 8 hours, but still.
 
 The reason for the high price is due to how SSL works. Basically they spin up another $70/month [Amazon EC2](http://aws.amazon.com/ec2/) instance to filter all of your requests through that into their routing grid. This is necessary because SSL requires that a certificate always uses the same IP. Understandable, but where the extra $30 comes from or why people can't share doesn't make sense to me.
 
@@ -37,11 +37,11 @@ I know that they are working on better [Bundler][] support, but it's kinda painf
 
 Some of the [Engine Yard][] employees saw my frustrated [Heroku][] tweets (which makes me laugh that they search for frustrated [Heroku][] customers). They offered me two free weeks on the [Engine Yard Cloud][], which I thought was really cool.
 
-After checking it out, I was *very disappointed*. I tried to get [Markdownr][] setup on their service. After messing with it for over an hour, I gave up. [Markdownr][] is probably one of the simplest Rails apps. (You can see the [code on GitHub](http://github.com/samsoffes/markdownr.com).) It only uses one gem besides Rails and doesn't use a database.
+After checking it out, I was ==very disappointed==. I tried to get [Markdownr][] setup on their service. After messing with it for over an hour, I gave up. [Markdownr][] is probably one of the simplest Rails apps. (You can see the [code on GitHub](http://github.com/samsoffes/markdownr.com).) It only uses one gem besides Rails and doesn't use a database.
 
 You have to add all of your gems that you need in their web portal. This seems so dumb. I wish it just used [Bundler][] (especially since [the guys that wrote it](http://github.com/carlhuda) work at [Engine Yard][]). I never got my app to launch. It kept saying the i18n gem wasn't found. I thought this might be due to using a [pre-release version of Rails](http://rubygems.org/gems/rails/versions/3.0.0.beta), so I installed them all separately and it still didn't work.
 
-I emailed them and they said "Sorry that it looks like ey cloud is not for you." *If it can't work with the simplest of apps, what can it work with?* The price is also a bit high. (I also know [a good friend](http://twitter.com/mdavis) that had a horrible experience with them.)
+I emailed them and they said "Sorry that it looks like ey cloud is not for you." ==If it can't work with the simplest of apps, what can it work with?== The price is also a bit high. (I also know [a good friend](http://twitter.com/mdavis) that had a horrible experience with them.)
 
 ### Rackspace Cloud
 

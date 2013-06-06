@@ -17,7 +17,7 @@ I [updated my test app](http://github.com/samsoffes/json-benchmarks/commit/18ec5
 
 On both devices, they ranked [Apple JSON][], [YAJL][], [JSON Framework][], and [TouchJSON][]. You can read the detailed results [on GitHub](http://github.com/samsoffes/json-benchmarks/blob/18ec5f34a46b8c973aa301fe738753ce52c12f4d/Readme.markdown).
 
-In conclusion, *it looks like [YAJL][] is the new one to use*. Again, feel free to [check out my code on GitHub](http://github.com/samsoffes/json-benchmarks).
+In conclusion, ==it looks like [YAJL][] is the new one to use==. Again, feel free to [check out my code on GitHub](http://github.com/samsoffes/json-benchmarks).
 
 [TouchJSON]: http://code.google.com/p/touchcode/
 [JSON Framework]: http://code.google.com/p/json-framework/

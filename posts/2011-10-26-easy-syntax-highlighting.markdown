@@ -15,6 +15,6 @@ source = "function foo() { return 'bar'; }"
 Pygmentize.process(source, :javascript)
 ```
 
-*The best part about all of this is that you can run it on Heroku!* I [switched my blog to use it](https://github.com/samsoffes/samsoff.es/commit/5bf2aa733d020caad897960a133055110e545ea5#L2R14) and it's working great. By the way, if you're using Heroku, be sure you use the [Cedar Stack](http://devcenter.heroku.com/articles/cedar).
+==The best part about all of this is that you can run it on Heroku!== I [switched my blog to use it](https://github.com/samsoffes/samsoff.es/commit/5bf2aa733d020caad897960a133055110e545ea5#L2R14) and it's working great. By the way, if you're using Heroku, be sure you use the [Cedar Stack](http://devcenter.heroku.com/articles/cedar).
 
 Here's my **[little example page running on Heroku](http://pygmentize-example.herokuapp.com)**. The full source is [on GitHub](https://github.com/samsoffes/pygmentize-example) too. Enjoy!

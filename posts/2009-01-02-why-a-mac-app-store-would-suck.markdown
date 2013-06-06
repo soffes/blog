@@ -13,4 +13,4 @@ If Apple let any apps into their App Store, then I would be all for this, but th
 
 On the iPhone App Store, if you use any private APIs, you will get banned right away. Everyone's favorite Mac App, [Quicksilver](http://blacktree.com/?quicksilver) uses a lot of private APIs and probably wouldn't be allowed. [Firefox](http://getfirefox.com/) and [Adium](http://adiumx.com/) would probably not be allowed either because they duplicate functionality that ships with the OS.
 
-*Bottom line:* if there is an approval process, I am 100% against a Mac App Store.
+==Bottom line:== if there is an approval process, I am 100% against a Mac App Store.

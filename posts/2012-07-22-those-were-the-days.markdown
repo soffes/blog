@@ -7,7 +7,7 @@ I was just talking with my good friend, [Matt Grimm](http://twitter.com/mattgrim
 
 I wrote [a post in 2008 about choosing programming over music](http://samsoff.es/posts/glad-i-chose-programmer-over-musician). I remember making a conscious decision in high school to pursue programming over music. Mainly because I sucked at music and was way better at programming at the time (by my standards anyway).
 
-*It's interesting that the best times in my life have nothing to do with programming, design, making products, or any of the stuff that consumes my life today.* I haven't even touched my drums or a guitar in months. It's funny how things change.
+==It's interesting that the best times in my life have nothing to do with programming, design, making products, or any of the stuff that consumes my life today.== I haven't even touched my drums or a guitar in months. It's funny how things change.
 
 ![Matt's Basement](http://assets.samsoff.es/posts/those-were-the-days/basement.jpg)
 
@@ -21,7 +21,7 @@ Here's my favorite early recording, Where We Stand:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F53781067&amp;auto_play=false&amp;show_artwork=false&amp;color=ff7700"></iframe>
 
-Both of those made it on the album. Recording the CD was super fun. We spent a week in Dallas with Luis Dubuc of [The Secret Handshake](http://thesecrethandshake.net). It was awesome. *You can download the final versions of these two and three other songs [here](http://assets.samsoff.es/posts/those-were-the-days/FindingChesterfield-AThreeDayWalkEP.zip).* You can also listen to it [on SoundCloud](http://soundcloud.com/samsoffes/sets/a-three-day-walk-ep).
+Both of those made it on the album. Recording the CD was super fun. We spent a week in Dallas with Luis Dubuc of [The Secret Handshake](http://thesecrethandshake.net). It was awesome. ==You can download the final versions of these two and three other songs [here](http://assets.samsoff.es/posts/those-were-the-days/FindingChesterfield-AThreeDayWalkEP.zip).== You can also listen to it [on SoundCloud](http://soundcloud.com/samsoffes/sets/a-three-day-walk-ep).
 
 We also recorded a video of us playing my favorite song on the CD, Give It Back:
 

@@ -3,7 +3,7 @@ title: How To Rock at Craig's List
 tags: [craigs-list, life]
 ---
 
-Not to brag, but *I rock at selling stuff on Craig's List*. I often sell things for close to what I paid for them. A [few friends](http://twitter.com/sammcd) can vouch for my Craig's List skills.
+Not to brag, but ==I rock at selling stuff on Craig's List==. I often sell things for close to what I paid for them. A [few friends](http://twitter.com/sammcd) can vouch for my Craig's List skills.
 
 Anyway, it's easy to sell stuff to rock at Craig's List. Here's a few things to think about.
 

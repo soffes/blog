@@ -7,13 +7,13 @@ National Geographic released [a video about the typical human](http://news.yahoo
 
 I was curious how typical I am. Here's the typical traits and how I line up:
 
-* **Right handed:** *Yep*
+* **Right handed:** ==Yep==
 * **Makes less than $12,000 a year:** Nope
-* **Owns a cell phone:** *Yep*
+* **Owns a cell phone:** ==Yep==
 * **Doesn't have a bank account:** Nope
-* **Male:** *Yep*
+* **Male:** ==Yep==
 * **28 years old:** Nope
 * **Chinese:** Nope
 
 
-So I answered *Yep* to 42% of the traits. I guess that means I'm about the typical amount of not typical. (Ya, read that again. I felt clever writing it.) So, cool. That was fun.
+So I answered ==Yep== to 42% of the traits. I guess that means I'm about the typical amount of not typical. (Ya, read that again. I felt clever writing it.) So, cool. That was fun.

@@ -31,7 +31,7 @@ Once you have rbenv and ruby-build installed, you can run the following command 
 $ rbenv install 1.9.3-p125
 ```
 
-*Easy as that!* It will take a few minutes to download everything and compile. Now if you'd like to use 1.9.3 by default, you can run the following command:
+==Easy as that!== It will take a few minutes to download everything and compile. Now if you'd like to use 1.9.3 by default, you can run the following command:
 
 ``` bash
 $ rbenv global 1.9.3-p125

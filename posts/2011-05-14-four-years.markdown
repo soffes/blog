@@ -15,7 +15,7 @@ I took two classes at Phoenix (both of which were completely worthless) before I
 
 ### Instead
 
-*Today would have been my graduation day if I had stayed*, but instead of graduating, I did some other stuff. I'll give a brief summary of what I did. I'm going to include personal stuff as well as work related stuff since life is much more than just work.
+==Today would have been my graduation day if I had stayed==, but instead of graduating, I did some other stuff. I'll give a brief summary of what I did. I'm going to include personal stuff as well as work related stuff since life is much more than just work.
 
 #### 2007
 

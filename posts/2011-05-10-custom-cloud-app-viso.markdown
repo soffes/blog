@@ -5,7 +5,7 @@ tags: [cloudapp, development, heroku, ruby]
 
 If you haven't heard of [Cloud App](http://getcloudapp.com/), you must be living under a rock or something else that shields you from awesome. It's a fantastic service. You **must** check it out.
 
-Anyway, they've done some really cool stuff. The little app that servers your drops is written in [Sinatra](http://sinatrarb.com/) and [open-source on GitHub](https://github.com/cloudapp/viso). *Awesome, right?!* I forked and customized a bit.
+Anyway, they've done some really cool stuff. The little app that servers your drops is written in [Sinatra](http://sinatrarb.com/) and [open-source on GitHub](https://github.com/cloudapp/viso). ==Awesome, right?!== I forked and customized a bit.
 
 **[Checkout my fork](https://github.com/samsoffes/viso).** It's super simple, faster, and very HTML5-y. Before it included jQuery, some other Javascript, lots of CSS, etc. Now it's just one stylesheet and 2-3 images. I was proud.
 

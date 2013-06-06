@@ -9,7 +9,7 @@ tags: [design, development, product, shares]
 
 Recently, I bought some Apple stock. (Which, by the way, has been a fantastic investment.) I found myself looking at the price in the stocks dashboard widget then using [Alfred](http://www.alfredapp.com/)'s calculator to do the math to see my change. This got cumbersome quick.
 
-*I just wanted an app to see my overall gain or loss at a glance*, so I made one.
+==I just wanted an app to see my overall gain or loss at a glance==, so I made one.
 
 ### The Process
 
@@ -17,7 +17,7 @@ The frist version was done in a Saturday. I drew 100% of the UI in code. I was s
 
 A few weeks later, I had lunch with the fabulous [Josh Brewer](http://jbrewer.me). Shares came up and I showed it to him. He has some ideas to take my silly design and make it super awesome, so we started working together.
 
-Off and on for 5 months we worked on Shares when we had time. *We are really proud of the end result.*
+Off and on for 5 months we worked on Shares when we had time. ==We are really proud of the end result.==
 
 ### That's It
 

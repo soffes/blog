@@ -9,7 +9,7 @@ Almost all of these app ideas are iPhone apps. I welcome iPhone work as I absolu
 
 1. I am fully capable of coming up with my own ideas and then getting all of the money. Why would I work on the customer's idea that I'm less passionate about and get half of the money?
 
-2. *If the customer really believed in their idea, they should take out a business loan* and pay me the small amount of money compared to what they will make if their ideas is as good as they think it is.
+2. ==If the customer really believed in their idea, they should take out a business loan== and pay me the small amount of money compared to what they will make if their ideas is as good as they think it is.
 
 3. It is a bad idea for the customer because I will be way less motivated to work on something with future compensation that I may never receive.
 

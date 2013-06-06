@@ -3,7 +3,7 @@ title: iPhone Plist Tutorial
 tags: [development, iphone, plist]
 ---
 
-**Update 03/03/12:** *Please don't listen to this.* Using JSON is highly preferred over Plists these days since JSON parsers have come a long way in speed. They are actually faster than binary plists now (which is nuts). Anyway, please, please, please don't use plists for your API. Generating them is slow and unreliable. *You should use JSON. Period.*
+**Update 03/03/12:** ==Please don't listen to this.== Using JSON is highly preferred over Plists these days since JSON parsers have come a long way in speed. They are actually faster than binary plists now (which is nuts). Anyway, please, please, please don't use plists for your API. Generating them is slow and unreliable. ==You should use JSON. Period.==
 
 ---
 
@@ -11,7 +11,7 @@ Many people transfer data to and from web services to the iPhone via JSON. This 
 
 So you're probably thinking, "So, great I'll just keep doing that." I did too until I went to one of the Apple iPhone Tech Talks. I learned a ton about how to optomize iPhone apps. One of the big things they hit on was using plists to transfer data back and forth instead of JSON or XML.
 
-The huge benefit to using plists over JSON is that you *don't have to parse them, they are 100% native*. You can initialize an `NSDictionary` or `NSArray` with just one method.
+The huge benefit to using plists over JSON is that you ==don't have to parse them, they are 100% native==. You can initialize an `NSDictionary` or `NSArray` with just one method.
 
 ``` objc
 NSDictionary *dictionary = [NSDictionary dictionaryWithContentsOfURL:plistURL];

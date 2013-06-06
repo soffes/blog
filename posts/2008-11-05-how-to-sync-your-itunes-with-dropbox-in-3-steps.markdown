@@ -11,13 +11,13 @@ A few weeks ago I started syncing my iTunes library between my computers with [D
 
 Before you do any of this, I would strongly recommend backing up your entire library somewhere safe by just coping the entire iTunes folder. For my nothing happened, but just to be safe, I would do it anyway.
 
-1. *Move your iTunes folder to your Dropbox folder.* This will probably take a really long time. For me it took about 8 hours.
-2. *Launch iTunes while holding the option key (shift on Windows).*
-3. *Click choose library* and choose your iTunes library folder in your Dropbox.
+1. ==Move your iTunes folder to your Dropbox folder.== This will probably take a really long time. For me it took about 8 hours.
+2. ==Launch iTunes while holding the option key (shift on Windows).==
+3. ==Click choose library== and choose your iTunes library folder in your Dropbox.
 
 That’s it. You’re done. After a ton of waiting, you’ll be good to go.
 
-Some important things to note, you’ll want to make sure you *do not use your library on more than one computer at the same time*. It will just make headaches for you. I had to go without my music for almost a whole day because it was uploading for a really long time and then had to download on my other computer for a really long time.
+Some important things to note, you’ll want to make sure you ==do not use your library on more than one computer at the same time==. It will just make headaches for you. I had to go without my music for almost a whole day because it was uploading for a really long time and then had to download on my other computer for a really long time.
 
 You should also make sure you have enough disk space for your library on all of your computers that you use [Dropbox][] on. If you don’t it will make for some fun issues.
 

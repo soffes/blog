@@ -7,7 +7,7 @@ tags: [business, life, podcast]
 
 From Adam:
 
-> Core take away? **Embrace risk.** <i>Stay focused.</i>
+> Core take away? **Embrace risk.** *Stay focused.*
 
 *I think that's the heart of what I have to say. Focus and [doing](http://soff.es/how-to-learn) are key.*
 

@@ -23,7 +23,7 @@ After messing around for a little while longer, I noticed that a lot of time was
 
 #### Memory
 
-I had a few guess on how to cut memory usage while converting large amounts of JSON strings into `NSManagedObject`s. My guess was that a ton of objects needed to be autoreleased but the `NSAutoreleasePool` wasn't being drained until the operation finished. The simple solution for this to *add a well-placed `NSAutoreleasePool` around problem code*. This took a few tries to get in the right spot. I would put it where I think most of the temporary objects were being created and then watch the object allocations instrument to make sure it got flatter.
+I had a few guess on how to cut memory usage while converting large amounts of JSON strings into `NSManagedObject`s. My guess was that a ton of objects needed to be autoreleased but the `NSAutoreleasePool` wasn't being drained until the operation finished. The simple solution for this to ==add a well-placed `NSAutoreleasePool` around problem code==. This took a few tries to get in the right spot. I would put it where I think most of the temporary objects were being created and then watch the object allocations instrument to make sure it got flatter.
 
 Here was my first try:
 
@@ -35,7 +35,7 @@ After moving it to a more nested loop, here's the result:
 
 ![Second Try](http://assets.samsoff.es/posts/how-to-drastically-improve-your-app-with-an-afternoon-and-instruments/try-2.png)
 
-Once I got it in the right spot, *it was using under 2MB of memory for the entire process!* Score! Next problem.
+Once I got it in the right spot, ==it was using under 2MB of memory for the entire process!== Score! Next problem.
 
 #### Date Stuff
 
@@ -52,14 +52,14 @@ Here's the code:
     if (!string) {
         return nil;
     }
-    
+
     struct tm tm;
-    time_t t;    
-    
+    time_t t;
+
     strptime([string cStringUsingEncoding:NSUTF8StringEncoding], "%Y-%m-%dT%H:%M:%S%z", &tm);
     tm.tm_isdst = -1;
     t = mktime(&tm);
-    
+
     return [NSDate dateWithTimeIntervalSince1970:t + [[NSTimeZone localTimeZone] secondsFromGMT]];
 }
 
@@ -72,12 +72,12 @@ Here's the code:
     timeinfo = localtime(&rawtime);
 
     strftime(buffer, 80, "%Y-%m-%dT%H:%M:%S%z", timeinfo);
-    
+
     return [NSString stringWithCString:buffer encoding:NSUTF8StringEncoding];
 }
 ```
 
-See, it's not too crazy. *Using the C date stuff took my date parsing from 7.4 seconds to 300ms. Talk about a performance boost!* (I updated [SSTookit](http://github.com/samsoffes/sstoolkit)'s [NSDate category](https://github.com/samsoffes/sstoolkit/blob/master/SSToolkit/NSDate%2BSSToolkitAdditions.h) to use this new code.)
+See, it's not too crazy. ==Using the C date stuff took my date parsing from 7.4 seconds to 300ms. Talk about a performance boost!== (I updated [SSTookit](http://github.com/samsoffes/sstoolkit)'s [NSDate category](https://github.com/samsoffes/sstoolkit/blob/master/SSToolkit/NSDate%2BSSToolkitAdditions.h) to use this new code.)
 
 #### Regular Expression
 
@@ -89,9 +89,9 @@ I have several `NSString` categories in my application for doing various things.
     if (!regex) {
         regex = [[NSRegularExpression alloc] initWithPattern:@"(?:_)(.)" options:0 error:nil];
     }
-    
+
     // Use regex...
-    
+
     return string;
 }
 ```

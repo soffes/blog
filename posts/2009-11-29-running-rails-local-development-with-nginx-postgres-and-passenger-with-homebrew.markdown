@@ -40,7 +40,7 @@ This probably goes without saying, but you'll need [Xcode installed](http://deve
 
         $ brew install postgresql
 
-    After the installation completes, there will be instructions on how to initialize the database, start the server, start the server at login, and install the pg gem. **Do all of this.**
+    After the installation completes, there will be instructions on how to initialize the database, start the server, start the server at login, and install the pg gem. ==Do all of this.==
 
 ### Server Configuration
 
@@ -176,7 +176,7 @@ If you forgot to copy the commands out of the PostgreSQL install, here's how to 
 
 Before, I found myself typing `sudo apachectl restart` a lot to reload my application. Now, you would run `sudo nginx -s reload` to reload the server configuration and restart the app. (You can of course do the `touch tmp/restart.txt` method as well.)
 
-That probably seemed a bit tedious, but now all you have to do is create a virtual host in Nginx, add it your your hosts file, and create your database. I really like developing locally like this. [Homebrew][] makes this entire process *very easy*.
+That probably seemed a bit tedious, but now all you have to do is create a virtual host in Nginx, add it your your hosts file, and create your database. I really like developing locally like this. [Homebrew][] makes this entire process ==very easy==.
 
 If you have any issues, feel free to [send me an email](mailto:sam@samsoff.es) and I'll see what I can do. (I really need to get comments going on here don't I)
 
