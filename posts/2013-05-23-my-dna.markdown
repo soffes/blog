@@ -1,9 +1,4 @@
----
-title: My DNA
-tags: [genetics]
----
-
-Recently, I spit in a plastic tube and mailed it to California. While that sounds like a fun prank, it was to get my DNA tested by [23andMe](http://23andme.com). The first few minutes of [this video](http://refactor.tv/31) show the unboxing/spitting.
+Recently, I spit in a plastic tube and mailed it to California. While that sounds like a fun prank, it was to get my DNA tested by [23andMe](http://refer.23andme.com/a/clk/4VL1gj). The first few minutes of [this video](http://refactor.tv/31) show the unboxing/spitting.
 
 23andMe is a really neat company that has been around since 2007. They process your DNA and tell you what it means. It's only $99 to get yours tested.
 
@@ -39,11 +34,11 @@ Type 1 Diabetes                  | 0.17%
 
 Of the ones that had increased risk, none of them were too scary thankfully. Before they tell you a few of them, they present a ton of information and you have to click I understand before they tell you the result (Alzheimer's for one). Thankfully, I have a lower risk for all of those.
 
-### Ancestory
+### Ancestry
 
 I knew my mother's side was British before coming to America in the colonies. Seeing a tad of Native American and African in there makes sense. I knew there was some Cherokee in there, so it was cool to see the results matched that. You can really drill down on this graph. Here's the overview though:
 
-![Ancestory](http://assets.samsoff.es/posts/my-dna/ancestory.png)
+![Ancestry](http://assets.samsoff.es/posts/my-dna/ancestory.png)
 
 This wasn't as interesting to me as the health/traits stuff, but still pretty cool.
 
