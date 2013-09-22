@@ -9,7 +9,7 @@ If you want to learn something, just start doing whatever you want to learn.
 
 If you want to learn iOS, pick something to work on and start. "But I don't know Objective-C." Okay, Google "getting started with Objective-C" or [buy a book](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321821521/ref=sr_1_1?ie=UTF8&qid=1343352738&sr=8-1&keywords=iOS+programming). If you run into something you can't figure out, Google it, search StackOverflow, or ask a friend. This technique applies to anything.
 
-==Learning a bunch of stuff before trying to do is useless.== The college approach is worthless==. Let's say you spent 4 years learning computer science, graduated, and then tried to make an app. Now you are going to do this same thing. Learn as you go for the things you don't already know. I'd wager you spent a ton of time learning things you aren't going to use for this project or even ever.
+==Learning a bunch of stuff before trying to do is useless.== The college approach is worthless.^1 Let's say you spent 4 years learning computer science, graduated, and then tried to make an app. Now you are going to do this same thing. Learn as you go for the things you don't already know. I'd wager you spent a ton of time learning things you aren't going to use for this project or even ever.
 
 ==Learn what you want to learn.== This keeps you motivated and excited. ==Motivation is a powerful tool.==
 
@@ -19,4 +19,6 @@ I know a lot of people that try to understand everything about iOS, Rails, or wh
 
 ==So, go start doing *right now*.== Seriously, close this blog post and fire up Google. There's no time like the present.
 
-> *This definitely has exceptions. Doctors, please don't learn by doing on me.
+---
+
+^1 This definitely has exceptions. Doctors, please don't learn by doing on me.
