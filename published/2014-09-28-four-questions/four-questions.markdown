@@ -1,5 +1,3 @@
-# Four Questions
-
 I recently got an email from a college sophomore that had some questions about getting started. Asked him if it would be okay to answer publicly and he for it.
 
 > #1 How did you begin programming?
@@ -49,4 +47,4 @@ I’ve been full-time freelance for over a year now this time around. The bigges
 
 ## Final Thoughts
 
-Hopefully some of that was useful. I could go on and on about freelance work. If you take anything away from this, it should be ==be resourceful, you can do it==.
+Hopefully some of that was useful. I could go on and on about freelance work. If you take anything away from this, it should be to ==be resourceful, you can do it==.
