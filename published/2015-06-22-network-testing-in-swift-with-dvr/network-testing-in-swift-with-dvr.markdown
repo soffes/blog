@@ -4,7 +4,7 @@ Networking testing is hard. There’s a few approaches. The most common I’ve s
 
 Personally, I’ve never been a fan of [mocks and stubs](https://en.wikipedia.org/wiki/Mock_object). At some point you just end up testing your mocks and stubs instead of your real code. When it comes to testing, I want unit tests to test logic and integration tests to test compositions.
 
-I think focusing on testing everything in isolation isn’t great. If you have stuff that is hard to test in isolation, either it should be redesigned to more incapsulated or due to the nature of it, you need to test it at a higher level.
+I think focusing on testing everything in isolation isn’t great. If you have stuff that is hard to test in isolation, either it should be redesigned to more encapsulated or due to the nature of it, you need to test it at a higher level.
 
 
 ## Testing Strategies
