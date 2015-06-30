@@ -1,3 +1,13 @@
+---
+cover_image: cover.png
+tags:
+- product
+- launch
+- mac
+- design
+- apple
+---
+
 # Redacted for Mac Launch
 
 Yesterday, [Redacted for Mac](https://itunes.apple.com/app/redacted/id984968384?mt=12&uo=6&at=1l3vmtU&ct=) hit the App Store. It's this little app I've been working on here and there to quickly hide parts of an image. Here's a one minute [video demo](https://vimeo.com/126281352) if you want the quick rundown.
@@ -14,7 +24,7 @@ There were 37 guesses. I threw out the [lowest](https://twitter.com/bradenhamm/s
 
 Here are the actual results:
 
-![Results](/content/images/2015/05/Screen-Shot-2015-05-06-at-7-32-29-AM.png)
+![Results](sales-screenshot.png)
 
 7 of those units were promo codes I sent out. Only 59 of those units were in the US. ==It's pretty nuts that 59 sales is top paid on the Mac App Store in the US.==
 

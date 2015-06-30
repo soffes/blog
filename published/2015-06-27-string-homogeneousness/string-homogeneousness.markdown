@@ -1,3 +1,9 @@
+---
+tags:
+- engineering
+- swift
+---
+
 # String Homogeneousness Algorithms
 
 Today, I [tweeted](https://twitter.com/soffes/status/614877572388630528) the following code while I was working on [Whiskey](http://usewhiskey.com):
@@ -79,4 +85,3 @@ extension String {
 ```
 
 Fantastic.
-

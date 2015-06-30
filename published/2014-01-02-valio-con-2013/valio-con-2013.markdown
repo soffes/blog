@@ -1,5 +1,7 @@
 ---
-cover_image: 1B0i3o1I0y160z3N0u0N3w0t0w3y3b0w.jpg
+cover_image: cover.jpg
+tags:
+- talk
 ---
 
 # Valio Con 2013

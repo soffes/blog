@@ -1,5 +1,7 @@
 ---
-cover_image: 013T2z2S25141U3k0d0i2H0K0F272u05.jpg
+cover_image: cover.jpg
+tags:
+- podcast
 ---
 
 # Happy Monday

@@ -1,3 +1,13 @@
+---
+cover_image: cover.png
+tags:
+- product
+- launch
+- engineering
+- design
+- opensource
+---
+
 # Litely
 
 For the last 5 months, I’ve been working on [Litely for iOS](https://itunes.apple.com/app/litely/id850707754?mt=8&amp;uo=4&amp;at=1l3vmtU). It’s a photo app for iOS designed by my friend [Cole Rise](https://twitter.com/colerise) that I had the pleasure of building. Litely is available for iPhone and iPad, in 14 languages, starting today!
@@ -38,11 +48,11 @@ For example, exposure is a smart exposure. If you did a plain exposure adjust, i
 
 The compare view is probably my favorite thing. Cole posted this photo during the development of the app:
 
-![Unknown](https://roon-media.s3.amazonaws.com/blogs/1/1r0B3p350Z023Z020R303B0O0D133u3r/giant.jpg)
+![Before & After](compare.jpg)
 
 I thought it would be awesome to show this in the store for the sample images. I proposed that holding would animate in the before view masked. Cole was into running with the idea and it turned out really well. Here’s the final version in the app:
 
-![iOS Simulator Screen shot May 7, 2014, 10,52,36 PM](https://roon-media.s3.amazonaws.com/blogs/1/070L1p0o361z2d2k3Y1V3o3k1t3R110Z/giant.png)
+![iOS Simulator Screen shot May 7, 2014, 10,52,36 PM](screenshot.png)
 
 ==I implemented this all using layer animations and masks.== It’s probably my new favorite thing in iOS development. It’s been there since the beginning, but I’ve found a bunch of really great uses for masks lately. I use masks a bunch of other places throughout the app.
 

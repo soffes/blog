@@ -1,5 +1,10 @@
 ---
-cover_image: 1s2A0e1M341q1I1w2i19070k1G0g3G30.png
+cover_image: cover.png
+tags:
+- product
+- launch
+- engineering
+- design
 ---
 
 # Coins

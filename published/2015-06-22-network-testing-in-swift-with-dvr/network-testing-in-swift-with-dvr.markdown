@@ -1,3 +1,10 @@
+---
+tags:
+- engineering
+- opensource
+- swift
+---
+
 # Network Testing in Swift with DVR
 
 Networking testing is hard. There’s a few approaches. The most common I’ve seen is stubbing requests. [OCMock](https://github.com/erikdoe/ocmock) is a [common approach](http://ashfurrow.com/blog/your-first-objective-c-unit-test-with-ocmock/).

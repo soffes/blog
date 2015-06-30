@@ -1,3 +1,8 @@
+---
+tags:
+- qa
+---
+
 # Four Questions
 
 I recently got an email from a college sophomore that had some questions about getting started. Asked him if it would be okay to answer publicly and he was for it.

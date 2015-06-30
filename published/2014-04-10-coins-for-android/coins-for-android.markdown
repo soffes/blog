@@ -1,3 +1,10 @@
+---
+tags:
+- product
+- launch
+- android
+---
+
 # Coins For Android
 
 ==Yesterday, I released my first Android app, [Coins](http://getcoinsapp.com), that I built in a day.== I first [made Coins in a day](http://sam.roon.io/coins) for iOS in December. It’s a simple app for seeing how much a certain amount of bitcoins are worth.
