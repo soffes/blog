@@ -1,3 +1,9 @@
+---
+tags:
+- video
+- hellointernet
+---
+
 # Hello Internet: Throwback Mountian Dew
 
 Throwback Mountian Dew is the best beverage ever created.

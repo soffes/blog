@@ -1,5 +1,7 @@
 ---
 cover_image: cover.jpg
+tags:
+- audio
 ---
 
 # Those Were The Days

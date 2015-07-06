@@ -2,6 +2,7 @@
 cover_image: cover.jpg
 tags:
 - science
+- video
 ---
 
 # Quantum Data Teleportation

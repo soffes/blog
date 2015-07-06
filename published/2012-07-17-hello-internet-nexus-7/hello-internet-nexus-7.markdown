@@ -1,5 +1,8 @@
 ---
 cover_image: cover.jpg
+tags:
+- video
+- hellointernet
 ---
 
 # Hello Internet: Nexus 7

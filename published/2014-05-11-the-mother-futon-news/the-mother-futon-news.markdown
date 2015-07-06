@@ -1,3 +1,8 @@
+---
+tags:
+- video
+---
+
 # The Mother Futon News
 
 The Mother Futon News Season 2 is coming soon! If you haven't seen [season 1](http://motherfuton.com), it is incredible.

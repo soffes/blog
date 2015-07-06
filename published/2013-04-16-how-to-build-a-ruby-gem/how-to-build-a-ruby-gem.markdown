@@ -1,3 +1,9 @@
+---
+tags:
+- video
+- screencast
+---
+
 # How to Build a Ruby Gem
 
 This is my first post on the [Treehouse Blog](http://blog.teamtreehouse.com). I did an 8 minute video tutorial on how to make a Ruby gem with Bundler. Check it out.

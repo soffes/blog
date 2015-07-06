@@ -1,3 +1,9 @@
+---
+tags:
+- video
+- hellointernet
+---
+
 # Hello Internet: Twitter
 
 Twitter is down a lot. I have some feelings about this.
@@ -6,4 +12,4 @@ Twitter is down a lot. I have some feelings about this.
 
 I know that Twitter's infrastructure is crazy. I know that writing that much all at once to the same place is really difficult. I'm just saying I wish they would solve the problem cause I want to use it more. I really do love Twitter and it really is quite impressive. Especially [#newtwitter](http://blog.twitter.com/2010/09/better-twitter.html).
 
-You can follow me on Twitter if you want to read about my random complaints, technology babel, or personal randomness. I'm [@samsoffes](http://twitter.com/samsoffes).
+You can follow me on Twitter if you want to read about my random complaints, technology babel, or personal randomness. I'm [@soffes](http://twitter.com/soffes).

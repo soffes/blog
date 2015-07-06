@@ -1,3 +1,9 @@
+---
+tags:
+- video
+- screencast
+---
+
 # Screencast: Reuse Code Across iPhone Applications with a Static Library and Git
 
 A few of my friends have recently asked me how to share code between their applications. Here's a screencast walking you through how I solve this problem. It works really well for me. I hope this is useful to you.

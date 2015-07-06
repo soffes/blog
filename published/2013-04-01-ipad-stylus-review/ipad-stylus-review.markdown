@@ -1,5 +1,7 @@
 ---
 cover_image: cover.jpg
+tags:
+- video
 ---
 
 # iPad Stylus Review

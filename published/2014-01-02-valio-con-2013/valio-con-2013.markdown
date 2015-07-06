@@ -1,6 +1,7 @@
 ---
 cover_image: cover.jpg
 tags:
+- video
 - talk
 ---
 

@@ -1,3 +1,9 @@
+---
+tags:
+- video
+- hellointernet
+---
+
 # Hello Internet: Selling My Stuff
 
 So, I'm selling all of my stuff.

@@ -1,3 +1,8 @@
+---
+tags:
+- video
+---
+
 # 52 Profiles Video
 
 I recently shot a video of my good friend, [Kyle Steed](http://kylesteed.com), and his [52 Profiles](http://52profiles.com) project before I moved from Texas. It's a really neat project he's been doing the last year where he draws a different person's profile ever week.

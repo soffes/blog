@@ -1,3 +1,10 @@
+---
+tags:
+- video
+- screencast
+- opensource
+---
+
 # Setting Up Open Source and Live Coding — Part 2
 
 Part 2 of this [SAMGradientView](https://github.com/soffes/SAMGradientView) tutorial covers how to make a good open source library. I cover writing a good readme, writing documentation, testing, and publishing a pod to CocoaPods. Check out [Part 1](http://sam.roon.io/setting-up-open-source-and-live-coding-part-1) if you missed it before.

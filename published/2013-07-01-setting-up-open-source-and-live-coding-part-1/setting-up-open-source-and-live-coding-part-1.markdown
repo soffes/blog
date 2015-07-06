@@ -1,3 +1,10 @@
+---
+tags:
+- video
+- screencast
+- opensource
+---
+
 # Setting Up Open Source and Live Coding – Part 1
 
 This is a play-by-play screencast of me moving a component out of SSToolkit into its own library. I cover setting up a good open source component, writing Core Graphics drawing code, a bit of low-level C stuff, and some of my workflow.
