@@ -1,5 +1,5 @@
 ---
-cover_image: 1E1q1x0G2k240f20000u190c3v2r3M3H.jpg
+cover_image: cover.jpg
 ---
 
 # iPad Stylus Review

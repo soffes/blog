@@ -1,5 +1,5 @@
 ---
-cover_image: 2u2z0e3o2W3i1H2h3u2c1m3v2k1q0y2g.jpg
+cover_image: cover.jpg
 ---
 
 # My DNA
@@ -44,7 +44,7 @@ Of the ones that had increased risk, none of them were too scary thankfully. Bef
 
 I knew my mother's side was British before coming to America in the colonies. Seeing a tad of Native American and African in there makes sense. I knew there was some Cherokee in there, so it was cool to see the results matched that. You can really drill down on this graph. Here's the overview though:
 
-![Ancestry](15421K432604013J3c3N1X2j1N0H3J28.png)
+![Ancestry](chart.png)
 
 This wasn't as interesting to me as the health/traits stuff, but still pretty cool.
 

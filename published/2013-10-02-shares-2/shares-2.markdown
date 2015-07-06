@@ -1,14 +1,14 @@
 ---
-cover_image: 2b103l3C0S2E040C0a1q173L2O043G16.png
+cover_image: cover.png
 ---
 
 # Shares 2
 
 [Shares 2](http://useshares.com) was released late last night. It's a major update to Shares that adds support 4-inch iPhone screens and ==a whole new design for iOS 7==. It's [available on the App Store](https://itunes.apple.com/app/shares-2/id717510981) right now!
 
-<img src="0K2i3f0m0d3K311n3W2G0S0w260t3C2Q.png" width="660" alt="Shares Screenshot">
+<img src="screenshots.png" width="660" alt="Shares Screenshot">
 
-<a href="https://itunes.apple.com/app/shares-2/id717510981" class="app-store" rel="external nofollow"><img src="shares2-app-store.svg" width="186" height="55" alt="Download on the App Store"></a>
+<a href="https://itunes.apple.com/app/shares-2/id717510981" class="app-store" rel="external nofollow"><img src="app-store.svg" width="186" height="55" alt="Download on the App Store"></a>
 
 ### Purpose
 
@@ -34,13 +34,13 @@ I ended up staying up super late that night working on it. The next day, I just 
 
 ### The Icon
 
-I was about to hire the same designer to make a new icon to fit in with iOS 7 more, but wanted to try on my own for a bit. The end result was alright, but the steps there were painful. (I made a [wallpaper](shares2-stab.png) of the worst one.)
+I was about to hire the same designer to make a new icon to fit in with iOS 7 more, but wanted to try on my own for a bit. The end result was alright, but the steps there were painful. (I made a [wallpaper](stab.png) of the worst one.)
 
 ==Most of designing an icon for iOS 7 is simplifying over and over.== I made something that had tons of detail I spent hours on and realized it had to be simpler. It was really hard removing more and more but still having it keep it's shape and meaning.
 
 Overall, I'm happy with it. ==I'm a little sad to see the skeuomorphism days end though.== Here's the final result:
 
-<img src="shares2-icon.svg" width="256" height="256" alt="Shares Icon">
+<img src="icon.svg" width="256" height="256" alt="Shares Icon">
 
 ### Nerdy Stuff
 
@@ -56,4 +56,4 @@ They'll be more cool nerdy stuff in a future update to talk about.
 
 Thanks to everyone that downloaded Shares 1 and Shares 2. ==I am truly grateful for your support.== If you haven't already, [download Shares 2](https://itunes.apple.com/app/shares-2/id717510981) and leave a review. It would mean a lot to me.
 
-<a href="https://itunes.apple.com/app/shares-2/id717510981" class="app-store" rel="external nofollow"><img src="shares2-app-store.svg" width="186" height="55" alt="Download on the App Store"></a>
+<a href="https://itunes.apple.com/app/shares-2/id717510981" class="app-store" rel="external nofollow"><img src="app-store.svg" width="186" height="55" alt="Download on the App Store"></a>

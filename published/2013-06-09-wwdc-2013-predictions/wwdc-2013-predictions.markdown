@@ -1,5 +1,5 @@
 ---
-cover_image: wwdc2013-cover.png
+cover_image: cover.png
 ---
 
 # WWDC 2013 Predictions
@@ -11,13 +11,13 @@ I've been thinking a ton about tomorrow's keynote. I think everyone has. This ye
 The big change this year besides how quiet it's been is that Ive is in charge of the software design for the first time. The banners around the Moscone are shockingly different:
 
 
-![iOS 7 Banner](wwdc2013-ios7.jpg)
+![iOS 7 Banner](ios7.jpg)
 
 
 The iOS 7 logo is ultra light which is a nice change from the glassy "6" from last year. What is even more shocking is the OS X banner:
 
 
-![10.9 Banner](wwdc2013-osx.jpg)
+![10.9 Banner](osx.jpg)
 
 
 Wow! I'm so excited to see the OS X refresh. ==There has been some speculation that they will both have a dramatically different design that will be unified between the two.== I think the banners are a pretty good case for this.

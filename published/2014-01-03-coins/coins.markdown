@@ -11,7 +11,7 @@ tags:
 
 I've had the idea for an app that would simply show you the value of your [bitcoins](http://en.wikipedia.org/wiki/Bitcoin) at a glance. Lots of [Shares](http://getsharesapp.com) users have requested bitcoin support in Shares, but it would be very different since it's a lot different than a stock. ==[Coins](http://getcoinsapp.com) is just a simple little app that tells you how much your bitcoins are worth.==
 
-<a href="https://itunes.apple.com/app/id787299853" class="app-store" rel="external nofollow"><img src="coins-app-store.svg" width="186" height="55" alt="Download on the App Store"></a>
+<a href="https://itunes.apple.com/app/id787299853" class="app-store" rel="external nofollow"><img src="app-store.svg" width="186" height="55" alt="Download on the App Store"></a>
 
 
 ## Starting
@@ -24,7 +24,7 @@ My wife and I started watching [Chuck](http://en.wikipedia.org/wiki/Chuck_(TV_se
 
 About an episode of Chuck later, I had something that basically worked. It could pull the conversion rate from an API, get the number of bitcoins a user had, and show the total value. Awesome!
 
-<img src="1q2Q332u3G3Z2I0A2Q2v1s1h2y2X1v3F.png" alt="Sorta working" width="320" style="border:1px solid #eee">
+<img src="screenshot1.png" alt="Sorta working" width="320" style="border:1px solid #eee">
 
 ## Design
 
@@ -32,7 +32,7 @@ Now that I had an app that sorta worked, I wanted to see how far I could get wit
 
 A few minutes later I had something I was sorta happy with. It was just a gradient with white text at varying alpha. Easy enough. Yay iOS 7 for lowering the barrier to entry.
 
-<img src="2m010H18463L3b3f0o1A3r31160F1j1P.png" alt="Rough Design" width="320">
+<img src="screenshot2.png" alt="Rough Design" width="320">
 
 ## Implementation
 
@@ -46,7 +46,7 @@ It took awhile to figure out how to adapt one of the elements in my crap version
 
 At first, it was just a dollar sign over the gradient that matches the background of the app. My lovely wife said she didn't know that it was for bitcoins by looking at the app. Made me feel dumb. Swapped it out with the bitcoin logo and was much happier with it. (Except for the fact that the logo is tilted. That drives me nuts.)
 
-![Icons](2n2O3f2L3d2I3S2W1i1K1g2f381O0a15.png)
+![Icons](icons.png)
 
 ## Lessons
 
@@ -60,4 +60,4 @@ Overall this was a great experience and a good day. I really impressed myself wi
 
 Hopefully you learned something or at least found something interesting. [Check out Coins](https://itunes.apple.com/app/id787299853) and let me know what you think [on Twitter](https://twitter.com/soffes).
 
-<a href="https://itunes.apple.com/app/id787299853" class="app-store" rel="external nofollow"><img src="coins-app-store.svg" width="186" height="55" alt="Download on the App Store"></a>
+<a href="https://itunes.apple.com/app/id787299853" class="app-store" rel="external nofollow"><img src="app-store.svg" width="186" height="55" alt="Download on the App Store"></a>

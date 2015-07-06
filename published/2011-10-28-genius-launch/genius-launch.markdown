@@ -1,5 +1,5 @@
 ---
-cover_image: 1Q3i1Z0T3y081Z1B3e2O3U0z3M18253g.jpg
+cover_image: cover.jpg
 ---
 
 # Genius Launch
@@ -14,7 +14,7 @@ It's basically super high quality designer goods (clothes, ties, bags, etc). I k
 
 So besides having stuff that I really want and a great design, they have a ==brilliant social sharing incentive==.
 
-![Everlane Screenshot](2X240y1t0l3P1P0K1R0B2N0h1d3t281h.png)
+![Everlane Screenshot](screenshot.png)
 
 It's simple really. If you want to see more, you have to [invite friends](http://www.everlane.com/i/f8leoo) to get access. You only need to invite one. Simple as that.
 

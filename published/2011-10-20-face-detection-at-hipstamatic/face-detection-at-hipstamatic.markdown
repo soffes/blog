@@ -1,5 +1,5 @@
 ---
-cover_image: 0i3V050D1D3o1w1D091F1a0h0k3C0Z1V.jpg
+cover_image: cover.jpg
 ---
 
 # Face Detection at Hipstamatic
@@ -41,7 +41,7 @@ Since we already had HipstaProcessor going in IncrediBooth, it was easy to simpl
 
 ### Haus O' Haunt
 
-<a href="http://itunes.apple.com/app/incredibooth/id378754705?mt=8" rel="external nofollow"><img src="3u461z0F2m1T1T1i0H473Y141Q3O2J3h.jpg" alt="Haus O' Haunt Sample" style="float:left;padding:0.25em 1em 1em 0" /></a> In [IncrediBooth 1.3](http://itunes.apple.com/app/incredibooth/id378754705?mt=8) (which comes out October 21st) ==we added a new booth called Haus O' Haunt== that features face detection (among some other new fun effects). This is our Halloween booth, and we went crazy making some spooky effects. It was a really fun time, and I think the effects turned out really great!
+<a href="http://itunes.apple.com/app/incredibooth/id378754705?mt=8" rel="external nofollow"><img src="result.jpg" alt="Haus O' Haunt Sample" style="float:left;padding:0.25em 1em 1em 0" /></a> In [IncrediBooth 1.3](http://itunes.apple.com/app/incredibooth/id378754705?mt=8) (which comes out October 21st) ==we added a new booth called Haus O' Haunt== that features face detection (among some other new fun effects). This is our Halloween booth, and we went crazy making some spooky effects. It was a really fun time, and I think the effects turned out really great!
 
 The first setting in the booth, called Markup, randomly finds some of the faces and chooses a random marker stroke to place over the face. It's really fun to watch it in action!
 

@@ -1,5 +1,5 @@
 ---
-cover_image: 0R081k0v0g0C2P0G0h1Q2j0X2647061f.jpg
+cover_image: cover.jpg
 ---
 
 # Coda 2

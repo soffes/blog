@@ -1,5 +1,5 @@
 ---
-cover_image: 102Q3P052B0j1n0j15261r3710320g1a.jpg
+cover_image: cover.jpg
 ---
 
 # SuperConf 2013

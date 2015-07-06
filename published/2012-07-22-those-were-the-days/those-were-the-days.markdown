@@ -1,5 +1,5 @@
 ---
-cover_image: 2D3b3u0n0k3q3N0Y1f1c3a2d0U0N151h.jpg
+cover_image: cover.jpg
 ---
 
 # Those Were The Days
@@ -10,7 +10,7 @@ I wrote [a post in 2008 about choosing programming over music](http://samsoff.es
 
 ==It's interesting that the best times in my life have nothing to do with programming, design, making products, or any of the stuff that consumes my life today.== I haven't even touched my drums or a guitar in months. It's funny how things change.
 
-![Matt's Basement](2D3b3u0n0k3q3N0Y1f1c3a2d0U0N151h.jpg)
+![Matt's Basement](basement.jpg)
 
 Anyway, this is the beginning of Finding Chesterfield. I drove up from Dallas to Oklahoma City (where Matt lives) to spend the weekend playing music. We ended up writing like 5 songs. It was awesome.
 

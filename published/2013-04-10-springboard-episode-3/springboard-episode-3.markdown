@@ -1,5 +1,5 @@
 ---
-cover_image: 0y470e0J2J0s3q0Y14253Z2U3S3E3r0E.jpg
+cover_image: cover.jpg
 ---
 
 # Springboard Episode 3

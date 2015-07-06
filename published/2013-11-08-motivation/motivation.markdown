@@ -1,5 +1,5 @@
 ---
-cover_image: 2U3s3O0C2M2f1f0P3a0z1c470b3t2j2O.jpg
+cover_image: cover.jpg
 ---
 
 # Motivation

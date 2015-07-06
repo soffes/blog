@@ -1,5 +1,5 @@
 ---
-cover_image: 1k0R2y2r3S2E1V0p2i1H3D1f0P3J0w3d.jpg
+cover_image: cover.jpg
 ---
 
 # Let's Hope

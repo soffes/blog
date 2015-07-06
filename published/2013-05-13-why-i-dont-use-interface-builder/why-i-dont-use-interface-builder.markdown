@@ -1,5 +1,5 @@
 ---
-cover_image: 0V401Y2B1f3h391m3x1A303N1g3Q1b3n.jpg
+cover_image: cover.jpg
 ---
 
 # Why I Don't Use Interface Builder

@@ -1,12 +1,12 @@
 ---
-cover_image: 2X0w3K3p2J3h08033B3A0A0E1t2Z0b3b.jpg
+cover_image: cover.jpg
 ---
 
 # Hipstamatic
 
 Lately I've been working with [Hipstamatic](http://heysynthetic.com) on a new really exciting product. I can't really say any more than that, but it's going to be awesome.
 
-![Haus of Hipstamatic](110T0a3b1R2g2h3j2I0q3p2y1n433r0L.jpg)
+![Haus of Hipstamatic](office.jpg)
 
 I've been having a lot of fun learning about image processing. Who knew writing your own [gaussian blur](http://en.wikipedia.org/wiki/Gaussian_blur) was really hard?
 

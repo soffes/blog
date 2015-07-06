@@ -1,5 +1,5 @@
 ---
-cover_image: 2F1n1N1e3F0Q0w3o3w22421g0W382J20.jpg
+cover_image: cover.jpg
 ---
 
 # Hello Internet: Nexus 7

@@ -1,5 +1,5 @@
 ---
-cover_image: 1q2M3K200g0U2I1m203K2M0y2P1e3222.jpg
+cover_image: cover.jpg
 ---
 
 # Making Roon Faster

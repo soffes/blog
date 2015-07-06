@@ -1,5 +1,5 @@
 ---
-cover_image: 0w2b2l0R040Z2x0w3t03362x3Z3G3d2m.jpg
+cover_image: cover.jpg
 ---
 
 # Raising Your Profile

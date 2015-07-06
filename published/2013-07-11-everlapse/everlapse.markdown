@@ -1,10 +1,10 @@
 ---
-cover_image: 1r1h3E0A060J3c1g3M2g0X2D0K1s3M04.jpg
+cover_image: cover.jpg
 ---
 
 # Everlapse
 
-[![Everlapse](0n1J2i18450b113B1b2i0K241T2f2c2G.png)](http://everlapse.com)
+[![Everlapse](icon.png)](http://everlapse.com)
 
 Today, my co-workers at [Seesaw](https://seesaw.co) and I launched a little side project called [Everlapse](http://everlapse.com). It's a fun app for sharing life, frame by frame.
 

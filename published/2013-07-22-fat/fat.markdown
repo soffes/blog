@@ -1,5 +1,5 @@
 ---
-cover_image: 1X421y0M3k33443L3M193R0B243g103j.jpg
+cover_image: cover.jpg
 ---
 
 # Fat

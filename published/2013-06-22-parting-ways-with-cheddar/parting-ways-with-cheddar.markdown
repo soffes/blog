@@ -1,5 +1,5 @@
 ---
-cover_image: 2z1h3H0H1U130U2d2e1K1O2L353r280C.jpg
+cover_image: cover.jpg
 ---
 
 # Parting Ways With Cheddar

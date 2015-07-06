@@ -1,5 +1,5 @@
 ---
-cover_image: 3M17471V0T2L380P3v0n2c1l211H470w.jpg
+cover_image: cover.jpg
 ---
 
 # Engagement Photos
@@ -10,6 +10,6 @@ Most of them were shot with his nice Canon gear. For a couple of them, he used m
 
 Anyway, here's a few of my favorites.
 
-![one](3c2R202D3f3b3q2t3F2M2M0V1e2s1P3Y.jpg)
+![one](one.jpg)
 
-![two](2T1I1Q213M2u191e2E1s3d0L2E1J2X3N.jpg)
+![two](two.jpg)

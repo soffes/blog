@@ -1,5 +1,5 @@
 ---
-cover_image: 3D05430x2S0C3J3H261f1Z1m1O0Y2g3n.jpg
+cover_image: cover.jpg
 ---
 
 # Tearing Up the Carpet

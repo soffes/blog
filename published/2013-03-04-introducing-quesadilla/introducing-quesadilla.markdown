@@ -1,5 +1,5 @@
 ---
-cover_image: 2K3v07181p142m0g2p2u1a1y472B0m1e.jpg
+cover_image: cover.jpg
 ---
 
 # Introducing Quesadilla

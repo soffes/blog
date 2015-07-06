@@ -1,12 +1,12 @@
 ---
-cover_image: 2M2j1o3K0F3r3W250W3Z1X0613041k2F.jpg
+cover_image: cover.jpg
 ---
 
 # Mac App Store
 
 [Cheddar for Mac](https://cheddarapp.com/mac/download) recently came out. A few days in, Apple featured it as New and Noteworthy! Here's the numbers:
 
-![Chart](0h3E261E2x1U442M3u1Y2D1t2v2r3T2i.png)
+![Chart](chart.png)
 
 For the iOS App Store, these would be terrible. Getting New and Noteworthy on the iOS App Store means at least tens of thousands of downloads per day. The Mac App Store is much more sparse.
 

@@ -1,5 +1,5 @@
 ---
-cover_image: 1b0Y3U0V1W0a2x1F281B1e1d0w080V05.jpg
+cover_image: cover.jpg
 ---
 
 # Sublime Text 2 Configuration

@@ -1,5 +1,5 @@
 ---
-cover_image: 123q2x1n320Y1W3L3x202q2w1B1I3X1L.jpg
+cover_image: cover.jpg
 ---
 
 # Space
@@ -8,7 +8,7 @@ I recently realized I kinda like space. A lot.
 
 I started following [Chris Hadfield](http://twitter.com/cmdr_hadfield) on Twitter a few months ago. Someone had retweeted [this tweet](https://twitter.com/Cmdr_Hadfield/status/294535736621936642) that had an amazing photo of San Francisco.
 
-![San Francisco](2y1Z461v2M1G2U0k3E262i2Z1N0Q1a0R.jpg)
+![San Francisco](sanfrancisco.jpg)
 
 So amazing. (This picture is actually my cover picture on Facebook, Twitter, etc.) Anyway, I started reading more about Chris and these amazing photos. He posts [tons of photos](https://twitter.com/Cmdr_Hadfield/media/grid).
 

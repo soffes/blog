@@ -1,5 +1,5 @@
 ---
-cover_image: 1Z1q1t0e1O3P2A0B1i1T240d2A400M44.jpg
+cover_image: cover.jpg
 ---
 
 # Onward

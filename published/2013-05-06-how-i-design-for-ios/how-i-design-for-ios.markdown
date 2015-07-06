@@ -1,5 +1,5 @@
 ---
-cover_image: 1K3u0B0S0F1p092F0h0k451w0c1E3h3X.jpg
+cover_image: cover.jpg
 ---
 
 # How I Design for iOS

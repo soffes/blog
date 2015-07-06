@@ -22,7 +22,7 @@ Pretty simple. We'll be rolling out real documentation and such soonish.
 
 I'm also pretty proud of the apps grid I added.
 
-[![Screen Shot 2013-06-20 at 1,01,16 PM](133w2k2u221Z3v2S3d2v3H0s0v1W032k.png)](http://soff.es)
+[![Screen Shot 2013-06-20 at 1,01,16 PM](screenshot.png)](http://soff.es)
 
 This is the first time I put the stuff I've worked on in one spot. A lot of the apps I've worked on aren't in this list though. A depressing amount of the apps I've spent tons of time on never shipped or are now pulled from sale. Oh well.
 
