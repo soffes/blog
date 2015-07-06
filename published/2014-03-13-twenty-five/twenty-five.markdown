@@ -7,7 +7,7 @@ tags:
 
 Today, I’m twenty-five. A quarter century. According to [this](http://gosset.wharton.upenn.edu/mortality/perl/CalcForm.html), I’ll live 82.53 years. I have 69.7% of my life remaining. ==So much left to do.==
 
-I set a goal to [retire at 25](http://sam.roon.io/retiring-at-25) (which really means financially independent) about two years ago. While I still have to work, I have plenty of time to work on [whatever I want](http://usewhiskey.com). I don’t consider the goal met, but I’m on my way. I’ll take that.
+I set a goal to [retire at 25](/retiring-at-25) (which really means financially independent) about two years ago. While I still have to work, I have plenty of time to work on [whatever I want](http://usewhiskey.com). I don’t consider the goal met, but I’m on my way. I’ll take that.
 
 Now that I’m older, I feel more perspective. ==I still constantly disappoint myself.== I wish I was more productive. I feel like I can accomplish anything and then work on stuff that doesn’t matter or no one will ever see. It’s depressing.
 

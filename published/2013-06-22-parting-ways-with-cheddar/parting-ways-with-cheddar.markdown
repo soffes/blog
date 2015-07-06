@@ -4,7 +4,7 @@ cover_image: cover.jpg
 
 # Parting Ways With Cheddar
 
-I made this thing called [Cheddar](https://cheddarapp.com) last year. I'm pretty proud of it. I wrote why I stopped working on it [here](http://sam.roon.io/changes). I talked about this whole process at length in Founders Talk [episode 38](http://5by5.tv/founderstalk/38), [episode 39](http://5by5.tv/founderstalk/39), and little in [episode 40](http://5by5.tv/founderstalk/40). (Episode 41 isn't about me. Could have sworn I took over that show.)
+I made this thing called [Cheddar](https://cheddarapp.com) last year. I'm pretty proud of it. I wrote why I stopped working on it [here](/changes). I talked about this whole process at length in Founders Talk [episode 38](http://5by5.tv/founderstalk/38), [episode 39](http://5by5.tv/founderstalk/39), and little in [episode 40](http://5by5.tv/founderstalk/40). (Episode 41 isn't about me. Could have sworn I took over that show.)
 
 Anyway, I posted that I was selling Cheddar a few months back. This has been a very interesting process. I learned a lot and met some really cool people. My biggest take away is most people just wanted to find out a lot because they were curious and were just wasting my time.
 

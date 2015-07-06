@@ -7,7 +7,7 @@ tags:
 
 # Coins For Android
 
-==Yesterday, I released my first Android app, [Coins](http://getcoinsapp.com), that I built in a day.== I first [made Coins in a day](http://sam.roon.io/coins) for iOS in December. It’s a simple app for seeing how much a certain amount of bitcoins are worth.
+==Yesterday, I released my first Android app, [Coins](http://getcoinsapp.com), that I built in a day.== I first [made Coins in a day](/coins) for iOS in December. It’s a simple app for seeing how much a certain amount of bitcoins are worth.
 
 <a href="http://getcoinsapp.com/download/android" class="app-store" rel="external nofollow"><img src="http://getcoinsapp.com/assets/google-play.svg" width="186" height="55" alt="Get it on Google Play"></a>
 
@@ -23,7 +23,7 @@ Overall, I don’t like Java that much. There are things I appreciate and wish o
 
 ## Building Coins for Android
 
-I [made the iOS version in a day](http://sam.roon.io/coins) and made the Android version in a day. I like this pattern. It felt pretty good to build my first app on a foreign platform in just a day. Granted, it’s a stupid simple app. Having worked through several Treehouse courses, applying what I had learned and Googling for the rest made it pretty easy.
+I [made the iOS version in a day](/coins) and made the Android version in a day. I like this pattern. It felt pretty good to build my first app on a foreign platform in just a day. Granted, it’s a stupid simple app. Having worked through several Treehouse courses, applying what I had learned and Googling for the rest made it pretty easy.
 
 If you’re interested, check out [Coins on Google Play](http://getcoinsapp.com/download/android).
 

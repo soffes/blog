@@ -19,7 +19,7 @@ You can find the code so far for this on GitHub: [github.com/soffes/SAMGradientV
 * [SAMBadgeView](https://github.com/soffes/SAMBadgeView)
 * [Three20](https://github.com/facebook/three20)
 * [NimbusKit](http://nimbuskit.info)
-* [My blog post on ARC](http://sam.roon.io/automatic-reference-counting)
+* [My blog post on ARC](/automatic-reference-counting)
 
 Also note, this video is to give you a sense of how I work and hopefully teach you stuff along the way. There are a few edits. Mainly to save you time. I cut out about 12 minutes of me wasting time. There wasn’t anything of value you missed out on I promise. I’m just looking out for your time :)
 
