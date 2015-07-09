@@ -26,12 +26,6 @@ Static is written in Swift 2 so Xcode 7b3 is required. There aren't any dependen
 github "venmo/Static"
 ```
 
-You can also install with [CocoaPods](https://cocoapods.org):
-
-``` ruby
-pod 'Static'
-```
-
 For manual installation, it's recommended to add the project as a subproject to your project or workspace and adding the appropriate framework as a target dependency.
 
 
