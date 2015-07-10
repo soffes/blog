@@ -32,7 +32,7 @@ For manual installation, it's recommended to add the project as a subproject to 
 
 ## Usage
 
-An [example app](Example) is included demonstrating Static's functionality. Check that out first if you prefer to lean by example.
+An [example app](Example) is included demonstrating Static's functionality. Check that out first if you prefer to learn by example.
 
 
 ### Getting Started
