@@ -1,4 +1,5 @@
 ---
+cover_image: cover.jpg
 tags:
 - swift
 - opensource
