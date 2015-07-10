@@ -11,7 +11,7 @@ tags:
 
 Today, we open sourced a framework for iOS we've been using a ton internally called [Static](https://github.com/venmo/Static). It's a Swift 2 framework for working with static table views. We use it to power tons of screens in an upcoming project. It's also made prototyping table view-based things super productive.
 
-Static's goal is to separate model data from presentation. `Row`s and `Section`s are your “view models” for your cells. You simply specify a cell class to use and that handles all of the presentation. See the [usage](usage) section below for details.
+Static's goal is to separate model data from presentation. `Row`s and `Section`s are your “view models” for your cells. You simply specify a cell class to use and that handles all of the presentation. See the [Usage](https://github.com/venmo/Static/#usage) section below for details.
 
 
 ## Building
@@ -32,12 +32,12 @@ For manual installation, it's recommended to add the project as a subproject to 
 
 ## Usage
 
-An [example app](Example) is included demonstrating Static's functionality. Check that out first if you prefer to learn by example.
+An [example app](https://github.com/venmo/Static/blob/master/Example) is included demonstrating Static's functionality. Check that out first if you prefer to learn by example.
 
 
 ### Getting Started
 
-To use Static, you need to define [`Row`s](https://github.com/venmo/Static/Static/Row.swift) and [`Section`s](https://github.com/venmo/Static/Static/Section.swift) to describe your data. Here's a simple example:
+To use Static, you need to define [`Row`s](https://github.com/venmo/Static/blob/master/Static/Row.swift) and [`Section`s](https://github.com/venmo/Static/blob/master/Static/Section.swift) to describe your data. Here's a simple example:
 
 ```swift
 import Static
@@ -74,13 +74,13 @@ There are several custom cells provided:
 * `SubtitleCell` — Plain `UITableViewCell` with the `.Subtitle` style.
 * `ButtonCell` — Plain `UITableViewCell` with the `.Default` style. The `textLabel`'s `textColor` is set to the cell's `tintColor`.
 
-All of these conform to [`CellType`](https://github.com/venmo/Static/Static/CellType.swift). The gist of the protocol is one method:
+All of these conform to [`CellType`](https://github.com/venmo/Static/blob/master/Static/CellType.swift). The gist of the protocol is one method:
 
 ```swift
 func configure(row row: Row)
 ```
 
-This gets called by [`TableDataSource`](https://github.com/venmo/Static/Static/TableDataSource.swift) (which we'll look at more in a minute) to set the row on the cell. There is a default implementation provided by the protocol that simply sets the `Row`'s `text` on the cell's `textLabel`, etc. If you need to do custom things, this is a great place to hook in.
+This gets called by [`DataSource`](https://github.com/venmo/Static/blob/master/Static/DataSource.swift) (which we'll look at more in a minute) to set the row on the cell. There is a default implementation provided by the protocol that simply sets the `Row`'s `text` on the cell's `textLabel`, etc. If you need to do custom things, this is a great place to hook in.
 
 `Row` also has a `context` property. You can put whatever you want in here that the cell needs to know. You should try to use this as sparingly as possible.
 
@@ -125,10 +125,10 @@ The height returned to the table view will be the view's `bounds.height` so be s
 
 ### Working with the Data Source
 
-To hook up your `Section`s and `Row`s to a table view, simply initialize a `TableDataSource`:
+To hook up your `Section`s and `Row`s to a table view, simply initialize a `DataSource`:
 
 ```swift
-let dataSource = TableDataSource()
+let dataSource = DataSource()
 dataSource.sections = [
     Section(rows: [
         Row(text: "Hello")
@@ -142,12 +142,12 @@ Now assign your table view:
 dataSource.tableView = tableView
 ```
 
-Easy as that! If you modify your data source later, it will automatically update the table view for you. It is important that you don't change the table view's `dataSource` or `delegate`. The `TableDataSource` needs to be those so it can handle events correctly. The purpose of `Static` is to abstract all of that away from you.
+Easy as that! If you modify your data source later, it will automatically update the table view for you. It is important that you don't change the table view's `dataSource` or `delegate`. The `DataSource` needs to be those so it can handle events correctly. The purpose of `Static` is to abstract all of that away from you.
 
 
 ### Wrapping Up
 
-There is a provided `[TableViewController](Static/TableViewController.swift)` that sets up a `DataSource` for you. Here's a short example:
+There is a provided [`TableViewController`](https://github.com/venmo/Static/blob/master/Static/TableViewController.swift) that sets up a `DataSource` for you. Here's a short example:
 
 ```swift
 class SomeViewController: TableViewController {
