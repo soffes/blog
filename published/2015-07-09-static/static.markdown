@@ -31,6 +31,9 @@ For manual installation, it's recommended to add the project as a subproject to 
 
 ## Usage
 
+An [example app](Example) is included demonstrating Static's functionality. Check that out first if you prefer to lean by example.
+
+
 ### Getting Started
 
 To use Static, you need to define [`Row`s](https://github.com/venmo/Static/Static/Row.swift) and [`Section`s](https://github.com/venmo/Static/Static/Section.swift) to describe your data. Here's a simple example:
