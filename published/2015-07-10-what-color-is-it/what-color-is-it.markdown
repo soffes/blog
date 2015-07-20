@@ -24,7 +24,7 @@ if #available(OSX 10.11, *) {
 }
 ```
 
-If it's El Capitan, San Francisco is used. Otherwise, Helvetica is used. The `weight` parameter is new in 10.11 so the check is necessary. Another cool this is numbers are monospace so it doesn't look funny as it ticks.
+If it's El Capitan, San Francisco is used. Otherwise, Helvetica is used. The `weight` parameter is new in 10.11 so the check is necessary. Another cool thing is the numbers are monospace so it doesn't look funny as it ticks.
 
 ```swift
 let fontDescriptor = font.fontDescriptor.fontDescriptorByAddingAttributes([
