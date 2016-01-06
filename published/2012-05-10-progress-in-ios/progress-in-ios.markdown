@@ -1,6 +1,6 @@
 # Progress in iOS
 
-In [this year's RailsConf keynote](http://www.youtube.com/watch?v=VOFTop3AMZ8), DHH talked about progress. In short, things are always changing—usually for the better. ==Progress is good. Embrace it.==
+In [this year's RailsConf keynote](https://www.youtube.com/watch?v=VOFTop3AMZ8), DHH talked about progress. In short, things are always changing—usually for the better. ==Progress is good. Embrace it.==
 
 I know a lot of people (especially in the Objective-C world) that fear progress.
  We have all of these great tools like [Automatic Reference Counting](http://blog.samsoff.es/automatic-reference-counting), Core Data, and UIKit to make writing iOS applications easy. Apple has spent some considerable engineering time solving problems that we all have to solve. Quit wasting your time and embrace it.
@@ -11,4 +11,4 @@ I've heard of people rewriting simple things like `UIImage` because they didn't 
 
 Spend an hour, [watch a WWDC video](https://developer.apple.com/videos/wwdc/2011/), and start embracing progress.
 
-By the way, I highly recommend watching [his keynote](http://www.youtube.com/watch?v=VOFTop3AMZ8) even if you don't care about Rails. It's worth your time. If nothing else, it's good motivation.
+By the way, I highly recommend watching [his keynote](https://www.youtube.com/watch?v=VOFTop3AMZ8) even if you don't care about Rails. It's worth your time. If nothing else, it's good motivation.

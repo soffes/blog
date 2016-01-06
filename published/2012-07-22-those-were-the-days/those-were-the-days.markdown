@@ -28,7 +28,8 @@ Both of those made it on the album. Recording the CD was super fun. We spent a w
 
 We also recorded a video of us playing my favorite song on the CD, Give It Back:
 
-<div class="video vimeo wide"><iframe src="http://player.vimeo.com/video/15919164?portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class="video vimeo wide"><iframe src="
+https://player.vimeo.com/video/15919164?portrait=0" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 We also recorded [a making of video](https://vimeo.com/13116318).
 

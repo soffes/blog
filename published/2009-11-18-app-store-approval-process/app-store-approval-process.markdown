@@ -1,8 +1,8 @@
 # App Store Approval Process
 
-So [Joel Comm](http://www.joelcomm.com/) (funny story, he offered me a job awhile back, anyway) who most notably made [iFart](http://itunes.apple.com/us/app/ifart-mobile-1-fart-machine-updated/id293760823?mt=8) released [a video](http://www.youtube.com/watch?v=kDAb64GwFbo) (watch below) today begging Steve Jobs to let his new app into the App Store.
+So [Joel Comm](http://www.joelcomm.com/) (funny story, he offered me a job awhile back, anyway) who most notably made [iFart](http://itunes.apple.com/us/app/ifart-mobile-1-fart-machine-updated/id293760823?mt=8) released [a video](https://www.youtube.com/watch?v=kDAb64GwFbo) (watch below) today begging Steve Jobs to let his new app into the App Store.
 
-<div class="video youtube wide"><object width="620" height="372"><param name="movie" value="http://www.youtube.com/v/kDAb64GwFbo&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kDAb64GwFbo&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="620" height="372"></embed></object></div>
+<div class="video youtube wide"><object width="620" height="372"><param name="movie" value="https://www.youtube.com/v/kDAb64GwFbo&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;hd=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/kDAb64GwFbo&amp;hl=en_US&amp;fs=1&amp;rel=0&amp;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="620" height="372"></embed></object></div>
 
 Like the other apps from his company, the don't do much besides play an entertaining sound. Apple rejected the app because it "contains minimal user functionality". He goes on to show many other apps that also just play a sound.
 

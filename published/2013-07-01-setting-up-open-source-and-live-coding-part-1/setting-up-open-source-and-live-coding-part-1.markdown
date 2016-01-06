@@ -9,7 +9,8 @@ tags:
 
 This is a play-by-play screencast of me moving a component out of SSToolkit into its own library. I cover setting up a good open source component, writing Core Graphics drawing code, a bit of low-level C stuff, and some of my workflow.
 
-<iframe src="http://player.vimeo.com/video/69361266?title=0&amp;byline=0&amp;portrait=0&amp;color=f6291d" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="
+https://player.vimeo.com/video/69361266?title=0&amp;byline=0&amp;portrait=0&amp;color=f6291d" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 You can find the code so far for this on GitHub: [github.com/soffes/SAMGradientView](https://github.com/soffes/SAMGradientView). We’ll be adding a lot more in part 2.
 
