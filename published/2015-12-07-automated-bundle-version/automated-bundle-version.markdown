@@ -18,7 +18,7 @@ Put the following in the source area (right under the shell field):
 
 ``` ruby
 git = `sh /etc/profile; which git`.chomp
-app_build = `#{git} rev-list --all | wc -l`.chomp.to_i
+app_build = `#{git} rev-list HEAD | wc -l`.chomp.to_i
 `/usr/libexec/PlistBuddy -c "Set :CFBundleVersion #{app_build}" "${TARGET_BUILD_DIR}/${INFOPLIST_PATH}"`
 puts "Updated #{ENV['TARGET_BUILD_DIR']}/#{ENV['INFOPLIST_PATH']}"
 ```
