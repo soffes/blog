@@ -76,4 +76,4 @@ for prime in primes {
 print("widest prime less than 4000 when written as a Roman numeral in Times New Roman: \(widest)")
 ```
 
-==It turns out the widest prime less than 4,000 when written as a Roman numeral in Times New Roman is **3,889**.== Now you know.
+==It turns out the widest prime less than 4,000 when written as a Roman numeral in Times New Roman is **3,889**== which is MMMDCCCLXXXIX. Now you know.
