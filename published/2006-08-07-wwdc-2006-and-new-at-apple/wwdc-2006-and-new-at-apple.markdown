@@ -1,4 +1,4 @@
-# Wwdc-2006-and-new-at-apple
+# WWDC 2006 & New at Apple
 
 I just finished watching the [keynote](http://events.apple.com.edgesuite.net/aug_2006/event/index.html) from the Apple World Wide Developer’s Conference 2006 (WWDC). I think I wet myself. First off, just [go watch it](http://events.apple.com.edgesuite.net/aug_2006/event/index.html). It is so worth your time (about an hour). They show off all the new stuff and of course there is some Vista bashing. For those of you who don’t care as much or don’t have time, I’ll list what I thought was simply amazing at the WWDC and recently at Apple.
 
@@ -12,7 +12,7 @@ I just finished watching the [keynote](http://events.apple.com.edgesuite.net/aug
 
 5. [Core Animation](http://web.archive.org/web/20060822124043/http://www.apple.com/macosx/leopard/coreanimation.html) - Core Animation look amazing. I can’t wait to use it. It’s like Flash and Quartz, only in 3D space and easier. It looks awesome. You have to go [watch the keynote](http://events.apple.com.edgesuite.net/aug_2006/event/index.html) to see it in action.
 
-Basically everything I saw in Lepard looks amazing, but I’ll just hit on two more.
+    Basically everything I saw in Lepard looks amazing, but I’ll just hit on two more.
 
 6. [iChat](http://web.archive.org/web/20060822124043/http://www.apple.com/macosx/leopard/ichat.html) - The new iChat and [Mail](http://web.archive.org/web/20060822124043/http://www.apple.com/macosx/leopard/mail.html) look amazing and I must say I am looking forward to them the most. iChat now has integrated tabs and a new, cleaner look. It features real-time video effects during video chats. You can show a presentation or slideshow right in iChat while you are chatting. My personal favorite is Backdrop. You just step outside of the shot and tell it you are about to use a backdrop. It figures out what the background is and you can ad pictures or video behind where you are to make it look like you are green screening… only you’re not! It’s awesome.
 
