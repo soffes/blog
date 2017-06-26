@@ -1,5 +1,7 @@
 ---
-tags: development ios
+tags:
+- development
+- ios
 ---
 
 # iOS Resources
