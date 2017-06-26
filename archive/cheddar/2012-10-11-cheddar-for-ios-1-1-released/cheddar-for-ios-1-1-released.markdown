@@ -1,10 +1,7 @@
 ---
-tags:
-- announcement
-- ios
+title: Cheddar for iOS 1.1 Released!
+categories: announcement ios
 ---
-
-# Cheddar for iOS 1.1 Released!
 
 Cheddar for iOS 1.1 just hit the App Store! There’s a ton of new stuff in this update. Here’s what’s new:
 

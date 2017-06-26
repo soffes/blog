@@ -1,4 +1,7 @@
-# iPhone JSON Benchmarks
+---
+title: iPhone JSON Benchmarks
+categories: development objective-c ios
+---
 
 **Update:** Check out my [updated benchmarks](http://samsoff.es/posts/updated-iphone-json-benchmarks).
 
@@ -6,7 +9,7 @@ Yesterday I wrote [a post on parsing JSON with Apple's private framework](http:/
 
 ![JSON Benchmarks](1S0K2X2F1P3U28233c082W3f3D0C1B0X.png)
 
-I know I [posted awhile ago that TouchJSON was really fast](http://samsoff.es/post/web-services-with-cocoa-surprise/), but I guess I got my numbers mixed up. This time I ran each test 100 times and took the average. These are the numbers from [TouchJSON][] [1.0.6](http://code.google.com/p/touchcode/downloads/list) and [JSON Framework][] [2.2.2](http://code.google.com/p/json-framework/downloads/list) running on my iPhone 3GS compiled for iPhone OS 3.1. [You can get the code on GitHub](http://github.com/samsoffes/json-benchmarks) and see for yourself.
+I know I [posted awhile ago that TouchJSON was really fast](http://samsoff.es/post/web-services-with-cocoa-surprise/), but I guess I got my numbers mixed up. This time I ran each test 100 times and took the average. These are the numbers from [TouchJSON][] [1.0.6](http://code.google.com/p/touchcode/downloads/list) and [JSON Framework][] [2.2.2](http://code.google.com/p/json-framework/downloads/list) running on my iPhone 3GS compiled for iPhone OS 3.1. [You can get the code on GitHub](http://github.com/soffes/json-benchmarks) and see for yourself.
 
 In conclusion, ==it looks like [JSON Framework][] is the one to use==, since you probably shouldn't use [Apple JSON][] in a shipping app. [JSON Framework][] was always my favorite for the clean, category-style interface. I only tested [Apple JSON][] to see how the other implementations compared to it.
 

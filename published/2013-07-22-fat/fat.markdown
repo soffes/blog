@@ -1,8 +1,8 @@
 ---
+title: Fat
 cover_image: cover.jpg
+categories: life
 ---
-
-# Fat
 
 I'm fat. About a year ago, I made [a little website](http://fat.soff.es) about my data and such. My friend [Brian Minor](https://twitter.com/brianminor) inspired me. ==My thought was if I publicly track data, it will keep me motivated.==
 

@@ -1,4 +1,7 @@
-# The OO Page
+---
+title: The OO Page
+categories: meta development php web
+---
 
 I love objects. Programming in Cocoa has really made me understand the power of OO (object oriented) programming. I‘ll take a minute to explain objects and MVC for a minute. (If you are familiar with objects, move to the next paragraph.) An object is a variable that has multiple variables and functions (called methods when inside an object) inside it and is an instance of a class. A class is some code that tell the object what it can do. One very popular approach to using objects (or just programming in general) is the MVC method (model, view, controller). Each of the elements of a MVC are usually objects too.
 

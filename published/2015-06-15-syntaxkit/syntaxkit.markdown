@@ -1,12 +1,7 @@
 ---
-tags:
-- engineering
-- opensource
-- swift
-- whiskey
+title: SyntaxKit
+categories: development swift
 ---
-
-# SyntaxKit
 
 I sat down to work on [Whiskey](http://usewhiskey.com) the other day and go super side tracked. I have this new master plan to greatly improve Whiskey's markdown parsing, but it's a lot of work so I started procrastiworking. I noticed some bugs in SyntaxKit, what I wrote so Whiskey can do code coloring for things other than Markdown, and decided to start fixing them. Because I was procrastiworking, the logical first step was to rewrite it in Swift 2 :)
 

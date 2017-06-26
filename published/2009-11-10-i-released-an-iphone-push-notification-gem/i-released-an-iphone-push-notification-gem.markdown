@@ -1,4 +1,7 @@
-# I Released an iPhone Push Notification Gem
+---
+title: I Released an iPhone Push Notification Gem
+categories: development ruby ios
+---
 
 I forked a Rails plugin for sending push notifications with Rails awhile back for a client project. I've had a few people fork and add cool little fixes.
 
@@ -20,9 +23,9 @@ Pretty cool, right? Now sending is as easy as
 d.send_notification :alert => "Hello world!"
 ```
 
-(`d` being an instance of `Device` of course). You can read the [full readme on GitHub](http://github.com/samsoffes/apple_push_notification). (Yes, another smack on the hand for no RDoc.)
+(`d` being an instance of `Device` of course). You can read the [full readme on GitHub](http://github.com/soffes/apple_push_notification). (Yes, another smack on the hand for no RDoc.)
 
-Anyway, my code is probably very bad, as I'm pretty new to Ruby and Rails. I was very proud of myself for figuring it out. ==[Check out the gem](http://github.com/samsoffes/apple_push_notification)== and let me know if you find it useful or stupid.
+Anyway, my code is probably very bad, as I'm pretty new to Ruby and Rails. I was very proud of myself for figuring it out. ==[Check out the gem](http://github.com/soffes/apple_push_notification)== and let me know if you find it useful or stupid.
 
 [GemCutter]: http://gemcutter.org
 [Jeweler]: http://github.com/technicalpickles/jeweler

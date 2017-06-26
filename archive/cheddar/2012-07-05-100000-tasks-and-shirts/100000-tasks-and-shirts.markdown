@@ -1,9 +1,7 @@
 ---
-tags:
-- gear
+title: 100,000 Tasks & Shirts
+categories: gear
 ---
-
-# 100,000 Tasks & Shirts
 
 Yesterday we crossed a big milestone. ==Over 100,000 tasks have been created with Cheddar!== Tasks are actually getting created so fast that before we had a chance to post the announcement, we are already at 103,000 and counting.
 

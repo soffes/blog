@@ -1,4 +1,7 @@
-# Let’s End the Browser War and Just Comply with Standards
+---
+title: Let’s End the Browser War and Just Comply with Standards
+categories: development web
+---
 
 Being a professional web developer (that is someone who makes there living by developing web), I think myself, as well as other professional web developers, should have some what of a say in what they will be developing for. All we really care about is the engine. I’ll explain.
 

@@ -1,4 +1,7 @@
-# Using GarageBand as a Guitar Pedal
+---
+title: Using GarageBand as a Guitar Pedal
+categories: music apple
+---
 
 The other day I figured out how to use Apple’s [GarageBand 3](http://web.archive.org/web/20060902082807/http://apple.com/ilife/garageband) as a guitar pedal. When I was first playing around with it, I didn’t think that I would be able to use it live on stage, but I figured out how! I saved $250 (Line6 Delay) and $70 (Electro Harmonix Phaser) on pedals but the possibilities are unlimited. Those are just the two I made in the few minutes before chapel started last Thursday.
 

@@ -1,9 +1,7 @@
 ---
-tags:
-- qa
+title: Questions — Part 2
+categories: qa development freelance
 ---
-
-# Questions — Part 2
 
 I was recently trading a few emails with someone asking about working on projects you’re passionate about full-time. Thought it would be good to answer them publicly. Here we go:
 

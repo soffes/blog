@@ -1,10 +1,7 @@
 ---
-tags:
-- announcement
-- mac
+title: Announcing Cheddar for Mac!
+categories: announcement mac
 ---
-
-# Announcing Cheddar for Mac!
 
 Cheddar for Mac just hit the App Store. **[Download it for free on the Mac App Store!](https://itunes.apple.com/app/cheddar/id536464274)**
 

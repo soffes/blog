@@ -1,10 +1,7 @@
 ---
-tags:
-- video
-- hellointernet
+title: "Hello Internet: Selling My Stuff"
+categories: video hello-internet
 ---
-
-# Hello Internet: Selling My Stuff
 
 So, I'm selling all of my stuff.
 

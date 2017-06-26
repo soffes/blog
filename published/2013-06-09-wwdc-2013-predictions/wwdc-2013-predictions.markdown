@@ -1,12 +1,11 @@
 ---
+title: WWDC 2013 Predictions
 cover_image: cover.png
 ---
 
-# WWDC 2013 Predictions
-
 I've been thinking a ton about tomorrow's keynote. I think everyone has. This year is different than most. [No one knows anything](http://daringfireball.net/2013/06/wwdc_2013_expectations) this year. If you think back to the iPhone 4 announcement, Steve even commented during the keynote that "some of you have already seen this." This year it's just silence.
 
-### Software
+## Software
 
 The big change this year besides how quiet it's been is that Ive is in charge of the software design for the first time. The banners around the Moscone are shockingly different:
 
@@ -28,15 +27,15 @@ I do think they'll overhaul the design, but I think it will more like fresh pain
 
 ==iOS 7.0 and OS 10.9 will be announced.== There will be developer previews but nothing open to the public yet.
 
-### iOS Hardware
+## iOS Hardware
 
 This is hard to say. There has been lots of speculation about TV. ==I don't think we'll see any new dramatic mobile hardware.== I think this will be a separate event. ==I think most of tomorrow will be about software.==
 
-### Mac Hardware
+## Mac Hardware
 
 I have even less of an idea here. ==I really want a retina 11-inch MacBook air with LTE==, but I don't think we'll see that tomorrow.
 
-### Silence
+## Silence
 
 It's crazy how little has leaked this year. I wish I knew more.
 

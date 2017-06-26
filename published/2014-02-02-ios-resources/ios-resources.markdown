@@ -1,13 +1,11 @@
 ---
-tags:
-- engineering
+title: iOS Resources
+tags: development ios
 ---
-
-# iOS Resources
 
 If you’re new to iOS or are just learning, it can be tough to move forward when you’re stuck or discover what you should learn next. This is a list (in no particular order) of things that should help.
 
-### Dash
+## Dash
 
 [Dash](https://itunes.apple.com/app/dash-docs-snippets/id458034879) is a great tool for documentation. Apple’s built-in documentation isn’t bad, but Dash is great. It gives you tabs and much better searching. It can do documentation for tons of other stuff too.
 
@@ -15,7 +13,7 @@ I set the keyboard shortcut to launch Dash to the default one to launch Xcode’
 
 There’s even fallback searches. So if you search for something, it can show you Stack Overflow or Google.
 
-### Stack Overflow
+## Stack Overflow
 
 [Stack Overflow](http://stackoverflow.com) is a great place to ask for help if you get stuck. If you’re having a problem and Google it, there’s a good chance once of the first links will be Stack Overflow with the answer.
 
@@ -23,7 +21,7 @@ If you ask a question, try to break down the problem as much as possible so peop
 
 If you can’t find what you’re looking for on Stack Overflow, expand your search to Google. Maybe someone has written a blog post about what you’re trying to do. It’s more common than you think.
 
-### NSHipster
+## NSHipster
 
 > [NSHipster](http://nshipster.com) is a journal of the overlooked bits in Objective-C and Cocoa. Updated weekly.
 
@@ -33,7 +31,7 @@ Some of it is fun little things you’ll probably never use but are still neat. 
 
 If you’re not familiar with Mattt. Check out his [GitHub profile](http://github.com/mattt). He is a madman when it comes to open source. He has released **tons** of useful stuff. At least [follow him on Twitter](https://twitter.com/mattt).
 
-### CocoaPods
+## CocoaPods
 
 > [CocoaPods](http://cocoapods.org) is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
 
@@ -41,13 +39,13 @@ I’m a big fan of CocoaPods. It makes adding third-party code to your projects 
 
 Also checkout [CocoaDocs](http://cocoadocs.org). You can get documentation for the pod if the author has written some. You can even add the documentation set to Dash!
 
-### Apple Developer Forums
+## Apple Developer Forums
 
 The [Apple Developer Forums](http://devforums.apple.com) are sometimes a good place to get help. Apple engineers even answer stuff here and there. Personally, I haven’t had the best luck here except for pre-release things. Since you’re not allowed to talk about pre-release iOS stuff, the dev forums are the only place to go.
 
 You just need a free Apple Developer account to get going here.
 
-### Books
+## Books
 
 Personally, I’m not a big fan of reading. I don’t have the patience for it. I did learn Objective-C and Mac development from a book way back in 2006 though. That book was [Cocoa Programming for Mac OS X](http://www.amazon.com/Cocoa-Programming-Mac-4th-Edition/dp/0321774086). There is an iPhone version called [iOS Programming](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321821521) that I’ve heard is good. I haven’t read it myself since it came after I had started.
 
@@ -59,7 +57,7 @@ All of the other iOS books I’ve flipped through didn’t really impress me. It
 
 I’d recommend mainly sticking with online resources.
 
-### Resourcefulness
+## Resourcefulness
 
 If I can impart anything to you: ==a little resourcefulness codes a long way.== Seriously. Once you can learn how to teach yourself something, you’ll be unstoppable.
 

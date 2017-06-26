@@ -1,4 +1,7 @@
-# Five instead of Four
+---
+title: Five instead of Four
+categories: life
+---
 
 So someone just called me at 1:30am and woke me up. They were trying to order pizza from Pizza Shuttle in Norman, OK about 40 minutes from my apartment.
 

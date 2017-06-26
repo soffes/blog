@@ -1,10 +1,7 @@
 ---
-tags:
-- nothingmagical
-- coins
+title: Coins 1.0.1
+categories: nothingmagical coins
 ---
-
-# Coins 1.0.1
 
 Today [Coins](http://getcoinsapp.com) 1.0.1 was released! Here’s what’s new:
 

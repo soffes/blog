@@ -1,4 +1,7 @@
-# My Quote of the Week
+---
+title: My Quote of the Week
+categories: quote
+---
 
 > It looks pretty, but I don’t know what it does yet… Let’s use it.
 

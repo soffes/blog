@@ -1,4 +1,7 @@
-# New Homepage
+---
+title: New Homepage
+categories: meta web ruby development
+---
 
 Last night I updated my ~~blog~~ website. Now that I'm using [Roon](https://roon.io) for my blog, I wanted to update [soff.es](http://soff.es) to pull in my latest post and show off some of the stuff I'm working on.
 

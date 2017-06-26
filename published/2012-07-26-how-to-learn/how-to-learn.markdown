@@ -1,4 +1,7 @@
-# How To Learn
+---
+title: How To Learn
+categories: development
+---
 
 If you want to learn something, just start doing whatever you want to learn.
 

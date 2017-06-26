@@ -1,10 +1,7 @@
 ---
-tags:
-- announcement
-- ios
+title: Announcing Gotham in Cheddar for iOS
+categories: announcement ios
 ---
-
-# Announcing Gotham in Cheddar for iOS
 
 We’re really proud to announce that Cheddar for iOS will feature [Gotham](http://www.typography.com/fonts/font_overview.php?productLineID=100008&path=head) by [H&FJ](http://typography.com). See a screenshot over [on Dribbble](https://dribbble.com/shots/618508-Cheddar-for-iOS-is-now-in-Gotham-by-H-FJ).
 

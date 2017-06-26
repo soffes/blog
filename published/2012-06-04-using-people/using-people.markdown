@@ -1,4 +1,7 @@
-# Using People
+---
+title: Using People
+categories: life
+---
 
 The number of people that talk to me only when they want something is decently high. This bothers me a lot. If the only time you talk to me is to ask a programming question,  to ask if I know some you can hire me to make something for you, or to ask me to fix your iPhone, it's kind of a slap in the face.
 

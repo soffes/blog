@@ -1,13 +1,8 @@
 ---
+title: What Color Is It
 cover_image: cover.png
-tags:
-- opensource
-- development
-- swift
-- screensaver
+categories: development swift screensaver
 ---
-
-# What Color Is It
 
 One of my coworkers shared [What Colour Is It](http://whatcolourisit.scn9a.org/) in our design Slack channel the other day. It works by taking the current time as 6 digits and making that a [hex color](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet). For example, in the header it's `#172952`. That's 5:29pm and 52 seconds. Kinda neat. I thought it was super cool so I decided to make it a screensaver.
 

@@ -1,4 +1,7 @@
-# Boredom & Change
+---
+title: Boredom & Change
+categories: life development android
+---
 
 I've been doing iOS since the day it was announced. It's been great. I have to say though ==it's getting old==.
 

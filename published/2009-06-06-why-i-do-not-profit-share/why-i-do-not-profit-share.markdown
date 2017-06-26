@@ -1,4 +1,7 @@
-# Why I Do Not Profit Share
+---
+title: Why I Do Not Profit Share
+categories: freelance
+---
 
 As a freelancer, I get a lot of people pitch me ideas they want me to work on. On average, I get one of these ideas pitched to me every two days. This is great. I am always looking for something to work on.
 

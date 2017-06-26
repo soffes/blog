@@ -1,4 +1,7 @@
-# Web Services with Cocoa Surprise
+---
+title: Web Services with Cocoa Surprise
+categories: development ios objective-c
+---
 
 This week I have a talk at the first [Oklahoma City CocoaHeads](http://cocoaokc.org) meeting. I was going to talk about transferring data from web services with plists. I spend most of the day working on SSConnection, my simple Foundation class for easily transferring plist data from a web service to a Cocoa application.
 

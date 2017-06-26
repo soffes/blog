@@ -1,10 +1,7 @@
 ---
-tags:
-- video
-- hellointernet
+title: "Hello Internet: Apple"
+categories: video hello-internet apple
 ---
-
-# Hello Internet: Apple
 
 Apple is awesome. They have always provided me with free serivce. I got a free new iPhone 4!
 

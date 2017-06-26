@@ -1,8 +1,7 @@
 ---
+title: Genius Launch
 cover_image: cover.jpg
 ---
-
-# Genius Launch
 
 [Everlane](http://www.everlane.com/i/f8leoo) is a new startup that started here in San Francisco. They've done some ridiculously smart things with their launch.
 
@@ -10,7 +9,7 @@ cover_image: cover.jpg
 
 It's basically super high quality designer goods (clothes, ties, bags, etc). I kinda want all of it.
 
-### Genius Part
+## Genius Part
 
 So besides having stuff that I really want and a great design, they have a ==brilliant social sharing incentive==.
 

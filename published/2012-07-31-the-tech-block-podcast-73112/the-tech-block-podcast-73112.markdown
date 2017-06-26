@@ -1,4 +1,7 @@
-# The Tech Block Podcast 7.31.12
+---
+title: The Tech Block Podcast 7.31.12
+categories: podcast
+---
 
 The awesome guys over at [The Tech Block](http://thetechblock.com) had me on their podcast this week. It was a great time. We talked about Apple, Digg, and patent wars.
 

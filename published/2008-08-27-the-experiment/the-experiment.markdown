@@ -1,4 +1,7 @@
-# The Experiment
+---
+title: The Experiment
+categories: music
+---
 
 So I put up one of the songs I had been working on because people on Twitter kept asking to hear what I was working on. I finally put it up [on my site](http://samsoff.es/music) and got a huge response on Twitter.
 

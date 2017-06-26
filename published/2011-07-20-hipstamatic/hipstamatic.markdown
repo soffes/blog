@@ -1,8 +1,7 @@
 ---
+title: Hipstamatic
 cover_image: cover.jpg
 ---
-
-# Hipstamatic
 
 Lately I've been working with [Hipstamatic](http://heysynthetic.com) on a new really exciting product. I can't really say any more than that, but it's going to be awesome.
 

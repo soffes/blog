@@ -1,10 +1,7 @@
 ---
-tags:
-- video
-- hellointernet
+title: "Hello Internet: MicroCell"
+categories: video hello-internet
 ---
-
-# Hello Internet: MicroCell
 
 Thoughts on my new AT&T MicroCell.
 

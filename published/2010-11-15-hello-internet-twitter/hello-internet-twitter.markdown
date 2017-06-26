@@ -1,10 +1,8 @@
 ---
-tags:
-- video
-- hellointernet
+title: "Hello Internet: Twitter"
+categories: video hello-internet
 ---
 
-# Hello Internet: Twitter
 
 Twitter is down a lot. I have some feelings about this.
 

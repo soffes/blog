@@ -1,10 +1,7 @@
 ---
-tags:
-- video
-- hellointernet
+title: "Hello Internet: Mac App Store"
+categories: video hello-internet apple mac
 ---
-
-# Hello Internet: Mac App Store
 
 My hate (and love) for the new Mac App Store
 

@@ -1,4 +1,7 @@
-# Xbox 360 and HD TV
+---
+title: Xbox 360 and HD TV
+categories: games
+---
 
 Christmas is coming a little early for me this year. I just purchased an Insignia 26-inch LCD HDTV. It was only $379 at Best Buy. It’s a pretty good TV. It was really cheap so I didn’t expect it to be fantastic, but so far, it’s pretty nice. I only bought it because it was cheap. Since I have this nice new HDTV, what am I going to do with it? I guess I’ll have to buy an Xbox 360. So I did.
 

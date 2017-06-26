@@ -1,4 +1,7 @@
-# Cocoa Makes It Easy
+---
+title: Cocoa Makes It Easy
+categories: development ios objective-c
+---
 
 So today I was wondering how to get the user's time zone on the iPhone. So I googled it up. I found a [forum thread](http://www.iphonedevsdk.com/forum/iphone-sdk-development/13234-how-get-time-zone.html) that said look at `NSTimeZone`. Easy enough.
 

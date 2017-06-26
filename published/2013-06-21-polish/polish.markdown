@@ -1,8 +1,8 @@
 ---
+title: Let’s Hope
 cover_image: cover.jpg
+categories: apple
 ---
-
-# Let's Hope
 
 In case you've been living under a rock, you know that iOS 7 isn't beautiful. Everyone is talking about how bad it is. [Jony Ive Redesigns Things](http://jonyiveredesignsthings.tumblr.com) and [Episode 1 of Mother Futon News](http://motherfuton.com) are my favorites.
 

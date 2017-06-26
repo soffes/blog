@@ -1,4 +1,7 @@
-# Share Confirmation
+---
+title: Share Confirmation
+categories: development swift ios
+---
 
 Recently, I added some visual confirmation what something was shared with the system share sheet on iOS. For things like copy or save to camera roll, there isn't visual confirmation that it worked from the system.
 

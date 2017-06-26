@@ -1,4 +1,6 @@
-# Hello World
+---
+title: Hello World
+---
 
 There is a world out there. It's pretty awesome. Today, I stumbled across this picture:
 

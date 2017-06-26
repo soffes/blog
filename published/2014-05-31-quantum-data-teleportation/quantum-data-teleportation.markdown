@@ -1,11 +1,8 @@
 ---
+title: Quantum Data Teleportation
 cover_image: cover.jpg
-tags:
-- science
-- video
+categories: science video
 ---
-
-# Quantum Data Teleportation
 
 A few days ago, scientists at Delft University reliably got teleportation to work with 100% reproducibility. (Read the full story at [CNET](http://www.cnet.com/news/scientists-achieve-reliable-quantum-teleportation-for-the-first-time/).) **This is huge.**
 

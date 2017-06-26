@@ -1,10 +1,7 @@
 ---
-tags:
-- video
-- screencast
+title: How to Build a Ruby Gem
+categories: video screencast
 ---
-
-# How to Build a Ruby Gem
 
 This is my first post on the [Treehouse Blog](http://blog.teamtreehouse.com). I did an 8 minute video tutorial on how to make a Ruby gem with Bundler. Check it out.
 
@@ -13,7 +10,7 @@ https://player.vimeo.com/video/63605506?title=0&amp;byline=0&amp;portrait=0&amp;
 
 The code from this video can be found here: [github.com/soffes/adder](https://github.com/soffes/adder). Here is Ruby's [module_function documentation](http://ruby-doc.org/core-2.0/Module.html#method-i-module_function).
 
-### Video Transcription
+## Video Transcription
 
 Hi, I’m Sam Soffes. I’m going to show you how to create and distribute a Ruby Gem. So, let’s say you have some really fancy code that adds 2 numbers together. We’re going to package this up into a Ruby Gem called Adder and you shoot it on Rubygems.org, so anyone can Gem install Adder and use our code. First off, you’ll need Bundler. If you don’t already have Bundler, you can easily install it with Gem install bundler. Now, simply Run, Bundle, Gem, and the name of your Gem. So, in this case, Adder. Great, and you can see here it generated a bunch of files for our Gem so, we’ll open this up in Sublime and try it out. So, most importantly it generated a Gem spec for us. and you can see it has some placeholder values. I’ll go ahead and fill this in. It’s a good idea to add a required Ruby version, that way if you’re using features that aren’t available in 187 or 192 or whatever, Rubygems won’t let you install it on a Ruby that’s not supported. Kind of on a side note, if all you’re using 19 for is the hash syntax, it’s a good idea to go ahead and use the old 187 syntax, so more people can use your code. I really prefer the 19 syntax, but I usually end up switching, just so I can support 187. If that’s the only change, no reason not to.
 

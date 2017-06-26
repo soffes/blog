@@ -1,8 +1,8 @@
 ---
+title: Onward
 cover_image: cover.jpg
+categories: life
 ---
-
-# Onward
 
 I'm no stranger to change. Most people are change averse. I embrace it. ==Change is the only way to move forward.== If you followed me for any time at all, you can start laughing at how predictable this post is.
 

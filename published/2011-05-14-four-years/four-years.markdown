@@ -1,8 +1,11 @@
-# Four Years
+---
+title: Four Years
+categories: life
+---
 
 I choose not to attend college. During my senior year of high school, I was co-oping (half day at school finishing my required classes and a half day at work). When I graduated in 2007 (I hope I just made you feel old) I transitioned to a full time salary employee. I always thought that getting a salary job with benefits was the entire point of going to college, but I enrolled anyway.
 
-### Almost Going
+## Almost Going
 
 As starting college approached, I soon realized I would have to spend almost all of my free time driving from work to school, sitting in classes, and doing homework. I was totally dreading this. I wasn't a good student in high school and didn't want any part of the busy work, writing papers, and all of that nonsense.
 
@@ -10,11 +13,11 @@ My mother really wanted me to go because neither of my parents went, so I said I
 
 I took two classes at Phoenix (both of which were completely worthless) before I moved. After I moved to Oklahoma, AT&T didn't hook up my internet when they were supposed to, so I postponed starting and eventually canceled it all together.
 
-### Instead
+## Instead
 
 ==Today would have been my graduation day if I had stayed==, but instead of graduating, I did some other stuff. I'll give a brief summary of what I did. I'm going to include personal stuff as well as work related stuff since life is much more than just work.
 
-#### 2007
+### 2007
 
 Worked for a local entrepreneur creating a YouTube rip off. Never launched.
 
@@ -31,7 +34,7 @@ Did my first freelance project creating a CMS/website builder in my free time. T
 **December:** Got engaged to my high school sweetheart.
 
 
-#### 2008
+### 2008
 
 **January:** Moved from Kentucky to Oklahoma to start working at LifeChurch.tv.
 
@@ -44,7 +47,7 @@ This was the saddest time in my life. Hands down. In short, she changed her mind
 **October:** Joined a local band. Had a lot of fun with those guys.
 
 
-#### 2009
+### 2009
 
 **February:** Purchased a three bedroom house in Edmond, OK for $91,000.
 
@@ -59,9 +62,9 @@ This was the saddest time in my life. Hands down. In short, she changed her mind
 **September:** Accepted an offer from Tasteful Works. Sold my beloved house and left my band. Moved to Dallas, TX.
 
 
-#### 2010
+### 2010
 
-**January:** Drove back to Oklahoma City play music with [Matt Grimm](http://twitter.com/mattgrimm) and started what would be [Finding Chesterfield](http://findingchesterfield.com), our band.
+**January:** Drove back to Oklahoma City play music with [Matt Grimm](http://twitter.com/8bitmatt) and started what would be [Finding Chesterfield](http://findingchesterfield.com), our band.
 
 **March:** Turned 21.
 
@@ -73,7 +76,7 @@ This was the saddest time in my life. Hands down. In short, she changed her mind
 
 **December:** Moved from Dallas to San Francisco. Really sad to leave my friends and my band, but it was a great move professionally, so I did it.
 
-#### 2011
+### 2011
 
 **January:** Started working at [Scribd](http://scribd.com).
 
@@ -81,7 +84,7 @@ This was the saddest time in my life. Hands down. In short, she changed her mind
 
 That's it.
 
-### Now What
+## Now What
 
 I ask myself "Now what?" a lot. I make more than 8 times what I was making when I left Kentucky. I live in one of the greatest cities in the world, but I still ask myself that a lot.
 
@@ -89,6 +92,6 @@ I feel like everything I've done these last four years are kinda worthless. The 
 
 I think most of my outlook on life is effected by almost being married and then not being married. Realizing how great that is and then missing out really sucked. It's good it didn't end up happening, but still. *I just wonder how different life would have been had I just stayed in Kentucky and gone to college.*
 
-### Anyway
+## Anyway
 
 I try to stay positive. I'm sure the next four years will have some awesome. I'll be 26. Crazy. Anyway, I thought I'd share.

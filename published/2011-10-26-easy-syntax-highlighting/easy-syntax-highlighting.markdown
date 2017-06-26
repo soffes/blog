@@ -1,4 +1,7 @@
-# Easy Syntax Highlighting
+---
+title: Easy Syntax Highlighting
+categories: development ruby web
+---
 
 Syntax highlight in Ruby is annoying. [Pygments](http://pygments.org/) is the best way to do syntax highlighting, but it's a Python project. (Why no one has ported that to Ruby yet is beyond me. Granted there are a few, but they are all kinda annoying, slow, or don't work that well.)
 
@@ -12,6 +15,6 @@ source = "function foo() { return 'bar'; }"
 Pygmentize.process(source, :javascript)
 ```
 
-==The best part about all of this is that you can run it on Heroku!== I [switched my blog to use it](https://github.com/samsoffes/samsoff.es/commit/5bf2aa733d020caad897960a133055110e545ea5#L2R14) and it's working great. By the way, if you're using Heroku, be sure you use the [Cedar Stack](http://devcenter.heroku.com/articles/cedar).
+==The best part about all of this is that you can run it on Heroku!== I [switched my blog to use it](https://github.com/soffes/soff.es/commit/5bf2aa733d020caad897960a133055110e545ea5#L2R14) and it's working great. By the way, if you're using Heroku, be sure you use the [Cedar Stack](http://devcenter.heroku.com/articles/cedar).
 
-Here's my **[little example page running on Heroku](http://pygmentize-example.herokuapp.com)**. The full source is [on GitHub](https://github.com/samsoffes/pygmentize-example) too. Enjoy!
+Here's my **[little example page running on Heroku](http://pygmentize-example.herokuapp.com)**. The full source is [on GitHub](https://github.com/soffes/pygmentize-example) too. Enjoy!

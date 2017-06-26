@@ -1,4 +1,7 @@
-# New Contact Information
+---
+title: New Contact Information
+categories: life
+---
 
 I just got a new phone number. I figured it would be better to have a local number in Oklahoma instead of keep my Louisville number.
 

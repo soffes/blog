@@ -1,10 +1,7 @@
 ---
-tags:
-- ios
-- opensource
+title: Cheddar for iOS is Now Open Source
+categories: ios opensource
 ---
-
-# Cheddar for iOS is Now Open Source
 
 This is a big day for Cheddar! I’m super excited to announce Cheddar for iOS is now open source! ==You can see the code [on GitHub](https://github.com/nothingmagical/cheddar-ios).==
 

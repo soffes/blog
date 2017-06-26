@@ -1,4 +1,7 @@
-# Compass and Rails 3.1
+---
+title: Compass and Rails 3.1
+categories: development ruby web
+---
 
 Here's how I finally got Compass working with Rails 3.1rc4 (with includes, sprites, etc).
 
@@ -23,7 +26,7 @@ The only other thing you'll need to do is be sure all of your stylesheets are in
 Big thanks to [Jon McCartie](http://twitter.com/jmccartie) and [
 Chris Eppstein](http://twitter.com/chriseppstein) for all of their help!
 
-### Update: Rails 3.1.0.rc5
+## Update: Rails 3.1.0.rc5
 
 Rails 3.1.0.rc5 just came out. Here's the updates for rc5.
 

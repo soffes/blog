@@ -1,20 +1,23 @@
-# RubyMotion Review
+---
+title: RubyMotion Review
+categories: ruby ios development
+---
 
 [RubyMotion](http://www.rubymotion.com) was released today. ==RubyMotion lets you write iPhone and iPad apps in Ruby.==
 
 > RubyMotion is a revolutionary toolchain for iOS. It lets you quickly develop and test native iOS applications for iPhone or iPad, all using the awesome Ruby language you know and love.
 
-### Background
+## Background
 
 It's a very exciting new product from [Laurent Sansonetti](http://twitter.com/lrz), the creator of [MacRuby](http://macruby.com). He was at Apple working on MacRuby full-time, but decided to leave and do his own thing. This is what he made.
 
-### Initial Reaction
+## Initial Reaction
 
 After paying the $149.99 for RubyMotion, I was excited to try it out. The installation process was super easy. There was a small issue with it not finding my version of Xcode right away, but I have a pre-release version, so that's understandable.
 
 ==I got my first app up and running in less than a minute== (once I got my Xcode issues sorted out). Already way impressed.
 
-### Ruby Instead of Objective-C
+## Ruby Instead of Objective-C
 
 Writing Ruby code like this is amazing.
 
@@ -64,7 +67,7 @@ class UIColor
 end
 ```
 
-### Build Settings
+## Build Settings
 
 The way the build system works in RubyMotion might be my favorite thing. It's just a rake task, and it's amazing.
 
@@ -85,7 +88,7 @@ I totally love this. This is a million times better than fighting with Xcode's c
 
 You can just run `rake config` to see the entire configuration of your application. For anything you want to change, you just add the option in the Rakefile. Such a great way to do it.
 
-### Console
+## Console
 
 ==The [REPL](http://en.wikipedia.org/wiki/Read–eval–print_loop) (read-eval-print loop) is hands down the most amazing part of RubyMotion.== It's even more advanced than Apple's tools here. [Watch the demo](http://www.rubymotion.com/getting-started/) to understand how awesome it is.
 
@@ -99,11 +102,11 @@ and see label's text updates immediately.
 
 I was trying to see if some fonts were being loaded in my RubyMotion application. Normally, I would add some logs to the beginning of my application delegate to see what's going on. I realized I had a console, so just typed what I was going to log in the console. There was the output immediately. Amazing.
 
-### Testing
+## Testing
 
 I'm also really looking forward to testing with Ruby tools. The Objective-C community rarely tests stuff. The Ruby community is all about it. My theory is that's due to the compiled nature of Objective-C. Anyway, I'm really excited to use [MiniTest](http://docs.seattlerb.org/minitest/) to test my apps. The RubyMotion documentation is a bit lacking here at the moment.
 
-### Final Thoughts
+## Final Thoughts
 
 I am quite confident that if Laurent had stayed at Apple, we wouldn't have anything close to this today for two reasons. Apple is heavily invested in Objective-C. Objective-C is fantastic. Apple has been using it for years and years. It's not "broken" per se. Secondly, I think the main reason is this is a lot of new stuff. Apple is a giant company. Stuff like this would take a ton of effort navigating internal politics to pull off. ==I'm glad he left and made it a reality.==
 

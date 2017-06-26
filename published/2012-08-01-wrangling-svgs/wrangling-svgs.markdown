@@ -1,8 +1,11 @@
-# Wrangling SVGs
+---
+title: Wrangling SVGs
+categories: development web design
+---
 
 [Cheddar](http://cheddarapp.com) uses SVG ([Scalable Vector Graphics](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics)) a lot. One of the big wins for using SVGs is they are vector, so they look great on Retina displays without you having to do any work.
 
-Since I use [Grater](http://github.com/samsoffes/grater), everything looks great on iPhone, iPad, and desktops. I was using SVGs a few weeks before the Retina MacBook Pro came out. Since I had already optimized for the Retina mobile displays, I didn't have to do anything for the new MacBook Pro!
+Since I use [Grater](http://github.com/soffes/grater), everything looks great on iPhone, iPad, and desktops. I was using SVGs a few weeks before the Retina MacBook Pro came out. Since I had already optimized for the Retina mobile displays, I didn't have to do anything for the new MacBook Pro!
 
 Anyway, I wanted everything to look crisp and was having trouble at first. After seeing [GitHub do it so well](https://github.com/blog/1135-the-making-of-octicons), I asked [a friend](http://twitter.com/jbrewer) how to do it and spent the time to make them great. It's actually very easy.
 

@@ -1,8 +1,8 @@
 ---
+title: Springboard Episode 3
 cover_image: cover.jpg
+categories: podcast
 ---
-
-# Springboard Episode 3
 
 [Ash Furrow](https://twitter.com/ashfurrow) was kind enough to have me on his podcast for people wanting to learn iOS development, [Springboard](http://springboardshow.com/episodes/3).
 

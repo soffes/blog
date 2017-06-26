@@ -1,4 +1,7 @@
-# Internet Explorer is Stupid
+---
+title: Internet Explorer is Stupid
+categories: development web
+---
 
 This is retarded. I’m going to complain for a minute here. To be valid XHTML1.1, you need to make your content type `application/xhtml+xml`. By default the content type is `text/html` which isn’t valid XHTML1.1. In Internet Explorer, it doesn't know what to do with the `application/xhtml+xml` content type and asks the user to download it. WHY!? That is so dumb. Why does Microsoft refuse to listen to web standards? I do not understand. There is an easy work around for this, but that is dumb that this has to be done.
 

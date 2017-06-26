@@ -1,4 +1,7 @@
-# Tin Can
+---
+title: Tin Can
+categories: development ruby
+---
 
 Recently Seesaw open sourced [Tin Can](https://github.com/seesawco/tincan). I worked on this awhile ago when I was at Seesaw. We used it to provide authentication with phone numbers via SMS and verification links.
 

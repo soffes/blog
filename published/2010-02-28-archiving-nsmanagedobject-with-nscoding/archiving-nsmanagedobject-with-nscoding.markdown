@@ -1,4 +1,7 @@
-# Archiving NSManagedObject with NSCoding
+---
+title: Archiving NSManagedObject with NSCoding
+categories: development objective-c
+---
 
 Several of the apps I have been working on lately have been using [Core Data](http://developer.apple.com/mac/library/documentation/Cocoa/Conceptual/CoreData/cdProgrammingGuide.html). Core Data is pretty sweet. So far, I really like it.
 

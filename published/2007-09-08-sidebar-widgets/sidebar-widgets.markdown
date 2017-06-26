@@ -1,4 +1,7 @@
-# Sidebar Widgets
+---
+title: Sidebar Widgets
+categories: development meta php web
+---
 
 Today I've been messing with my sidebar a little more. I really like the new [Digg Widgets](http://web.archive.org/web/20071014203346/http://digg.com/add-digg), but I was having trouble styling them the way I wanted.
 

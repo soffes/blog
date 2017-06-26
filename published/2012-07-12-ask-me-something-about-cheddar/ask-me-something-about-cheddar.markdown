@@ -1,4 +1,7 @@
-# Ask Me Something About Cheddar
+---
+title: Ask Me Something About Cheddar
+categories: development
+---
 
 Answered a question on Quora about Cheddar. It was kinda fun. [Ask some more](http://www.quora.com/Cheddar).
 

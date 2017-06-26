@@ -1,4 +1,7 @@
-# Why the Facebook IPO Matters
+---
+title: Why the Facebook IPO Matters
+categories: industry
+---
 
 Facebook's IPO was today. Unless you're living in a cave, you already knew this. Facebook's IPO is a big deal.
 

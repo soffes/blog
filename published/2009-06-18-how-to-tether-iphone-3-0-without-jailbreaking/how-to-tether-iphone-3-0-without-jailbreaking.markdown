@@ -1,4 +1,7 @@
-# How To Tether iPhone 3.0 Without Jailbreaking
+---
+title: How To Tether iPhone 3.0 Without Jailbreaking
+categories: ios apple
+---
 
 **Update:** This no longer works on 3.1.
 

@@ -1,10 +1,13 @@
-# Dealing with Emoji
+---
+title: Dealing with Emoji
+categories: development ruby objective-c
+---
 
 Someone recently pointed out that [Cheddar](http://cheddarapp.com) doesn't support Emoji that well. After lots of banging my head against the wall, I figured out some simple solutions. Here's what I learned.
 
 <span style="color:#999">Note: currently only Safari support emoji so the examples might be a bit confusing if you're using a browser that doesn't support emoji.</span>
 
-### Ruby
+## Ruby
 
 Cheddar's server uses [Ruby on Rails](http://rubyonrails.org). It turns out that there is a bug in `ActiveSupport::JSON::Encoding` that doesn't encode high UTF-8/UTF-16 characters correctly. ([More information](http://stackoverflow.com/questions/8635393/ios-5-how-to-convert-an-emoji-to-a-unicode-character/10875016#10875016) on this bug). There's a [simple solution](http://stackoverflow.com/questions/5123993/json-encoding-wrongly-escaped-rails-3-ruby-1-9-2/8339255#8339255) that monkey patches ActiveSupport to use the actual character instead of trying to encode it.
 
@@ -24,7 +27,7 @@ module ActiveSupport::JSON::Encoding
 end
 ```
 
-### Objective-C
+## Objective-C
 
 Next up was iOS. After some digging, this became the apparent source of the problem:
 
@@ -101,4 +104,4 @@ There is probably a better solution than iterating through all of the characters
 
 Anyway, hopefully that was helpful to you if you have to deal with emoji or other crazy characters.
 
-[Follow me on Twitter](http://twitter.com/samsoffes).
+[Follow me on Twitter](http://twitter.com/soffes).

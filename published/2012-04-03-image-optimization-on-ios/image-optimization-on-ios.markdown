@@ -1,4 +1,7 @@
-# Image Optimization on iOS
+---
+title: Image Optimization on iOS
+categories: development ios
+---
 
 Recently in [IncrediBooth](http://incredibooth.com/), I greatly decreased the size of the IPA we send to Apple. ==We were around 70MB before everything and ended up at 31MB==. It was honestly really easy to shave that much off the app.
 
@@ -16,7 +19,7 @@ The last thing I tried to make things even smaller was [ImageAlpha](http://pngmi
 
 Note: Be sure to [disable Xcode's image optimization](http://imageoptim.com/xcode.html) or it will undo all of your hard work when it creates your bundle.
 
-### Conclusion
+## Conclusion
 
 I've heard mixed thoughts on these tools. Some Twitter friends said it caused issues for them. Personally, I haven't had any issues with these tools. Everything works amazingly well. ==If you're trying to shrink your bundle size, I highly recommend these tools.==
 

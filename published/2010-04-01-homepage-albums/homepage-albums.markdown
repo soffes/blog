@@ -1,4 +1,7 @@
-# Homepage Albums
+---
+title: Homepage Albums
+categories: meta development web ruby
+---
 
 I recently added an albums I've been enjoying this week section to my homepage. It's still a major work in progress. For some reason, tons of people have commented about it [on Twitter](http://twitter.com/soffes) asking how I made it, so I thought I'd write a quick post about the tech behind it.
 

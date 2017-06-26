@@ -1,4 +1,7 @@
-# Sleep Schedule
+---
+title: Sleep Schedule
+categories: life
+---
 
 I'm really bad at sleep. There are so many more things I'd rather be doing. There was the one Bond villain that only had to sleep for 15 minutes a day or something. I want that.
 

@@ -1,9 +1,7 @@
 ---
-tags:
-- life
+title: Twenty-five
+categories: life
 ---
-
-# Twenty-five
 
 Today, I’m twenty-five. A quarter century. According to [this](http://gosset.wharton.upenn.edu/mortality/perl/CalcForm.html), I’ll live 82.53 years. I have 69.7% of my life remaining. ==So much left to do.==
 

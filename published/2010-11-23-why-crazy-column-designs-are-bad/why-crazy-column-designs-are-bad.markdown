@@ -1,10 +1,13 @@
-# Why Crazy Column Designs Are Bad
+---
+title: Why Crazy Column Designs Are Bad
+categories: design
+---
 
 So maybe you've seen [#newtwitter][], this post on TechCrunch about [Facebook with columns](http://techcrunch.com/2010/04/21/facebook-design/), or [Twitter for iPad][]. They all have crazy column layouts. Twitter for iPad is super impressive. I have mad respect for them. The way the columns stack and scroll is really, really impressive.
 
 Anyway, ==crazy multi-columns layouts are bad==. Think of the average user.
 
-### The Average User
+## The Average User
 
 If you think about it, the average person that uses Facebook is significantly less technical than anyone who reads my blog. ==They are the kind of people that freak out when Facebook changes their design and have to re-learn how to do their crap.== This is who I'm talking about. It helps to picture the average user as my mom.
 
@@ -12,7 +15,7 @@ So say the average user (aka, my mom), wants to view their news feed. They just 
 
 [![Crazy Column Facebook](2B1N2O450z040y200F1L1X3e0W2r2r2p.png)](http://techcrunch.com/2010/04/21/facebook-design/)
 
-### Why This Is Bad
+## Why This Is Bad
 
 The average user is lazy. ==There is too much to look at.== They won't take the time to sort through the information and see which part is the part they care about, they will write the page off as "too technical for them" and walk away or they will be really overwhelmed and take a long time to fight through and find what they need. Power users like us are used to this. That's why we are able to pick up new software and start using it right away. Most people don't have that skill.
 
@@ -22,7 +25,7 @@ We've had to train our brains at reading through lots of data and picking out th
 
 They want a single column with big images and icons depicting what everything is. This approach is easy and linear. The side navigation is easily interpreted and written off as stuff they don't care about at the moment. If you think about it, the news feed is already really complex for most people.
 
-### Conclusion
+## Conclusion
 
 All of that said, I really like [#newtwitter][] and [Twitter for iPad][]. I know a lot of "average users" like it too. I'm glad. ==I'm not knocking Twitter.== They have done a really great job with their new interfaces.
 

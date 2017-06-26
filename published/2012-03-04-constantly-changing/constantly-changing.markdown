@@ -1,4 +1,7 @@
-# Constantly Changing
+---
+title: Constantly Changing
+categories: meta ruby web development
+---
 
 I recently installed [gaug.es](http://gaug.es) on my site (which is totally awesome). I noticed most of my traffic goes to blog posts that are decently old. At the time they were accurate and the stuff I mentioned was, at the time, the best practice.
 

@@ -1,10 +1,7 @@
 ---
-tags:
-- video
-- hellointernet
+title: Pro Apps
+categories: video hello-internet
 ---
-
-# Hello Internet: Pro Apps
 
 Pro apps suck. I wish they didn't.
 

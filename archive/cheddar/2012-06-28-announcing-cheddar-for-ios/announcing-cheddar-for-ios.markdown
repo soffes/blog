@@ -1,10 +1,7 @@
 ---
-tags:
-- announcement
-- ios
+title: Announcing Cheddar for iOS
+categories: announcement ios
 ---
-
-# Announcing Cheddar for iOS
 
 Today we are very excited to announce Cheddar for iOS. It is available for [free in the App Store](http://itunes.apple.com/app/id524382948?partnerId=30&siteID=gCug0Bwa2R0).
 

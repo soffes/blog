@@ -1,4 +1,7 @@
-# Behind Cheddar's Server
+---
+title: Behind Cheddar’s Server
+categories: development ruby web
+---
 
 So, [tech doesn't matter](http://samsoff.es/posts/cheddar-lessons-so-far). Tech is interesting though. Here's some of what I use to make Cheddar's server. A lot of Cheddar is on the server. I've spent way more time writing Ruby than writing Objective-C when it comes to Cheddar.
 
@@ -8,7 +11,7 @@ For awhile, the API and the web app were two separate Rails apps. The web app si
 
 All of the realtime aspects are powered by [Pusher](http://pusher.com). I considered building something from scratch to do all of this, but was focused on shipping. At some point, it would be easy for me to replace Pusher with my own stuff, but honestly they are awesome and very affordable. I doubt I ever will.
 
-All of the API documentation I did from scratch. I wrote a little Ruby gem to do code coloring and truncation of example responses the way I wanted called [Pizzazz](http://github.com/samsoffes/pizzazz). I really love [Stripe](http://stripe.com)'s API documentation. They use your real data in all of the examples and give you example commands for each method. It was actually a lot easier than I thought to implement this and people seem to really like it.
+All of the API documentation I did from scratch. I wrote a little Ruby gem to do code coloring and truncation of example responses the way I wanted called [Pizzazz](http://github.com/soffes/pizzazz). I really love [Stripe](http://stripe.com)'s API documentation. They use your real data in all of the examples and give you example commands for each method. It was actually a lot easier than I thought to implement this and people seem to really like it.
 
 All of the [OAuth](http://oauth.net/2) stuff I did from scratch as well. There are a few solutions out there but I started to spend more time customizing them than it would take to write my own. I've written OAuth clients and servers before so it wasn't a big deal.
 
@@ -156,7 +159,7 @@ group :test do
   gem 'simplecov', require: false
 
   # Simple test runner (my fork fixes MiniTest integration)
-  gem 'm', git: 'https://github.com/samsoffes/m.git', require: false
+  gem 'm', git: 'https://github.com/soffes/m.git', require: false
 end
 
 # Only used in production

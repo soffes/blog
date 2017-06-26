@@ -1,8 +1,7 @@
 ---
+title: Motivation
 cover_image: cover.jpg
 ---
-
-# Motivation
 
 ==Most of the time I disappoint myself.==
 

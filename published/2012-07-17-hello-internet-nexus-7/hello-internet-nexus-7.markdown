@@ -1,11 +1,8 @@
 ---
+title: "Hello Internet: Nexus 7"
 cover_image: cover.jpg
-tags:
-- video
-- hellointernet
+categories: video hello-internet
 ---
-
-# Hello Internet: Nexus 7
 
 My first experience with the Android on the Nexus 7.
 

@@ -1,4 +1,7 @@
-# Running Rails Local Development with Nginx, Postgres, and Passenger with Homebrew
+---
+title: Running Rails Local Development with Nginx, Postgres, and Passenger with Homebrew
+categories: development web ruby
+---
 
 **Update 03/03/12:** Nowadays, I recommend using [Foreman](https://github.com/ddollar/foreman) or [Pow](http://pow.cx/). This isn't a horrible approach, but definitely more complicated than I like to have things.
 
@@ -10,7 +13,7 @@ Here are the steps to get all of this going. I tried to keep it as simple and cl
 
 This probably goes without saying, but you'll need [Xcode installed](http://developer.apple.com/technologies/xcode.html) to do all of this.
 
-### Installation
+## Installation
 
 1. [Install Homebrew](http://github.com/mxcl/homebrew#readme) and follow [the steps in the wiki about not sudoing when installing RubyGems](http://wiki.github.com/mxcl/homebrew/cpan-ruby-gems-and-python-disttools).
 
@@ -39,7 +42,7 @@ This probably goes without saying, but you'll need [Xcode installed](http://deve
 
     After the installation completes, there will be instructions on how to initialize the database, start the server, start the server at login, and install the pg gem. ==Do all of this.==
 
-### Server Configuration
+## Server Configuration
 
 1. Modify your Nginx configuration for Passenger. It will be located at `/usr/local/Cellar/nginx/0.7.62/conf/nginx.conf` (obviously you will need to replace the version number with whatever version you installed). Here is what mine looks like.
 
@@ -117,7 +120,7 @@ This probably goes without saying, but you'll need [Xcode installed](http://deve
     127.0.0.1       samsoffes.local
     ```
 
-### Database Configuration
+## Database Configuration
 
 1. If you haven't already, edit your application's `database.yml` file to use PostgreSQL. Here is an example:
 
@@ -159,7 +162,7 @@ This probably goes without saying, but you'll need [Xcode installed](http://deve
 
     Note: you need to make your user a superuser for your tests to run correctly. More on this [here](http://blogs.law.harvard.edu/djcp/2009/01/rails-22-postgres-and-testing/comment-page-1/).
 
-### Let's get started already!
+## Let's get started already!
 
 So, to review, you have just installed and configured Nginx, Passenger, and PostgreSQL. Now, all you have to do is type `sudo nginx` to start Nginx and point your browser to your virtual host (so for me it would be `http://samsoffes.local`). That's it! You're done!
 

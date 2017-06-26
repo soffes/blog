@@ -1,4 +1,7 @@
-# Part of RubyMotion Open Sourced
+---
+title: Part of RubyMotion Open Sourced
+categories: development ruby ios industry
+---
 
 This is really amazing to hear.
 

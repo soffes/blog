@@ -1,4 +1,7 @@
-# How to Install Ruby 1.9.3
+---
+title: How to Install Ruby 1.9.3
+categories: ruby development
+---
 
 I'm a fan of living on the edge. Ruby 1.9.3 [just came out](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/40527) today. It's apparently really stable as well!
 
@@ -6,7 +9,7 @@ I'm a fan of living on the edge. Ruby 1.9.3 [just came out](http://blade.nagaoka
 >
 > — [David Heinemeier Hansson](https://twitter.com/dhh/status/130731723750244352)
 
-### Installing rbenv
+## Installing rbenv
 
 Installing Ruby 1.9.3 is easy. My preferred approach is using [rbenv](https://github.com/sstephenson/rbenv) and [ruby-build](https://github.com/sstephenson/ruby-build) by [Sam Stephenson](https://github.com/sstephenson) (great name, I know). rbenv makes it easy to have multiple versions of Ruby on your system (and in a much cleaner way than [rvm](http://beginrescueend.com/)).
 
@@ -18,9 +21,9 @@ $ brew install rbenv
 $ brew install ruby-build
 ```
 
-You can also use [my dot files](https://github.com/samsoffes/dotfiles) or [install without Homebrew](https://github.com/sstephenson/rbenv#section_2.1) instead if you'd like.
+You can also use [my dot files](https://github.com/soffes/dotfiles) or [install without Homebrew](https://github.com/sstephenson/rbenv#section_2.1) instead if you'd like.
 
-### Installing Ruby
+## Installing Ruby
 
 Once you have rbenv and ruby-build installed, you can run the following command to get Ruby 1.9.3 installed.
 

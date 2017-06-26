@@ -1,4 +1,7 @@
-# Linus Torvalds on git
+---
+title: Linus Torvalds on git
+categories: video developement git
+---
 
 Just watched this video on YouTube. I thought it was really interesting. I've never heard Torvalds speak before. He's a funny guy. I liked how he told people to google how to use git if they didn't know. Good stuff.
 

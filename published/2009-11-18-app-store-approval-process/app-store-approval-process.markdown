@@ -1,4 +1,7 @@
-# App Store Approval Process
+---
+title: App Store Approval Process
+categories: development ios
+---
 
 So [Joel Comm](http://www.joelcomm.com/) (funny story, he offered me a job awhile back, anyway) who most notably made [iFart](http://itunes.apple.com/us/app/ifart-mobile-1-fart-machine-updated/id293760823?mt=8) released [a video](https://www.youtube.com/watch?v=kDAb64GwFbo) (watch below) today begging Steve Jobs to let his new app into the App Store.
 
@@ -10,7 +13,7 @@ Here's my take on the whole thing. If Joel or anyone else wants to release a bun
 
 ==Apple, please be consistent.== As a developer that has submitted several apps to the App Store, and experienced this frustration many times before, I really wish they would publish a set of rules and stick to them.
 
-### Joe Hewitt
+## Joe Hewitt
 
 [Joe Hewitt](http://joehewitt.com/) was the developer of the Facebook app. He [tweeted](http://twitter.com/joehewitt/status/5631765190) that he was no longer going to work on it [because of his frustration with the App Store](http://www.techcrunch.com/2009/11/11/joe-hewitt-developer-of-facebooks-massively-popular-iphone-app-quits-the-project/).
 

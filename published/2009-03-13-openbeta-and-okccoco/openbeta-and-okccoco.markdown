@@ -1,6 +1,9 @@
-# OpenBeta and OKCCoCo
+---
+title: OpenBeta and OKCCoCo
+categories: life development
+---
 
-Tonight I went to [OpenBeta](http://openbeta.extendedbeta.com) with some friends from work. I met a lot of super cool people too. It's always cool to connect with people in person that you have only met via [Twitter](http://twitter.com/samsoffes).
+Tonight I went to [OpenBeta](http://openbeta.extendedbeta.com) with some friends from work. I met a lot of super cool people too. It's always cool to connect with people in person that you have only met via [Twitter](http://twitter.com/soffes).
 
 OpenBeta is an [unconference](http://en.wikipedia.org/wiki/Unconference) focused on web development, software development, and design. There were over 200 people there. It's awesome to have such a community here in Oklahoma City. I always love meeting other iPhone developers in person. So far, I've only met two.
 

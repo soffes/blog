@@ -1,4 +1,7 @@
-# Shapes App
+---
+title: Shapes App
+categories: app
+---
 
 My friend, [@iTod](http://twitter.com/itod), just released a great application called [Shapes](http://shapesapp.com).
 

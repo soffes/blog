@@ -1,4 +1,7 @@
-# Yay For RSS and Kohana
+---
+title: Yay For RSS and Kohana
+categories: meta development web php
+---
 
 So I just put together some code real quick for building my RSS feed. I think I am finally going to make my own engine in [Kohana](http://kohanaphp.com) like I've talked about for so long.
 

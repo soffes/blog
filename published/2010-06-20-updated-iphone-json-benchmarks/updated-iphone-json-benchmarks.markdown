@@ -1,4 +1,7 @@
-# Updated iPhone JSON Benchmarks
+---
+title: Updated iPhone JSON Benchmarks
+categories: development ios objective-c
+---
 
 **Update:** You can see the latest benchmarks at <https://github.com/soffes/json-benchmarks>. The results change quite a bit, so I'd recommend just running the code and seeing who wins.
 
@@ -10,7 +13,7 @@ I [updated my test app](http://github.com/soffes/json-benchmarks/commit/18ec5f34
 
 ![8GB 3rd Gen iPod Touch running iOS 3.1.3](2e1X2I3x3a3R3z1q3S3O2J151Z2T3x3s.png)
 
-### Results
+## Results
 
 On both devices, they ranked [Apple JSON][], [YAJL][], [JSON Framework][], and [TouchJSON][]. You can read the detailed results [on GitHub](http://github.com/soffes/json-benchmarks/blob/18ec5f34a46b8c973aa301fe738753ce52c12f4d/Readme.markdown).
 

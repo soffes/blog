@@ -1,4 +1,7 @@
-# Customize UIKit with Method Swizzling
+---
+title: Customize UIKit with Method Swizzling
+categories: ios development objective-c
+---
 
 **Update 03/03/12:** You should really use [UIAppearance](https://developer.apple.com/library/ios/#DOCUMENTATION/UIKit/Reference/UIAppearance_Protocol/Reference/Reference.html) since this no longer works in iOS 5.0.
 
@@ -31,7 +34,7 @@ In my app, I wanted to change most of the navigation bars in all of the navigati
 
 I decided any `UINavigationBar` with `UIBarStyleDefault` as its style, I want to override and everything else leave alone. There is no way to do this with the category approach. You can't call `[self drawRect:rect]` because it would infinitely call itself since you replaced it with the method you are calling it from.
 
-### Method swizzling
+## Method swizzling
 
 After some googling and some help from #macdev on Freenode, I changed my solution to use method swizzling. [Method swizzling](http://www.cocoadev.com/index.pl?MethodSwizzling), in short, is switching methods at runtime. So you can say for `UINavigationBar` don't use the standard `drawRect:`, but instead swap it with a different one. (This is kinda confusing, but hang in there. It's not that hard.)
 
@@ -82,7 +85,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-So this kinda hurt my head when I was first looking at all of this. In `main.m`, before the application starts, I swizzle the `UINavigationBar` methods. `method_exchangeImplementations()` switches my `drawRectCustomBackground:` with `drawRect:` in 
+So this kinda hurt my head when I was first looking at all of this. In `main.m`, before the application starts, I swizzle the `UINavigationBar` methods. `method_exchangeImplementations()` switches my `drawRectCustomBackground:` with `drawRect:` in
 `UINavigationBar`. When I call the default implementation in `drawRectCustomBackground:`, it looks like I'm calling the same method, but I am actually calling the default implementation because it swapped them.
 
 This is pretty crazy and a little confusing (especially with someone new to Objective-C), but really powerful. You can use this approach to customize a lot of things Apple didn't intend for you to mess with. Go out and make something cool!

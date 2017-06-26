@@ -1,4 +1,7 @@
-# Apple Slaps Vista in the Face
+---
+title: Apple Slaps Vista in the Face
+categories: apple
+---
 
 1. [http://www.apple.com/getamac/](http://web.archive.org/web/20070505060000/http://www.apple.com/getamac/)
 

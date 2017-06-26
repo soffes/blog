@@ -1,4 +1,7 @@
-# Logic Pro Studio is Awesome
+---
+title: Logic Pro Studio is Awesome
+categories: apple music
+---
 
 So I bought [Logic Studio](http://web.archive.org/web/20071014203346/http://apple.com/logicstudio). It's awesome! I haven't even scratched the surface yet. It's awesome to know that you have all of the tools right in front of you to make any sound you could possibly think of.
 

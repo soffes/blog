@@ -1,4 +1,7 @@
-# I Like Gowalla
+---
+title: I Like Gowalla
+categories: ios
+---
 
 [Gowalla][] is a cool newish iPhone game from [Alamofire][] (I love those guys). Here's the official blurb:
 

@@ -1,11 +1,7 @@
 ---
-tags:
-- video
-- screencast
-- opensource
+title: Setting Up Open Source and Live Coding — Part 1
+categories: video screencast
 ---
-
-# Setting Up Open Source and Live Coding – Part 1
 
 This is a play-by-play screencast of me moving a component out of SSToolkit into its own library. I cover setting up a good open source component, writing Core Graphics drawing code, a bit of low-level C stuff, and some of my workflow.
 
@@ -14,7 +10,7 @@ https://player.vimeo.com/video/69361266?title=0&amp;byline=0&amp;portrait=0&amp;
 
 You can find the code so far for this on GitHub: [github.com/soffes/SAMGradientView](https://github.com/soffes/SAMGradientView). We’ll be adding a lot more in part 2.
 
-### Here are some things I mentioned
+## Here are some things I mentioned
 
 * [SSToolkit](http://sstoolk.it)
 * [SAMBadgeView](https://github.com/soffes/SAMBadgeView)

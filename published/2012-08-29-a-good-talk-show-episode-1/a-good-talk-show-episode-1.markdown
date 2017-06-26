@@ -1,4 +1,7 @@
-# A Good Talk Show: Episode 1
+---
+title: "A Good Talk Show: Episode 1"
+categories: podcast
+---
 
 [Alex Arena](https://twitter.com/alexarena) was kind enough to have me on the [first episode](http://www.goodshows.co/8/post/2012/08/01.html) of [A Good Talk Show](http://www.goodshows.co/a-good-talk-show.html).
 

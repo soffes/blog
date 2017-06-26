@@ -1,4 +1,7 @@
-# 3 Easy Steps to Optimize Web Apps for iPhone
+---
+title: 3 Easy Steps to Optimize Web Apps for iPhone
+categories: development web ios
+---
 
 So I recent improved how my blog looks and works on iPhone in just a few lines of code.  The iPhone web browser is awesome, but for large websites, it is really hard to read something without panning around vertically and then scrolling horizontally. Solving these issues will make your site way more useable on Mobile Safari.
 

@@ -1,4 +1,7 @@
-# The iDisk Sucks
+---
+title: The iDisk Sucks
+categories: apple
+---
 
 So I bought .mac in January when I started at LifeChurch.tv because I got an iMac at work. I figured getting .mac would simplify syncing all of my data across my two computers.
 

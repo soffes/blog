@@ -1,4 +1,7 @@
-# Reverse Minimalism
+---
+title: Reverse Minimalism
+categories: life
+---
 
 I sold all of my stuff when I started [Nothing Magical](http://nothingmagical.com) and work on [Cheddar](http://cheddarapp.com). It was refreshing. All I had was my bed and my desk. For productivity's sake, this was the best thing I ever did. I'd wager that Cheddar wouldn't have been done as quickly or at the quality it was if I had more stuff to distract me.
 

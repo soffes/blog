@@ -1,18 +1,21 @@
-# Archiving Objective-C Objects with NSCoding
+---
+title: Archiving Objective-C Objects with NSCoding
+categories: development ios objective-c
+---
 
 For the seasoned Cocoa developer, this is a piece of cake. For newer developers, this can be a real pain, especially if you don't know what you're looking for. I get this question a decent amount, so I figured I'd put a quick guide together.
 
-### The Problem
+## The Problem
 
 You can't put just any object in a [plist](http://en.wikipedia.org/wiki/Property_list). This mainly gets people when they want to put something into [NSUserDefaults](http://developer.apple.com/mac/library/documentation/Cocoa/Reference/Foundation/Classes/NSUserDefaults_Class/Reference/Reference.html) and get an error (because NSUserDefaults archives to a plist under the hood).
 
 Plists only support the core types: `NSString`, `NSNumber`, `NSDate`, `NSData`, `NSArray`, `NSDictionary` (and their CF buddies thanks to the toll-free bridge). The key here is `NSData`. ==You can convert any object to `NSData` with the `NSCoding` protocol.==
 
-### The Solution
+## The Solution
 
 There are two things you have to do: ==implement NSCoding== and then ==use the archiver and unarchiver==.
 
-#### Implementing NSCoding
+### Implementing NSCoding
 
 Say you have an object that looks like this:
 
@@ -103,7 +106,7 @@ Pretty simple. All I did was add the `<NSCoding>` protocol delectation in the he
 
 Remember, that you can use `NSCoder` to archive your object however whatever you want. It doesn't have to just be all of the instance variables in your object, although that's what you'll do 90% of the time.
 
-#### Using the Archiver and Unarchiver
+### Using the Archiver and Unarchiver
 
 This part is also really easy. Let's say you have an array of notes that you want to put into `NSUserDefaults`, here's the code:
 

@@ -1,4 +1,6 @@
-# Typical Sam
+---
+title: Typical Sam
+---
 
 National Geographic released [a video about the typical human](http://news.yahoo.com/s/yblog_thelookout/20110303/us_yblog_thelookout/the-most-typical-face-on-the-planet). It's really interesting. You should watch it.
 

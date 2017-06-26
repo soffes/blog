@@ -1,4 +1,7 @@
-# Having Less
+---
+title: Having Less
+categories: life
+---
 
 When I left my last job a few months ago, I decided to simplify. Partly to save money to pay for my expenses and partly to just have less stuff.
 

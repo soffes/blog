@@ -1,4 +1,7 @@
-# Mic Setup
+---
+title: Mic Setup
+categories: music
+---
 
 I recently [made a video](https://www.youtube.com/watch?v=Vi9KaTbGPKA) mentioning my new mic setup and got a few questions about it. Instead of making a video that just mentions tons of links, I thought I'd write it up.
 

@@ -1,4 +1,7 @@
-# Sync Your Fonts With Dropbox Tutorial
+---
+title: Sync Your Fonts With Dropbox Tutorial
+categories: development
+---
 
 This is a bit technical, but designer friends have no fear.
 

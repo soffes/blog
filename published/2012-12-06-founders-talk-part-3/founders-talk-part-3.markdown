@@ -1,4 +1,7 @@
-# Founders Talk - Part 3
+---
+title: Founders Talk - Part 3
+categories: podcast
+---
 
 [Adam Stacoviak](https://twitter.com/adamstac) was kind enough to have me on [Founders Talk](http://5by5.tv/founderstalk/40) for a third time! I'm super honored that he wanted to do a part 3.
 

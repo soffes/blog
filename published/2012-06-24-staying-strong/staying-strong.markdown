@@ -1,4 +1,7 @@
-# Staying Strong
+---
+title: Staying Strong
+categories: freelance life
+---
 
 Part of being an engineer (especially in San Francisco) is getting recruiter emails. Most of the time, they are [awful](http://awfulrecruiters.com).
 
