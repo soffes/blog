@@ -1,7 +1,10 @@
 ---
-title: Widest Roman Prime
-categories: development swift
+tags:
+- development
+- swift
 ---
+
+# Widest Roman Prime
 
 One of my favorite joke Twitter accounts is [@wacnt](https://twitter.com/wacnt). It tweets things [Wolfram|Alpha](http://www.wolframalpha.com) can’t answer. I’ve asked [Facebook M](http://www.wired.com/2015/08/facebook-launches-m-new-kind-virtual-assistant/) to figure out a few of them and [it did](https://twitter.com/soffes/status/679015723532947456).
 

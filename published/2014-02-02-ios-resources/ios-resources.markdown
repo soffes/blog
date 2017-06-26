@@ -1,7 +1,8 @@
 ---
-title: iOS Resources
 tags: development ios
 ---
+
+# iOS Resources
 
 If you’re new to iOS or are just learning, it can be tough to move forward when you’re stuck or discover what you should learn next. This is a list (in no particular order) of things that should help.
 

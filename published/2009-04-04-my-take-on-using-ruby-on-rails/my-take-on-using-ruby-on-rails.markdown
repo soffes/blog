@@ -1,7 +1,10 @@
 ---
-title: My Take on using Ruby on Rails
-categories: development ruby
+tags:
+- development
+- ruby
 ---
+
+# My Take on using Ruby on Rails
 
 So I recently decided to give [Ruby on Rails][] another chance. For many of the same reasons I gave [jQuery][] a chance. I'll use this decision as an example, so bear with me for a second.
 

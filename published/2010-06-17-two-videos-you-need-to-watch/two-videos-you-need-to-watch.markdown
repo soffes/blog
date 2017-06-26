@@ -1,7 +1,10 @@
 ---
-title: Two Videos You Need to Watch
-categories: video development
+tags:
+- video
+- development
 ---
+
+# Two Videos You Need to Watch
 
 Here are two talks from [RailsConf 2010](http://en.oreilly.com/rails2010). You can see all of the keynotes [on YouTube](https://www.youtube.com/view_play_list?p=393ECE649BB3813D). I haven't ever gone to a RailsConf, but I hope to sometime.
 

@@ -1,7 +1,9 @@
 ---
-title: On Managing Money
-categories: life
+tags:
+- life
 ---
+
+# On Managing Money
 
 I generally suck at managing money. My usual attitude to paying for anything is "I need this, so here is the money." When people ask me how much things cost, I never know. ==This is stupid.==
 

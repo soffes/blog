@@ -1,7 +1,10 @@
 ---
-title: App Store Rejection
-categories: development ios
+tags:
+- development
+- ios
 ---
+
+# App Store Rejection
 
 December was a month of rejection for me. The [X3watch app][] another of my client's apps, and [LifeChurch.tv][]'s [Bible app](http://youversion.com/iphone) (which I wrote most of but am no longer a part of) got rejected.
 

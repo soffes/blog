@@ -1,7 +1,10 @@
 ---
-title: Custom Cloud App Viso
-categories: development ruby
+tags:
+- development
+- ruby
 ---
+
+# Custom Cloud App Viso
 
 If you haven't heard of [Cloud App](http://getcloudapp.com/), you must be living under a rock or something else that shields you from awesome. It's a fantastic service. You **must** check it out.
 

@@ -1,7 +1,10 @@
 ---
-title: Announcing Cheddar for Mac Public Beta
-categories: announcement mac
+tags:
+- announcement
+- mac
 ---
+
+# Announcing Cheddar for Mac Public Beta
 
 I’m super happy to announce [Cheddar for Mac](https://cheddarapp.com/mac) is now in public beta. ==You can download it [here](https://cheddarapp.com/mac).==
 

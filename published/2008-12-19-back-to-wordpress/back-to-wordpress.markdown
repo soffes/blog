@@ -1,7 +1,9 @@
 ---
-title: Back to WordPress
-categories: meta
+tags:
+- meta
 ---
+
+# Back to WordPress
 
 So I have been on so many different blogging platforms, it's not even funny. The last one I was using was some I wrote custom in [Kohana](http://kohanaphp.com). I was pretty happy with it. The only thing about it was that I never took the time to build a good admin for it. Since there was no good admin for it, I never took the time to update it manually.
 

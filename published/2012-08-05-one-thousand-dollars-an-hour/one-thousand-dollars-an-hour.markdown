@@ -1,7 +1,9 @@
 ---
-title: One Thousand Dollars an Hour
-categories: freelance
+tags:
+- freelance
 ---
+
+# One Thousand Dollars an Hour
 
 **Update:** I've since adjusted my rate to $300/hr since I wanted to start taking clients. This crazy was designed to prevent getting work unless it was going to pay super well while I focused on other things.
 

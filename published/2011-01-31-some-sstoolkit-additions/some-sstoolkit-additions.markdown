@@ -1,7 +1,11 @@
 ---
-title: Some SSToolkit Additions
-categories: development ios objective-c
+tags:
+- development
+- ios
+- objective-c
 ---
+
+# Some SSToolkit Additions
 
 Over the weekend, I messed around and added some stuff to [SSToolkit](https://github.com/soffes/sstoolkit). The most useable thing I added was a simple badge view and cell that wraps it for shows simple badges like Mail.app in iOS. Here's a screenshot:
 

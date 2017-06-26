@@ -1,7 +1,9 @@
 ---
-title: Snapchat
-categories: industry
+tags:
+- industry
 ---
+
+# Snapchat
 
 Today Snapchat [turned down](http://www.usatoday.com/story/tech/2013/11/13/report-facebook-offered-snapchat-3-billion/3517929/) a $3,000,000,000 offer from Facebook. That is a stupid amount of money. They have less than 30 employees. Wow.
 

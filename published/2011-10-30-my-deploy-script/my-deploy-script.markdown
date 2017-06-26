@@ -1,7 +1,11 @@
 ---
-title: My Deploy Script
-categories: ruby development web
+tags:
+- ruby
+- development
+- web
 ---
+
+# My Deploy Script
 
 Here's my basic rake task I use to deploy my blog:
 

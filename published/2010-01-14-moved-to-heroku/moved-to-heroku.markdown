@@ -1,7 +1,11 @@
 ---
-title: Moved To Heroku
-categories: development meta web
+tags:
+- development
+- meta
+- web
 ---
+
+# Moved To Heroku
 
 I posted a [screencast on Heroku](/post/easy-deployment-with-heroku) a few months ago. Since then, [my company](http://tastefulworks.com) has moved all of their stuff to [Heroku](http://heroku.com). It has been working really great for us.
 

@@ -1,7 +1,10 @@
 ---
-title: On My Own Again
-categories: freelance life
+tags:
+- freelance
+- life
 ---
+
+# On My Own Again
 
 So if you remember, I wrote a blog post [about a year ago](http://samsoff.es/posts/moving-to-dallas) about life and such. I [quit my job](http://samsoff.es/posts/i-dont-have-a-boss-anymore) and then freelanced for a bit. After doing that for a bit and hating it, I started working at [Tasteful Works](http://tastefulworks.com). It's been a good ride here at Tasteful Works, but ==August 31 is my last day==. Still friends with those guys. Quality dudes.
 

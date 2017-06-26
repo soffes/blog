@@ -1,8 +1,11 @@
 ---
-title: Coda 2
 cover_image: cover.jpg
-categories: industry mac
+tags:
+- industry
+- mac
 ---
+
+# Coda 2
 
 Panic just released their Coda 2 teaser site. It's ridiculously impressive.
 

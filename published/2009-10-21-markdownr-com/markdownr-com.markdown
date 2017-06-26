@@ -1,7 +1,12 @@
 ---
-title: Markdownr.com
-categories: product development web ruby
+tags:
+- product
+- development
+- web
+- ruby
 ---
+
+# Markdownr.com
 
 [Markdownr.com][] is a neat little tool I wrote in a couple of hours for myself. I wanted a quick way to preview [markdown][] (if you don't know what markdown is, you should [go read about it](http://daringfireball.net/projects/markdown)) since I write all of my blog posts in [markdown][].
 

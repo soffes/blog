@@ -1,7 +1,11 @@
 ---
-title: "Hello Internet: iPhone Screens"
-categories: video hello-internet apple
+tags:
+- video
+- hello-internet
+- apple
 ---
+
+# Hello Internet: iPhone Screens
 
 My thoughts on iPhone screens and overall design, as well as my first experience with my new iPhone 4.
 

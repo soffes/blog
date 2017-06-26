@@ -1,7 +1,13 @@
 ---
-title: Announcing Cheddar
-categories: product development design web ios
+tags:
+- product
+- development
+- design
+- web
+- ios
 ---
+
+# Announcing Cheddar
 
 [Cheddar](http://cheddarapp.com) is an app I started working on November of last year. From the start, it was a really exciting project, but I never had much time to devote to it. Now that I [don't have a job](http://samsoff.es/posts/here-we-go-again), I've been focusing on it full time.
 

@@ -1,7 +1,9 @@
 ---
-title: Acquisitions
-categories: industry
+tags:
+- industry
 ---
+
+# Acquisitions
 
 I'm really bummed today. [Acrylic Apps](http://acrylicapps.com/) got acquired by Facebook. [Sparrow](http://sprw.me/) got acquired by Google.
 

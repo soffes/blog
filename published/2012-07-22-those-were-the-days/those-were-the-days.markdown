@@ -1,8 +1,10 @@
 ---
-title: Those Were The Days
 cover_image: cover.jpg
-categories: music
+tags:
+- music
 ---
+
+# Those Were The Days
 
 I was just talking with my good friend, [Matt Grimm](http://twitter.com/8bitmatt). We used to be in a band together called [Finding Chesterfield](http://findingchesterfield.com). It was some of the best times in my life.
 

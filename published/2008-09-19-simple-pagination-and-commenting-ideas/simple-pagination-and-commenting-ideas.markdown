@@ -1,7 +1,11 @@
 ---
-title: Simple Pagination and Commenting Ideas
-categories: meta development web
+tags:
+- meta
+- development
+- web
 ---
+
+# Simple Pagination and Commenting Ideas
 
 I was playing with the [new Twitter](http://twitter.com/samsoffes) last night when I got the idea to redo my blog colors to match my [my Twitter profile](http://twitter.com/samsoffes) colors. I got kinda bored and and decided to add pagination to my blog.</p>
 

@@ -1,7 +1,10 @@
 ---
-title: Trying to Teach Web Development
-categories: development web
+tags:
+- development
+- web
 ---
+
+# Trying to Teach Web Development
 
 Lately I've been trying to teach [an awesome friend](http://twitter.com/haileyjayne) front-end web development. It's so hard to even know where to begin.
 

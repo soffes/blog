@@ -1,7 +1,9 @@
 ---
-title: Moving to Louisville
-categories: life
+tags:
+- life
 ---
+
+# Moving to Louisville
 
 **Update:** [Scratch that, I'm staying in Oklahoma City](/post/scratch-that-im-staying-in-oklahoma-city)
 

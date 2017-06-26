@@ -1,8 +1,12 @@
 ---
-title: How I Design for iOS
 cover_image: cover.jpg
-categories: development ios design
+tags:
+- development
+- ios
+- design
 ---
+
+# How I Design for iOS
 
 As a developer, designing is a big challenge. My process is a lot different than "normal designers." I design much like I code: trial and error.
 

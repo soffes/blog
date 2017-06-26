@@ -1,7 +1,11 @@
 ---
-title: Customize UIKit with Method Swizzling
-categories: ios development objective-c
+tags:
+- ios
+- development
+- objective-c
 ---
+
+# Customize UIKit with Method Swizzling
 
 **Update 03/03/12:** You should really use [UIAppearance](https://developer.apple.com/library/ios/#DOCUMENTATION/UIKit/Reference/UIAppearance_Protocol/Reference/Reference.html) since this no longer works in iOS 5.0.
 

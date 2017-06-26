@@ -1,8 +1,11 @@
 ---
-title: Introducing Shares 2
 cover_image: cover.png
-categories: nothingmagical coins
+tags:
+- nothingmagical
+- coins
 ---
+
+# Introducing Shares 2
 
 Today Shares 2 was released! It’s a complete redesign of Shares for iOS 7 as well as tons of new features.
 

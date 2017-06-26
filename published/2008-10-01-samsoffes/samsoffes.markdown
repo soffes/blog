@@ -1,7 +1,10 @@
 ---
-title: samsoff.es
-categories: meta web
+tags:
+- meta
+- web
 ---
+
+# samsoff.es
 
 So I bought a new domain. It was super expensive, but it saves typing 3 more characters. I need to start switching all of my email and such now. Any old links, will still work and redirect.
 

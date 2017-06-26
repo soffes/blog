@@ -1,7 +1,9 @@
 ---
-title: New Server Script
-categories: development
+tags:
+- development
 ---
+
+# New Server Script
 
 I've found myself setting up lots of servers over at [RackSpace Cloud](http://rackspacecloud.com) lately. It seemed look a good idea to automate everything instead of leaving it up to myself to remember everything you have to do each time.
 

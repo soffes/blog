@@ -1,7 +1,9 @@
 ---
-title: Moving to Dallas
-categories: life
+tags:
+- life
 ---
+
+# Moving to Dallas
 
 I'm moving to Dallas. For real. I know I've said I'm moving here and there over the past few months, but I already have a place to live and such in Dallas so it's official this time.
 

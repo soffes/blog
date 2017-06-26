@@ -1,7 +1,9 @@
 ---
-title: How To Learn
-categories: development
+tags:
+- development
 ---
+
+# How To Learn
 
 If you want to learn something, just start doing whatever you want to learn.
 

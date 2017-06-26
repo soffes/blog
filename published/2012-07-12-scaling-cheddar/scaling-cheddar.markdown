@@ -1,7 +1,11 @@
 ---
-title: Scaling Cheddar
-categories: development ruby web
+tags:
+- development
+- ruby
+- web
 ---
+
+# Scaling Cheddar
 
 The first few days of the [Cheddar](http://cheddarapp.com) launch was rough. I got hammered the first day with over 40,000 views to the website (not including API traffic). At one point, I was running 40 dynos (Cheddar runs on Heroku).
 

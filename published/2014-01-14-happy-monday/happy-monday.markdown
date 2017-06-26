@@ -1,8 +1,10 @@
 ---
-title: Happy Monday
 cover_image: cover.jpg
-categories: podcast
+tags:
+- podcast
 ---
+
+# Happy Monday
 
 This week, I had the privilege of [being on Happy Monday](http://www.happymondaypodcast.com/episodes/sam-soffes).
 

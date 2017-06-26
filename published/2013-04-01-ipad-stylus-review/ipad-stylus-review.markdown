@@ -1,8 +1,10 @@
 ---
-title: iPad Stylus Review
 cover_image: cover.jpg
-categories: video
+tags:
+- video
 ---
+
+# iPad Stylus Review
 
 Here's a quick review of the [Wacom Bamboo Solo](http://www.wacom.com/products/stylus/bamboo-stylus/solo) and [Pogo Connect](http://www.tenonedesign.com/connect.php) for iPad. I mainly wanted to try to shoot something with my [RX1](http://store.sony.com/p/Sony-Cyber-shot-RX1-Full-Frame-35mm-Digital-Camera/en/p/DSCRX1/B).
 

@@ -1,7 +1,10 @@
 ---
-title: UITableViewCell Silly Magic
-categories: development ios
+tags:
+- development
+- ios
 ---
+
+# UITableViewCell Silly Magic
 
 Ever had a `UITableViewCell`'s `imageView` not update when you set it's `image` in a callback or block? It's amazingly frustrating. I usually end up going over and over the code to make sure it sets it on the main thread, the image isn't `nil`, the image view is on the screen, etc, etc.
 

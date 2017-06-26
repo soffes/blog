@@ -1,7 +1,9 @@
 ---
-title: Value of Beta
-categories: development
+tags:
+- development
 ---
+
+# Value of Beta
 
 I thought I had decided against doing betas of software to more than just close friends. A few friends assured me that most feedback would be useless. Their point as most just wanted to get it early to feel cool but didn’t actually use it or send feedback. I can definitely say for iOS betas in the past, this has been my experience as well.
 

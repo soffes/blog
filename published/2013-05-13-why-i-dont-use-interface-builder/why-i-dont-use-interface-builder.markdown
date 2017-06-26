@@ -1,8 +1,11 @@
 ---
-title: Why I Don’t Use Interface Builder
 cover_image: cover.jpg
-categories: development ios
+tags:
+- development
+- ios
 ---
+
+# Why I Don’t Use Interface Builder
 
 For iOS development, I don't use Interface Builder. I haven't willfully used a NIB (when I say NIB, I mean Interface Builder file, not the specific format) since iOS 2.0. In the past, I've worked with a few folks that really liked using Interface Builder. This is an argument I've had over and over.
 

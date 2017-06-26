@@ -1,7 +1,9 @@
 ---
-title: Being 19 with a Career Sucks
-categories: life
+tags:
+- life
 ---
+
+# Being 19 with a Career Sucks
 
 So I'm 19 years old in case you didn't know. When I was 18, I moved across the country from Louisville, KY to Oklahoma City, OK for a sweet job. That was pretty crazy. I love my job at [LifeChurch.tv](http://www.lifechurch.tv/) on the [Digerati Team](http://lifechurch.tv/digerati/). While I've been here I worked on some pretty amazing projects like the [LifeChurch.tv website](http://www.lifechurch.tv/), [One Prayer](http://oneprayer.com/), and the [YouVersion Bible App](http://youversion.com/iphone) for the iPhone.
 

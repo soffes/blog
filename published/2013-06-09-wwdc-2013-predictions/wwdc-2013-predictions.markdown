@@ -1,7 +1,8 @@
 ---
-title: WWDC 2013 Predictions
 cover_image: cover.png
 ---
+
+# WWDC 2013 Predictions
 
 I've been thinking a ton about tomorrow's keynote. I think everyone has. This year is different than most. [No one knows anything](http://daringfireball.net/2013/06/wwdc_2013_expectations) this year. If you think back to the iPhone 4 announcement, Steve even commented during the keynote that "some of you have already seen this." This year it's just silence.
 

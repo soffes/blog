@@ -1,7 +1,10 @@
 ---
-title: Automated Bundle Version
-categories: development ruby
+tags:
+- development
+- ruby
 ---
+
+# Automated Bundle Version
 
 Lately I've been using a script to set my apps’ bundle version.
 

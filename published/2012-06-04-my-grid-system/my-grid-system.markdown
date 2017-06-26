@@ -1,7 +1,11 @@
 ---
-title: My Grid System
-categories: development web css
+tags:
+- development
+- web
+- css
 ---
+
+# My Grid System
 
 There's a lot of people using responsive CSS grid systems these days. Twitter's [Bootstrap](http://twitter.github.com/bootstrap) and [Nathan Smith](http://sonspring.com)'s [960 Grid System](http://960.gs) are two really popular ones.
 

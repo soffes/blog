@@ -1,7 +1,10 @@
 ---
-title: Image Optimization on iOS
-categories: development ios
+tags:
+- development
+- ios
 ---
+
+# Image Optimization on iOS
 
 Recently in [IncrediBooth](http://incredibooth.com/), I greatly decreased the size of the IPA we send to Apple. ==We were around 70MB before everything and ended up at 31MB==. It was honestly really easy to shave that much off the app.
 

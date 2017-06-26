@@ -1,7 +1,9 @@
 ---
-title: Cheddar Lessons So Far
-categories: development
+tags:
+- development
 ---
+
+# Cheddar Lessons So Far
 
 I've been working on [Cheddar](https://cheddarapp.com) full time for a month and a half now. This is the first time I've exclusively worked on my own products. The things I've learned in this short time are far from what I expected. Here's a few.
 

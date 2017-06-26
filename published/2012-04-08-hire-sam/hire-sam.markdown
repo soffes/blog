@@ -1,7 +1,9 @@
 ---
-title: Hire Sam
-categories: freelance
+tags:
+- freelance
 ---
+
+# Hire Sam
 
 You can now [hire me](http://hire.soff.es/). During the next few months, I'll be mainly focused on some [upcoming products](http://nothingmagical.com), but I need to eat so here we are. You can now hire me for up to 10 hours a week for $200/hr. I know that's expensive, but I need to guard my time.
 

@@ -1,7 +1,11 @@
 ---
-title: Archiving Objective-C Objects with NSCoding
-categories: development ios objective-c
+tags:
+- development
+- ios
+- objective-c
 ---
+
+# Archiving Objective-C Objects with NSCoding
 
 For the seasoned Cocoa developer, this is a piece of cake. For newer developers, this can be a real pain, especially if you don't know what you're looking for. I get this question a decent amount, so I figured I'd put a quick guide together.
 

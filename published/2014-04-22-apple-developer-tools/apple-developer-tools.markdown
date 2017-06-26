@@ -1,7 +1,10 @@
 ---
-title: Apple Developer Tools
-categories: development apple
+tags:
+- development
+- apple
 ---
+
+# Apple Developer Tools
 
 Recently, my friend, [Brian Minor](https://twitter.com/brianminor), [pointed out](https://twitter.com/brianminor/status/458611937539272704) that only iTunes Connect and iAd Gallery are the only two Apple iPhone apps that haven’t been updated to iOS 7 yet. Sure, we complain about Apple developer tools all the time. Let’s take a closer look.
 

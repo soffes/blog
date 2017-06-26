@@ -1,8 +1,12 @@
 ---
-title: Litely
 cover_image: cover.png
-categories: product development design
+tags:
+- product
+- development
+- design
 ---
+
+# Litely
 
 For the last 5 months, I’ve been working on [Litely for iOS](https://itunes.apple.com/app/litely/id850707754?mt=8&amp;uo=4&amp;at=1l3vmtU). It’s a photo app for iOS designed by my friend [Cole Rise](https://twitter.com/colerise) that I had the pleasure of building. Litely is available for iPhone and iPad, in 14 languages, starting today!
 

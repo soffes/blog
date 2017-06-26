@@ -1,7 +1,9 @@
 ---
-title: "New Music: To Wait A Lifetime"
-categories: music
+tags:
+- music
 ---
+
+# New Music: To Wait A Lifetime
 
 So I've been working really hard lately on stuff with my band, [Hollow](http://myspace.com/hollowrock). (I totally hate MySpace by the way. We're in the process of redoing our site.)
 

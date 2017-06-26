@@ -1,7 +1,10 @@
 ---
-title: Custom Controls in Footage
-categories: video screencast
+tags:
+- video
+- screencast
 ---
+
+# Custom Controls in Footage
 
 I've been working on app called [Footage](http://footageapp.com) with my good friend [Drew Wilson](https://twitter.com/drewwilson) (we made [Roon](https://roon.io) together). Footage is a video editor app he's been working on for awhile. Drew hired me to make the effects system and to come up with a way for some designer friends to make effects.
 

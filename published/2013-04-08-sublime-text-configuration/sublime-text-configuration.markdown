@@ -1,8 +1,10 @@
 ---
-title: Sublime Text 2 Configuration
 cover_image: cover.jpg
-categories: development
+tags:
+- development
 ---
+
+# Sublime Text 2 Configuration
 
 For a long time, I've been symlinking my [Sublime Text](http://sublimetext.com) configuration from Dropbox to where it wants it. Last night, I wiped my computer and remembered how handy this is.
 

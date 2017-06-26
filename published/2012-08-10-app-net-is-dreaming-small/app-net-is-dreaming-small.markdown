@@ -1,7 +1,9 @@
 ---
-title: App.net is Dreaming Small
-categories: industry
+tags:
+- industry
 ---
+
+# App.net is Dreaming Small
 
 If you haven't heard, there is this new social network called [App.net](http://app.net). I don't like it. Here's why.
 

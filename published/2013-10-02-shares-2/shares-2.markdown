@@ -1,8 +1,13 @@
 ---
-title: Shares 2
 cover_image: cover.png
-categories: product ios development design
+tags:
+- product
+- ios
+- development
+- design
 ---
+
+# Shares 2
 
 [Shares 2](http://useshares.com) was released late last night. It's a major update to Shares that adds support 4-inch iPhone screens and ==a whole new design for iOS 7==. It's [available on the App Store](https://itunes.apple.com/app/shares-2/id717510981) right now!
 

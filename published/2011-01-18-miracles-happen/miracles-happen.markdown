@@ -1,7 +1,10 @@
 ---
-title: Miracles Happen
-categories: games app
+tags:
+- games
+- app
 ---
+
+# Miracles Happen
 
 So I know we all joked that Duke Nukem Forever and Tweetie 2 would never come out.
 

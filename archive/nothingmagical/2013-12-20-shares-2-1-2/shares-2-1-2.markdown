@@ -1,7 +1,10 @@
 ---
-title: Shares 2.1.2
-categories: nothingmagical shares
+tags:
+- nothingmagical
+- shares
 ---
+
+# Shares 2.1.2
 
 Today [Shares](http://useshares.com) 2.1.2 was released! Here’s what’s new:
 

@@ -1,6 +1,5 @@
----
-title: Don't Censor Me
----
+
+# Don't Censor Me
 
 You know what really grinds my gears? People telling me what to tweet. Past employers have occasionally found issues with what I have to say. It's not like what I was saying was untrue either.
 

@@ -1,7 +1,11 @@
 ---
-title: Behind Cheddar’s Server
-categories: development ruby web
+tags:
+- development
+- ruby
+- web
 ---
+
+# Behind Cheddar’s Server
 
 So, [tech doesn't matter](http://samsoff.es/posts/cheddar-lessons-so-far). Tech is interesting though. Here's some of what I use to make Cheddar's server. A lot of Cheddar is on the server. I've spent way more time writing Ruby than writing Objective-C when it comes to Cheddar.
 

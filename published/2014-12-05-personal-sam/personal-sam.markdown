@@ -1,8 +1,10 @@
 ---
-title: Personal Sam
 cover_image: cover.jpg
-categories: video
+tags:
+- video
 ---
+
+# Personal Sam
 
 After watching [Particle Fever](http://particlefever.com), I got inspired to do a [daily video journal thing](http://personalsam.com "Personal Sam"). Particle Fever is a documentary about the [Large Hadron Collider](http://en.wikipedia.org/wiki/Large_Hadron_Collider) (which is super interesting). They had video from some of the scientists’ daily video journals over the years of working on it. It was really cool to watch.
 

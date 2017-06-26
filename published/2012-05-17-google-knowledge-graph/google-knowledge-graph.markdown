@@ -1,7 +1,9 @@
 ---
-title: Google Knowledge Graph
-categories: industry
+tags:
+- industry
 ---
+
+# Google Knowledge Graph
 
 Looks like Google got tired of us using Wikipedia. It does look like a cool idea and the video is pretty neat.
 

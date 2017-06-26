@@ -1,7 +1,11 @@
 ---
-title: RubyMotion Review
-categories: ruby ios development
+tags:
+- ruby
+- ios
+- development
 ---
+
+# RubyMotion Review
 
 [RubyMotion](http://www.rubymotion.com) was released today. ==RubyMotion lets you write iPhone and iPad apps in Ruby.==
 

@@ -1,8 +1,10 @@
 ---
-title: SuperConf 2013
 cover_image: cover.jpg
-categories: talk
+tags:
+- talk
 ---
+
+# SuperConf 2013
 
 The wonder folks at [SuperConf](http://superconf.co) asked me to come to warm Miami and give a talk. I decided to talk about ==Building Realtime Applications==.
 

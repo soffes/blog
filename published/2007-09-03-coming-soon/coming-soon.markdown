@@ -1,7 +1,10 @@
 ---
-title: Coming Soon
-categories: meta web
+tags:
+- meta
+- web
 ---
+
+# Coming Soon
 
 [samsoffes.com](http://samsoffes.com) is gone right now. It will be back later. I‘m really excited about what this will be. I plan for pics from my everyday use of computers and little things that I run into that make me laugh or are entertaining. Most of my musing have been in the form of emails to my friend in the last year or two. Putting this site back saves them lots of email, give me something to do, and will give you something pretty to look at.
 

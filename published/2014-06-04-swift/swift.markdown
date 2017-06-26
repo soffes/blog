@@ -1,7 +1,9 @@
 ---
-title: Swift
-categories: swift
+tags:
+- swift
 ---
+
+# Swift
 
 Yesterday, I did an interview [on Venture Beat](http://venturebeat.com/2014/06/03/a-programmers-view-of-apples-new-swift-language/) about Swift, Apple's new programming language. Here's an excerpt:
 

@@ -1,7 +1,9 @@
 ---
-title: AutoCAD Class
-categories: button
+tags:
+- button
 ---
+
+# AutoCAD Class
 
 Today I took a class at [TechShop](http://techshop.ws/) on [AutoCAD](http://www.autodesk.com/products/autodesk-autocad/overview). It was a really good time.
 

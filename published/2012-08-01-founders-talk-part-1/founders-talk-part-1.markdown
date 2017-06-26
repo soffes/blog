@@ -1,7 +1,9 @@
 ---
-title: Founders Talk - Part 1
-categories: podcast
+tags:
+- podcast
 ---
+
+# Founders Talk - Part 1
 
 I had the amazing privilege of being on [Founders Talk](http://5by5.tv/founderstalk/38) with [Adam Stacoviak](https://twitter.com/adamstac).
 

@@ -1,7 +1,9 @@
 ---
-title: Quote of the Week
-categories: quote
+tags:
+- quote
 ---
+
+# Quote of the Week
 
 > dude a second ago my spam was 1337 lol i so win
 

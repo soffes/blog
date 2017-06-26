@@ -1,7 +1,9 @@
 ---
-title: Picking Good Clients
-categories: freelance
+tags:
+- freelance
 ---
+
+# Picking Good Clients
 
 Enjoying freelancing is hard. Picking good clients is a good start. The right client is key. If you work with someone that is a terrible client, you will obviously not enjoy the work. ==To me a good client is something that knows what the want, pays on time, and let's you, the expert they hired, be the expert.==
 

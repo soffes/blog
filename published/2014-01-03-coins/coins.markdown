@@ -1,8 +1,13 @@
 ---
-title: Coins
 cover_image: cover.png
-categories: product development design ios
+tags:
+- product
+- development
+- design
+- ios
 ---
+
+# Coins
 
 I've had the idea for an app that would simply show you the value of your [bitcoins](http://en.wikipedia.org/wiki/Bitcoin) at a glance. Lots of [Shares](http://getsharesapp.com) users have requested bitcoin support in Shares, but it would be very different since it's a lot different than a stock. ==[Coins](http://getcoinsapp.com) is just a simple little app that tells you how much your bitcoins are worth.==
 

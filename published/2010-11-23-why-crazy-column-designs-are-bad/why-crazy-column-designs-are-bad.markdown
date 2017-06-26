@@ -1,7 +1,9 @@
 ---
-title: Why Crazy Column Designs Are Bad
-categories: design
+tags:
+- design
 ---
+
+# Why Crazy Column Designs Are Bad
 
 So maybe you've seen [#newtwitter][], this post on TechCrunch about [Facebook with columns](http://techcrunch.com/2010/04/21/facebook-design/), or [Twitter for iPad][]. They all have crazy column layouts. Twitter for iPad is super impressive. I have mad respect for them. The way the columns stack and scroll is really, really impressive.
 

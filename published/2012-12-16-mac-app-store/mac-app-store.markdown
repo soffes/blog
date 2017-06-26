@@ -1,8 +1,11 @@
 ---
-title: Mac App Store
 cover_image: cover.jpg
-categories: apple mac
+tags:
+- apple
+- mac
 ---
+
+# Mac App Store
 
 [Cheddar for Mac](https://cheddarapp.com/mac/download) recently came out. A few days in, Apple featured it as New and Noteworthy! Here's the numbers:
 

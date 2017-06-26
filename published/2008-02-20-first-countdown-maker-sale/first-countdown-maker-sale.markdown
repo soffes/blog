@@ -1,7 +1,10 @@
 ---
-title: First Countdown Maker Sale!
-categories: product mac
+tags:
+- product
+- mac
 ---
+
+# First Countdown Maker Sale!
 
 Today my company, [Trimonix](http://web.archive.org/web/20080221182117/http://trimonix.com/), sold it’s first copy of it’s first product. Yay us! Trimonix is made up of [my friend Sam](http://sammcd.com) and me (no I am not talking in third person, my best friend’s name is really Sam what are the odds?). Countdown Maker, our first product, allows you to create countdown videos (videos with numbers on them that descend to zero over time when something usually happens upon reaching zero) really easily. We designed it with youth ministers in mind who don’t know the first thing about video. Today is an exciting day for us.
 

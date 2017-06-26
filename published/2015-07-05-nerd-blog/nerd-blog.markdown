@@ -1,7 +1,12 @@
 ---
-title: Git + Redis Backed Blog
-categories: blog ruby meta web
+tags:
+- blog
+- ruby
+- meta
+- web
 ---
+
+# Git + Redis Backed Blog
 
 I switched back to the old blog I was using before [Roon](http://roon.io) (this blogging platform I used to run). Right before Roon, I had all of these fun ideas for the nerdy blogging platform that I wanted.
 

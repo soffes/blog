@@ -1,7 +1,12 @@
 ---
-title: Clean Up Your Project
-categories: ruby objective-c ios development
+tags:
+- ruby
+- objective-c
+- ios
+- development
 ---
+
+# Clean Up Your Project
 
 Many of the apps I work on are usually 100% custom. There is rarely any system UI components visible to the user. Styling the crap out of apps like this makes for tons of images in my iOS projects to get everything the way the designer wants. I'm starting to `drawRect:` stuff more these days because it makes it easier to reuse, but anyway.
 

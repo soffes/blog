@@ -1,7 +1,9 @@
 ---
-title: Zendesk Careers Video
-categories: industry
+tags:
+- industry
 ---
+
+# Zendesk Careers Video
 
 Zendesk has a really amazing careers video. Best line:
 

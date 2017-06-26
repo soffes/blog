@@ -1,7 +1,11 @@
 ---
-title: Rejected for Cleverness
-categories: development ios objective-c
+tags:
+- development
+- ios
+- objective-c
 ---
+
+# Rejected for Cleverness
 
 The latest [X3watch iPhone app](http://x3watch.com/) update got rejected. Here some of the highlights from the rejection email:
 

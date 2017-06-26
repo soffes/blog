@@ -1,7 +1,10 @@
 ---
-title: How To Learn Rails
-categories: development ruby
+tags:
+- development
+- ruby
 ---
+
+# How To Learn Rails
 
 A lot of people ask me how to learn [Ruby on Rails](http://rubyonrails.org). I usually forward this email I wrote awhile back to a friend. I figured it would probably be better to post it on my blog so more people can benefit from it.
 

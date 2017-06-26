@@ -1,7 +1,9 @@
 ---
-title: The Balance
-categories: life
+tags:
+- life
 ---
+
+# The Balance
 
 ==The balance between shipping and perfecting the details is what makes things great.== Last night I spent 3 hours on [an animation](http://soff.me/GgZM) for [Cheddar](http://cheddarapp.com). It was probably overkill to make a custom animation curve with CAKeyframeAnimation, but I really wanted it to look like what I had in my head.
 

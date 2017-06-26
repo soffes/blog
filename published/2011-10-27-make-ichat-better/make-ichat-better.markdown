@@ -1,7 +1,10 @@
 ---
-title: Make iChat Better
-categories: apple mac
+tags:
+- apple
+- mac
 ---
+
+# Make iChat Better
 
 I really love [iChat](http://www.apple.com/macosx/apps/all.html#ichat). I think it's a billion times better than [Adium](http://adium.im/) <span class="gray">in my opinion</span>. Bonjour alone is really fantastic. Plus, iChat is super gorgeous and Adium is definitely not.
 

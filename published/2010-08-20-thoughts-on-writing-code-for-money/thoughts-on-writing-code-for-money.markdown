@@ -1,7 +1,9 @@
 ---
-title: Thoughts On Writing Code For Money
-categories: freelance
+tags:
+- freelance
 ---
+
+# Thoughts On Writing Code For Money
 
 ==So writing code is a very intimate thing.== You spend hours and hours thinking very hard about a problem and then finally solve it. Once you do, you work out all of the bugs and such. After tons of hard work, you finally have something you're proud of that can be released or used with other code someone else has worked very hard one.
 

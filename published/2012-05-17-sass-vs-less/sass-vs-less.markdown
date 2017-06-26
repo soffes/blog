@@ -1,7 +1,11 @@
 ---
-title: SASS vs LESS
-categories: development css web
+tags:
+- development
+- css
+- web
 ---
+
+# SASS vs LESS
 
 Chris Coyier from [CSS Tricks](http://css-tricks.com/sass-vs-less/) compares LESS to SASS in the most fair  post I've seen. His conclusion:
 

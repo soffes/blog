@@ -1,6 +1,8 @@
 ---
-title: Counting to Infinity
-categories: quote
+tags:
+- quote
 ---
+
+# Counting to Infinity
 
 > Chuck Norris has counted to infinity, twice.

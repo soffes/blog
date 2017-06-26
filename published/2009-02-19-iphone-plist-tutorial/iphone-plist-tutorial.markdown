@@ -1,7 +1,11 @@
 ---
-title: iPhone Plist Tutorial
-categories: development ios objective-c
+tags:
+- development
+- ios
+- objective-c
 ---
+
+# iPhone Plist Tutorial
 
 **Update 03/03/12:** ==Please don't listen to this.== Using JSON is highly preferred over Plists these days since JSON parsers have come a long way in speed. They are actually faster than binary plists now (which is nuts). Anyway, please, please, please don't use plists for your API. Generating them is slow and unreliable. ==You should use JSON. Period.==
 

@@ -1,7 +1,11 @@
 ---
-title: New Blog
-categories: meta development web
+tags:
+- meta
+- development
+- web
 ---
+
+# New Blog
 
 I redo my blog a lot. This time around, it's very different than past iterations. ==Everything is stored in git and cached in Redis.==
 

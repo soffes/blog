@@ -1,7 +1,9 @@
 ---
-title: Changes
-categories: life
+tags:
+- life
 ---
+
+# Changes
 
 This is a story about the last 3 months of my life.
 

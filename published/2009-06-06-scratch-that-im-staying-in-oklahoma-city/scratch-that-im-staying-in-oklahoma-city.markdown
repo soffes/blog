@@ -1,7 +1,9 @@
 ---
-title: Scratch that, I'm staying in Oklahoma City
-categories: life
+tags:
+- life
 ---
+
+# Scratch that, I'm staying in Oklahoma City
 
 So a few weeks ago I posted [that I was moving to Louisville](http://samsoff.es/post/moving-to-louisville). After having seconds thoughts and going back and forth on my decision, I'm going to stay here in Oklahoma City.
 

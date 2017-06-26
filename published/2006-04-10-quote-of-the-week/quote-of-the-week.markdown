@@ -1,7 +1,9 @@
 ---
-title: Quote of the Week
-categories: quote
+tags:
+- quote
 ---
+
+# Quote of the Week
 
 > O Christ
 > Be the center of my life

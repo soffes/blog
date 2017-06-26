@@ -1,7 +1,9 @@
 ---
-title: Retiring at 25
-categories: life
+tags:
+- life
 ---
+
+# Retiring at 25
 
 Growing up, I always told my mom that I wanted to retire* at age 25. She'd laugh and say it's good that I have goals.
 

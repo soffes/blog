@@ -1,7 +1,11 @@
 ---
-title: Running Rails Local Development with Nginx, Postgres, and Passenger with Homebrew
-categories: development web ruby
+tags:
+- development
+- web
+- ruby
 ---
+
+# Running Rails Local Development with Nginx, Postgres, and Passenger with Homebrew
 
 **Update 03/03/12:** Nowadays, I recommend using [Foreman](https://github.com/ddollar/foreman) or [Pow](http://pow.cx/). This isn't a horrible approach, but definitely more complicated than I like to have things.
 

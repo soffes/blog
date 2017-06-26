@@ -1,7 +1,11 @@
 ---
-title: New Blog on GitHub and Jekyll
-categories: meta development web
+tags:
+- meta
+- development
+- web
 ---
+
+# New Blog on GitHub and Jekyll
 
 So today I moved my blog from [Ruby on Rails](http://rubyonrails.org) on [SliceHost](http://slicehost.com) to [Jekyll][] on [GitHub](http://github.com). It only took a two hours to figure it out and move everything over.
 

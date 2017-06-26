@@ -1,7 +1,10 @@
 ---
-title: "Hello Internet: The Government"
-categories: video hello-internet
+tags:
+- video
+- hello-internet
 ---
+
+# Hello Internet: The Government
 
 Thoughts about the government and the IRS. I need to clean my apartment as well.
 

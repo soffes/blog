@@ -1,7 +1,9 @@
 ---
-title: The Motorola ROKR
-categories: apple
+tags:
+- apple
 ---
+
+# The Motorola ROKR
 
 ![Motorola ROKR](0z3o322N3l3d1q3p0Y463M3f1d183F0H.jpg)
 

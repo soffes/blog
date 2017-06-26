@@ -1,8 +1,11 @@
 ---
-title: Introducing Coins
 cover_image: cover.png
-categories: nothingmagical coins
+tags:
+- nothingmagical
+- coins
 ---
+
+# Introducing Coins
 
 Today [Coins](http://getcoinsapp.com) was released! Coins makes it easy to see the value of your bitcoins. The exchange rate from bitcoin to 154 currencies is updated automatically every minute so you always know how much your bitcoins are worth.
 

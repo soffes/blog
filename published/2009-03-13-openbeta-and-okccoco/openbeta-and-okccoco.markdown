@@ -1,7 +1,10 @@
 ---
-title: OpenBeta and OKCCoCo
-categories: life development
+tags:
+- life
+- development
 ---
+
+# OpenBeta and OKCCoCo
 
 Tonight I went to [OpenBeta](http://openbeta.extendedbeta.com) with some friends from work. I met a lot of super cool people too. It's always cool to connect with people in person that you have only met via [Twitter](http://twitter.com/soffes).
 

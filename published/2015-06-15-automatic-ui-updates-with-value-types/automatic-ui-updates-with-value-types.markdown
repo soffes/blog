@@ -1,7 +1,10 @@
 ---
-title: Automatic UI Updates with Value Types in Swift
-categories: development swift
+tags:
+- development
+- swift
 ---
+
+# Automatic UI Updates with Value Types in Swift
 
 [Value types](https://developer.apple.com/swift/blog/?id=10) are one of my favorite things in Swift. At first, I was resistant. It’s a much different way of thinking. Let’s look at a simple example that really shows the power.
 

@@ -1,7 +1,9 @@
 ---
-title: Hey, Synthetic
-categories: life
+tags:
+- life
 ---
+
+# Hey, Synthetic
 
 As of September 1st, I will be working at [Synthetic](http://heysynthetic.com), the makers of [Hipstamatic](http://hipstamatic.com/)! You may remember, [I was contracting there](http://samsoff.es/posts/hipstamatic), but now I'm no longer a freelancer and a full time employee. My title will be Lead iOS Engineer. I'm way excited. We are working  on some really, really exciting stuff.
 

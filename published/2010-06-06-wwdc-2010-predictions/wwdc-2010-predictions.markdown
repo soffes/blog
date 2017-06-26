@@ -1,7 +1,9 @@
 ---
-title: WWDC 2010 Predictions
-categories: apple
+tags:
+- apple
 ---
+
+# WWDC 2010 Predictions
 
 I arrived in San Francisco a couple of hours ago. This week is going to be awesome. I am really looking forward to [WWDC 2010](http://developer.apple.com/wwdc)!
 

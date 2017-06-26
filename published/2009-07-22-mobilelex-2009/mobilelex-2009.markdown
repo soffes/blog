@@ -1,7 +1,10 @@
 ---
-title: MobileLex 2009
-categories: development talk
+tags:
+- development
+- talk
 ---
+
+# MobileLex 2009
 
 I spoke at the [Awesome Inc.](http://awesomeinc.org) Mobile miniConference in Lexington, KY over the weekend with [Jake Behrens](http://jakebehrens.com). About 100 people showed up for the event. I think its awesome that that many people have an interest in iPhone development in Lexington, KY. I did three sessions. My my two technical ones ("Scrolling Like Butter" and "Web Services with Cocoa") didn't have too many attenders, but "How I Made an App that Has Over a Million Users" seemed to be a hit.
 

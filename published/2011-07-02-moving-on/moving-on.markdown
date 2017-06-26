@@ -1,7 +1,9 @@
 ---
-title: Moving On
-categories: life
+tags:
+- life
 ---
+
+# Moving On
 
 Yesterday, Scribd submitted the app I've been working on for the last 6 months. It's been really great working with everyone. It was also my last day at Scribd. Now that the project is done, I'm moving on to something else.
 

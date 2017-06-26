@@ -1,8 +1,11 @@
 ---
-title: Tearing Up the Carpet
 cover_image: cover.jpg
-categories: ruby development
+tags:
+- ruby
+- development
 ---
+
+# Tearing Up the Carpet
 
 Someone [asked](https://twitter.com/d0tio/status/348519355136479232) what [Markdown](http://daringfireball.net/projects/markdown) parser we use for [Roon](http://roon.io). ==Roon uses [Redcarpet](https://github.com/vmg/redcarpet).==
 

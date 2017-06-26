@@ -1,7 +1,11 @@
 ---
-title: Unjarring The Responsive Web
-categories: web development css
+tags:
+- web
+- development
+- css
 ---
+
+# Unjarring The Responsive Web
 
 [Responsive web design](http://en.wikipedia.org/wiki/Responsive_Web_Design) is what all the cool kids are up to these days. Basically a "responsive" site uses [CSS media queries](http://www.w3.org/TR/css3-mediaqueries/) to change the page based on certain parameters. ([This article](http://www.alistapart.com/articles/responsive-web-design/) a good place to start if you're new to the topic.) Usually this is `width`. The designer can change the appearance of the page based on the width of the browser. ==This allows the same design to be used on iPhone, iPad, and the desktop with minimal work instead of three different designs.==
 

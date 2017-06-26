@@ -1,7 +1,10 @@
 ---
-title: Open Source is Rewarding
-categories: development ios
+tags:
+- development
+- ios
 ---
+
+# Open Source is Rewarding
 
 I released [SSToolkit](http://sstoolk.it) awhile ago. It's an open source library for doing common things in iOS. It's the overflow of stuff that I use on a daily basis. It's pretty much everything I've ever written that is iOS related that is reusable, open sourced, and released for free.
 

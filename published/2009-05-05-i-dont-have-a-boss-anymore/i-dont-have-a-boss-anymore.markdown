@@ -1,7 +1,10 @@
 ---
-title: I Don't Have A Boss Anymore
-categories: life freelance
+tags:
+- life
+- freelance
 ---
+
+# I Don't Have A Boss Anymore
 
 As of May 8th, I will no longer work for [LifeChurch.tv][]. I am leaving (on good terms) to get out there and do my own thing. Everyone there has been very supportive of this decision.
 

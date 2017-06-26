@@ -1,7 +1,9 @@
 ---
-title: iDVD 6, Awesome + Crap
-categories: apple
+tags:
+- apple
 ---
+
+# iDVD 6, Awesome + Crap
 
 iDVD 6 (well iLife ‘06 in general) is really awesome. I love all of the new themes and features. All of the menus are cleaner. It’s just awesome. The first thing I noticed besides the cleaner interface was that it supported my LaCie DVD burner even thought I don’t have a SuperDrive (Apple DVD Burner). That is so nice. Before I’d export a disk image and burn it in Disk Utility. I smiled anyway. I also really like the added flexibility you have when changing templates and making our own, especially the map view.
 

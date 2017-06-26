@@ -1,7 +1,11 @@
 ---
-title: WebKit CSS Variables
-categories: development css web
+tags:
+- development
+- css
+- web
 ---
+
+# WebKit CSS Variables
 
 CSS variables were just added to WebKit. This probably won't make it into a browser for awhile, but still really exciting.
 

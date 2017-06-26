@@ -1,7 +1,9 @@
 ---
-title: My Name is Kevin Smith… Only at GameStop Though
-categories: games
+tags:
+- games
 ---
+
+# My Name is Kevin Smith… Only at GameStop Though
 
 So I got Halo 3 for Christmas. I learned a very valuable lesson the other day. **NEVER STAND YOUR XBOX 360 ON ITS SIDE!** It **will** fall over eventually. Mine fell over when I was moving stuff while it was one. It scratched a ton of circles in my Halo 3 disk. Later I was playing Guitar Hero 3 and I started to move TV and stuff, knocked it over, tried to catch it, and then dropped it again. Both of Halo 3 and Guitar Hero 3 are unplayable.
 

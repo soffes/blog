@@ -1,7 +1,10 @@
 ---
-title: "Hello Internet: Old Spice Guy & Retweet Contests"
-categories: video hello-internet
+tags:
+- video
+- hello-internet
 ---
+
+# Hello Internet: Old Spice Guy & Retweet Contests
 
 I had a lot of ideas for my Hello Internet series, so I'm going to do one a day until I run out or get busy.
 

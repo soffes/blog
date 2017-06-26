@@ -1,7 +1,9 @@
 ---
-title: Music Podcast and Years
-categories: music
+tags:
+- music
 ---
+
+# Music Podcast and Years
 
 So [@aadom](http://twitter.com/Aadom) on [Twitter](http://twitter.com/soffes) said it would be a good idea to podcast all of my music for [The Experiment](http://samsoff.es/music). I thought that sounded like a good plan, so I did. You can check out the [podcast feed](http://feeds2.feedburner.com/samsoffes/the-experiment) or the [music area](http://samsoff.es/music) to subscribe.
 

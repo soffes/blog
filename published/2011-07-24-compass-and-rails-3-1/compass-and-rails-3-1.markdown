@@ -1,7 +1,11 @@
 ---
-title: Compass and Rails 3.1
-categories: development ruby web
+tags:
+- development
+- ruby
+- web
 ---
+
+# Compass and Rails 3.1
 
 Here's how I finally got Compass working with Rails 3.1rc4 (with includes, sprites, etc).
 

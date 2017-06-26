@@ -1,8 +1,12 @@
 ---
-title: Making Roon Faster
 cover_image: cover.jpg
-categories: development ruby web
+tags:
+- development
+- ruby
+- web
 ---
+
+# Making Roon Faster
 
 Last night, I deployed some changes to [Roon](http://roon.io) that made things a lot faster. Drew told me I should write about it, so here we are. I did three things:
 

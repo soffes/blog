@@ -1,7 +1,9 @@
 ---
-title: Introducing Button
-categories: button
+tags:
+- button
 ---
+
+# Introducing Button
 
 ## The Beginning
 

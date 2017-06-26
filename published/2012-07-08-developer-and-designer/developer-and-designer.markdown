@@ -1,6 +1,5 @@
----
-title: Developer & Designer
----
+
+# Developer & Designer
 
 Just started chaining my bio on social networks to this:
 

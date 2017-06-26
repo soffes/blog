@@ -1,7 +1,10 @@
 ---
-title: Developer ID, Mountain Lion, and the Keychain
-categories: development mac
+tags:
+- development
+- mac
 ---
+
+# Developer ID, Mountain Lion, and the Keychain
 
 Recently, I released a [Cheddar for Mac](http://cheddarapp.com/mac) beta. Since it's a beta I'm distributing on the [Cheddar](http://cheddarapp.com) website, I'm signing it with [Developer ID](https://developer.apple.com/resources/developer-id/). Basically, if you're running Mountain Lion with the default settings and try to open an app that isn't signed with Developer ID or downloaded from the Mac App Store, it won't let you open it.
 

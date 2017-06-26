@@ -1,6 +1,5 @@
----
-title: Removed Facebook Comments
----
+
+# Removed Facebook Comments
 
 Sorry if you left some comments. I appreciate it, but it wasn't really a good solution. They weren't that pretty, loaded slow, and didn't notify me when people posted. I had no way to track comments on my posts.
 

@@ -1,8 +1,10 @@
 ---
-title: My DNA
 cover_image: cover.jpg
-categories: life
+tags:
+- life
 ---
+
+# My DNA
 
 Recently, I spit in a plastic tube and mailed it to California. While that sounds like a fun prank, it was to get my DNA tested by [23andMe](http://refer.23andme.com/a/clk/4VL1gj). The first few minutes of [this video](http://refactor.tv/31) show the unboxing/spitting.
 

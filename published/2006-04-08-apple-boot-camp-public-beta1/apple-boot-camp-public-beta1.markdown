@@ -1,7 +1,9 @@
 ---
-title: Apple Boot Camp Public Beta1
-categories: apple
+tags:
+- apple
 ---
+
+# Apple Boot Camp Public Beta1
 
 Apple has just released Boot Camp. It lets you dual boot easily Mac OS X and Windows XP (Pro or Home with SP2). This is just a beta version of the software. It will be included in the new OS 10.5 Leopard. All you need is an Intel Mac and a Windows XP CD.
 

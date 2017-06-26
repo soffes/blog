@@ -1,7 +1,10 @@
 ---
-title: Fun Unicode Domains
-categories: development web
+tags:
+- development
+- web
 ---
+
+# Fun Unicode Domains
 
 So recently I registered a few fun unicode domains. I think [http://♹.com/](http://xn--06h.com/) is my favorite that I registered. It took me awhile to figure out how to do it. I saw [http://☃.net/](http://xn--n3h.net/) on [iTod's twitter](http://twitter.com/iTod/status/1038641895) and it made me really want to figure out how to do it.
 

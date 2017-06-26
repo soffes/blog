@@ -1,7 +1,12 @@
 ---
-title: Goodbye CodeIgniter. Hello ExpressionEngine
-categories: php development meta web
+tags:
+- php
+- development
+- meta
+- web
 ---
+
+# Goodbye CodeIgniter. Hello ExpressionEngine
 
 So today, after moving my musings (or blog if that’s what you want to call it) from my own engine that I wrote in CodeIgniter, to WordPress (which is also fantastic), to nothing, and back to WordPress, I have finally landed in ExpressionEngine. Since I am using ExpressionEngine is multiple places now for work related things, I figured it would probably be good to use it on my own to get more familiar with it.
 

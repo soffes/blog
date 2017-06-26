@@ -1,7 +1,10 @@
 ---
-title: What I Do
-categories: freelance quote
+tags:
+- freelance
+- quote
 ---
+
+# What I Do
 
 People as me a lot what I do. I generally say "I write software" and get a blank look. I think I'm going to start saying:
 

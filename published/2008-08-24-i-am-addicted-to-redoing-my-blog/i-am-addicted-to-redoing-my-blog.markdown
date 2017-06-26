@@ -1,7 +1,9 @@
 ---
-title: I am Addicted to Redoing my Blog
-categories: meta
+tags:
+- meta
 ---
+
+# I am Addicted to Redoing my Blog
 
 It is sad how much I redo my blog. I usually redo it more than I actually blog. Then I get it going and then get an idea for a new one and stop on the old one. So here is my new attempt at my blog. I think I am switching off [Tumblr](http://tumblr.com) as much as I love it. I'll leave my old one up at [soffes.tumblr.com](http://soffes.tumblr.com/) incase you're still interested.
 

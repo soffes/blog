@@ -1,7 +1,9 @@
 ---
-title: How to Hold a Pencil
-categories: podcast
+tags:
+- podcast
 ---
+
+# How to Hold a Pencil
 
 Recently, [I was on How to Hold a Pencil](http://www.howtoholdapencil.com/episode/010/). It was a good time. How to Hold a Pencil is a podcast for people starting out in the design or development world.
 

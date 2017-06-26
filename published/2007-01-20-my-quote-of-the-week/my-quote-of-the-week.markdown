@@ -1,7 +1,9 @@
 ---
-title: My Quote of the Week
-categories: quote
+tags:
+- quote
 ---
+
+# My Quote of the Week
 
 > Prepositions aren’t words I end sentences with.
 

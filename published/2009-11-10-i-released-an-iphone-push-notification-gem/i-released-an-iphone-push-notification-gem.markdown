@@ -1,7 +1,11 @@
 ---
-title: I Released an iPhone Push Notification Gem
-categories: development ruby ios
+tags:
+- development
+- ruby
+- ios
 ---
+
+# I Released an iPhone Push Notification Gem
 
 I forked a Rails plugin for sending push notifications with Rails awhile back for a client project. I've had a few people fork and add cool little fixes.
 

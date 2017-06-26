@@ -1,7 +1,9 @@
 ---
-title: Here We Go Again
-categories: life
+tags:
+- life
 ---
+
+# Here We Go Again
 
 If you've kept up with me at all the last couple of years, you already know what this post is about. ==April 5th will be my last day at Synthetic.== It has been absolutely fantastic working here. I have had an amazing time with everyone. I got to be a part of some really great stuff in my time at Synthetic. Everyone I got the privilege of working with will definitely be missed.
 

@@ -1,7 +1,9 @@
 ---
-title: I’m Moving to San Francisco
-categories: life
+tags:
+- life
 ---
+
+# I’m Moving to San Francisco
 
 I've been looking for a real job for awhile now. After [going back to freelancing again](http://samsoff.es/posts/on-my-own-again), I decided I really hate freelancing. Dealing with clients, lining up work, handling money, contracts, etc. All of that stuff sucks. ==I just want to write code== and make cool stuff. Dealing with all of that junk is not fun.
 

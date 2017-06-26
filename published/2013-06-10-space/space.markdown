@@ -1,8 +1,10 @@
 ---
-title: Space
 cover_image: cover.jpg
-categories: science
+tags:
+- science
 ---
+
+# Space
 
 I recently realized I kinda like space. A lot.
 

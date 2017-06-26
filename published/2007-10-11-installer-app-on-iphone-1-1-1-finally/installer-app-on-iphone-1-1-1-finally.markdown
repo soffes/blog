@@ -1,7 +1,9 @@
 ---
-title: Installer.app on iPhone 1.1.1, Finally
-categories: jailbreak
+tags:
+- jailbreak
 ---
+
+# Installer.app on iPhone 1.1.1, Finally
 
 After many hours of work with the [new jailbreak](http://web.archive.org/web/20071014203346/http://www.tuaw.com/2007/10/10/iphone-dev-team-announces-public-iphone-1-1-1-jailbreak/), I have successfully installed [Installer.app](http://web.archive.org/web/20071014203346/http://iphone.nullriver.com/) on my iPhone. It is awesome to have my apps back.
 

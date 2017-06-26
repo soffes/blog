@@ -1,7 +1,10 @@
 ---
-title: App Store Approval Process
-categories: development ios
+tags:
+- development
+- ios
 ---
+
+# App Store Approval Process
 
 So [Joel Comm](http://www.joelcomm.com/) (funny story, he offered me a job awhile back, anyway) who most notably made [iFart](http://itunes.apple.com/us/app/ifart-mobile-1-fart-machine-updated/id293760823?mt=8) released [a video](https://www.youtube.com/watch?v=kDAb64GwFbo) (watch below) today begging Steve Jobs to let his new app into the App Store.
 

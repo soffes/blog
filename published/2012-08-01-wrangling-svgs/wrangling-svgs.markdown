@@ -1,7 +1,11 @@
 ---
-title: Wrangling SVGs
-categories: development web design
+tags:
+- development
+- web
+- design
 ---
+
+# Wrangling SVGs
 
 [Cheddar](http://cheddarapp.com) uses SVG ([Scalable Vector Graphics](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics)) a lot. One of the big wins for using SVGs is they are vector, so they look great on Retina displays without you having to do any work.
 

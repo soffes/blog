@@ -1,7 +1,10 @@
 ---
-title: iPhone Push Development Issues
-categories: development ios
+tags:
+- development
+- ios
 ---
+
+# iPhone Push Development Issues
 
 To the wayward googler, if you are getting this error:
 

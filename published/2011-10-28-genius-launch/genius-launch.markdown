@@ -1,7 +1,8 @@
 ---
-title: Genius Launch
 cover_image: cover.jpg
 ---
+
+# Genius Launch
 
 [Everlane](http://www.everlane.com/i/f8leoo) is a new startup that started here in San Francisco. They've done some ridiculously smart things with their launch.
 

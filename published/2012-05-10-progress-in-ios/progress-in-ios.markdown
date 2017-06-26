@@ -1,7 +1,11 @@
 ---
-title: Progress in iOS
-categories: development ios ruby
+tags:
+- development
+- ios
+- ruby
 ---
+
+# Progress in iOS
 
 In [this year's RailsConf keynote](https://www.youtube.com/watch?v=VOFTop3AMZ8), DHH talked about progress. In short, things are always changing—usually for the better. ==Progress is good. Embrace it.==
 

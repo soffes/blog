@@ -1,8 +1,12 @@
 ---
-title: Face Detection at Hipstamatic
 cover_image: cover.jpg
-categories: development ios objective-c
+tags:
+- development
+- ios
+- objective-c
 ---
+
+# Face Detection at Hipstamatic
 
 Since I joined the ranks at Hipstamatic [a few months ago](/hey-synthetic), I've been working on a lot of different things (including some really exciting new stuff I'll be able to show off in a few weeks).
 

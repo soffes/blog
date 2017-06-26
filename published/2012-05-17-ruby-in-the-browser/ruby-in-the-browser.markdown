@@ -1,7 +1,11 @@
 ---
-title: Ruby in the Browser
-categories: ruby development web
+tags:
+- ruby
+- development
+- web
 ---
+
+# Ruby in the Browser
 
 Ruby just got support for [Native Client](http://en.wikipedia.org/wiki/Google_Native_Client).
 

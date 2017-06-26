@@ -1,7 +1,9 @@
 ---
-title: Old People and the Other Side
-categories: development
+tags:
+- development
 ---
+
+# Old People and the Other Side
 
 Watching different people use software is fascinating to me. My mind works a lot differently than Average-Joe's does when it comes to using software so seeing how people interact with software is really intriguing to me.
 

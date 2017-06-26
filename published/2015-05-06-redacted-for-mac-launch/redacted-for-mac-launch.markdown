@@ -1,8 +1,13 @@
 ---
-title: Redacted for Mac Launch
 cover_image: cover.png
-categories: product mac design apple
+tags:
+- product
+- mac
+- design
+- apple
 ---
+
+# Redacted for Mac Launch
 
 Yesterday, [Redacted for Mac](https://itunes.apple.com/app/redacted/id984968384?mt=12&uo=6&at=1l3vmtU&ct=) hit the App Store. It's this little app I've been working on here and there to quickly hide parts of an image. Here's a one minute [video demo](https://vimeo.com/126281352) if you want the quick rundown.
 

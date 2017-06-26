@@ -1,7 +1,10 @@
 ---
-title: Glad I Chose Programmer Over Musician
-categories: music life
+tags:
+- music
+- life
 ---
+
+# Glad I Chose Programmer Over Musician
 
 So it turns out that [iPhone app sales are growing twice the rate of iTunes music](http://www.appleinsider.com/articles/08/09/12/iphone_app_sales_growing_at_twice_the_rate_of_itunes_music.html). That rocks for us programmers. I have always enjoyed music (and [making my own music](http://samsoff.es/music)), but spent more time on computers because I was never the best. I was always an average player and people were more impressed with stuff I would make on the computer.
 

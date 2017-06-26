@@ -1,7 +1,11 @@
 ---
-title: Introducing SSPullToRefresh
-categories: ios development objective-c
+tags:
+- ios
+- development
+- objective-c
 ---
+
+# Introducing SSPullToRefresh
 
 There are tons of pull to refresh views for iOS on GitHub. Every time I need to add pull to refresh to a project, I end up hacking one of them to pieces. This is silly. I wrote a better one: [SSPullToRefresh](http://github.com/soffes/sspulltorefresh).
 

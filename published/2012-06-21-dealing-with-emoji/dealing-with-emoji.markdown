@@ -1,7 +1,11 @@
 ---
-title: Dealing with Emoji
-categories: development ruby objective-c
+tags:
+- development
+- ruby
+- objective-c
 ---
+
+# Dealing with Emoji
 
 Someone recently pointed out that [Cheddar](http://cheddarapp.com) doesn't support Emoji that well. After lots of banging my head against the wall, I figured out some simple solutions. Here's what I learned.
 

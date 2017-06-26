@@ -1,8 +1,10 @@
 ---
-title: New Wi-Fi Module
 cover_image: cover.png
-categories: button
+tags:
+- button
 ---
+
+# New Wi-Fi Module
 
 At first, I had planned to use [electric imp](http://electricimp.com/) for WiFi in Button. There’s a few things that I really don’t like about electric imp (one being their name is actually all lower case).
 

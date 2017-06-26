@@ -1,7 +1,11 @@
 ---
-title: Parsing JSON with the iPhone's Private JSON Framework
-categories: development ios objective-c
+tags:
+- development
+- ios
+- objective-c
 ---
+
+# Parsing JSON with the iPhone's Private JSON Framework
 
 So my post on [Cocoa web services](http://samsoff.es/post/web-services-with-cocoa-surprise/) got a lot of attention when [Gruber linked me](http://daringfireball.net/linked/2009/10/29/soffes-json-plist) the other day. This started a conversation on [Twitter](http://twitter.com/soffes) and basically ended up landing on using binary property lists over JSON for size and parsing, but that's for another blog post.
 

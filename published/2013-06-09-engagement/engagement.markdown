@@ -1,8 +1,10 @@
 ---
-title: Engagement Photos
 cover_image: cover.jpg
-categories: life
+tags:
+- life
 ---
+
+# Engagement Photos
 
 Last week, the amazing [Todd Balsley](http://www.abnyphotography.com) took some photos of Ellen and I. ==We shot some photos in downtown Louisville, Kentucky.== I think they turned out pretty great.
 

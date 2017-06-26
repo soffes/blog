@@ -1,7 +1,9 @@
 ---
-title: New Design Coming Soon with sIFR
-categories: development
+tags:
+- development
 ---
+
+# New Design Coming Soon with sIFR
 
 I’m getting tired of my green and gray with leaves. I think I go trough more of website designs than I do desktop backgrounds. (Speaking of desktop backgrounds, InterfaceLIFT has some great ones.) I am currently working on a new one that is very CSSy and very text focused.
 

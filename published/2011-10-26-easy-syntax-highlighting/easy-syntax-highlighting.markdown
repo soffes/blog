@@ -1,7 +1,11 @@
 ---
-title: Easy Syntax Highlighting
-categories: development ruby web
+tags:
+- development
+- ruby
+- web
 ---
+
+# Easy Syntax Highlighting
 
 Syntax highlight in Ruby is annoying. [Pygments](http://pygments.org/) is the best way to do syntax highlighting, but it's a Python project. (Why no one has ported that to Ruby yet is beyond me. Granted there are a few, but they are all kinda annoying, slow, or don't work that well.)
 

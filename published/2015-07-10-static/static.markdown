@@ -1,8 +1,12 @@
 ---
-title: Static
 cover_image: cover.jpg
-categories: swift development ios
+tags:
+- swift
+- development
+- ios
 ---
+
+# Static
 
 Today, we open sourced a framework for iOS we've been using a ton internally called [Static](https://github.com/venmo/Static). It's a Swift 2 framework for working with static table views. We use it to power tons of screens in an upcoming project. It's also made prototyping table view-based things super productive.
 

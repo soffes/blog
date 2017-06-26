@@ -1,7 +1,10 @@
 ---
-title: Coins for Android
-categories: product android
+tags:
+- product
+- android
 ---
+
+# Coins for Android
 
 ==Yesterday, I released my first Android app, [Coins](http://getcoinsapp.com), that I built in a day.== I first [made Coins in a day](/coins) for iOS in December. It’s a simple app for seeing how much a certain amount of bitcoins are worth.
 

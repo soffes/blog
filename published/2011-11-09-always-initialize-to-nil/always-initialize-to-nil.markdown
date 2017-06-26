@@ -1,7 +1,11 @@
 ---
-title: Always Initialize to Nil
-categories: development ios objective-c
+tags:
+- development
+- ios
+- objective-c
 ---
+
+# Always Initialize to Nil
 
 Here's an excerpt from [a great blog post](http://ryfar.com/post/12591151308/initialize) on why you should always initialize your variables to `nil`.
 

@@ -1,8 +1,11 @@
 ---
-title: Valio Con 2013
 cover_image: cover.jpg
-categories: video talk
+tags:
+- video
+- talk
 ---
+
+# Valio Con 2013
 
 I had the privilege of being on the App Panel at [Valio Con 2013](http://valiocon.com/2013) back in June. My good friend (and Roon co-creator) [Drew Wilson](https://twitter.com/drewwilson) puts on Valio Con every year.
 

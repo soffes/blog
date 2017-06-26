@@ -1,7 +1,11 @@
 ---
-title: Automatic Reference Counting
-categories: development ios objective-c
+tags:
+- development
+- ios
+- objective-c
 ---
+
+# Automatic Reference Counting
 
 [Automatic Reference Counting](http://clang.llvm.org/docs/AutomaticReferenceCounting.html) (or ARC) is a new advancement in Objective-C with the [LLVM compiler](http://llvm.org/). There is a lot of debate in the community about its place. I've worked with people who completely despise it and people that think it's the best thing since sliced bread (which by the way, is pretty great). I have some thoughts on ARC too.
 

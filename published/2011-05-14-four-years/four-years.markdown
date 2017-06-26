@@ -1,7 +1,9 @@
 ---
-title: Four Years
-categories: life
+tags:
+- life
 ---
+
+# Four Years
 
 I choose not to attend college. During my senior year of high school, I was co-oping (half day at school finishing my required classes and a half day at work). When I graduated in 2007 (I hope I just made you feel old) I transitioned to a full time salary employee. I always thought that getting a salary job with benefits was the entire point of going to college, but I enrolled anyway.
 

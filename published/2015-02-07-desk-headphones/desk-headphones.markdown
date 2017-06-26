@@ -1,7 +1,9 @@
 ---
-title: Desk Headphones
-categories: music
+tags:
+- music
 ---
+
+# Desk Headphones
 
 Recently, I replaced the headphones I've had for a long time with some new ones. I've used Beyerdynamic DT 770 for years (now discontinued). On a flight last year, someone leaned the chair back in front of me suddenly, the cable got caught, and the jack bent really bad. They cut in out a lot. I realize I could just replace the jack, but I thought it was a good excuse to go nuts.
 

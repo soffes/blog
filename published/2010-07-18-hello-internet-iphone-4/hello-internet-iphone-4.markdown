@@ -1,7 +1,10 @@
 ---
-title: "Hello Internet: iPhone 4"
-categories: video hello-internet
+tags:
+- video
+- hello-internet
 ---
+
+# Hello Internet: iPhone 4
 
 So I have a lot of thoughts on various topics. I was joking with [someone](http://twitter.com/8bitmatt) that I should start making videos for all of my rants... so I did. I'm going to call these videos ==Hello Internet==. I'll be super biased and slightly arrogant because I am the most awesome person ever.
 

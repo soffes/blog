@@ -1,7 +1,11 @@
 ---
-title: ExpressionEngine Kills My PageRank
-categories: meta web development
+tags:
+- meta
+- web
+- development
 ---
+
+# ExpressionEngine Kills My PageRank
 
 > We’ve detected that your 404 (file not found) error page returns a status of 200 (Success) in the header.
 

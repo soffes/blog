@@ -1,7 +1,9 @@
 ---
-title: Life Updates
-categories: life
+tags:
+- life
 ---
+
+# Life Updates
 
 Life has been crazy. I’ve been putting off writing about it until some of the final details were finalized. Everything is happening all at once. It’s hard to get anything done on my blog, two companies, freelance, and everything else I have going on besides work and doing stuff I don’t want to do like get car insurance renewed or deal with a mistake I made on my taxes in 2006. (I think taxes should be a flat rate by the way. The IRS is stupid because they seem to enjoy over complicating something you already hate - giving money to the government so they can waste it on their ridiculous salaries. Sorry for the rant.)
 

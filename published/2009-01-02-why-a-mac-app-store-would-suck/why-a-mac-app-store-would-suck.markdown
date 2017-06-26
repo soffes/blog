@@ -1,7 +1,10 @@
 ---
-title: Why A Mac App Store Would Suck
-categories: apple mac
+tags:
+- apple
+- mac
 ---
+
+# Why A Mac App Store Would Suck
 
 So recently [TUAW](http://tuaw.com) did [a story](http://www.tuaw.com/2009/01/02/time-for-a-mac-app-store/) about how cool a Mac App Store would be. On the surface, this sounds like a great idea. As a developer, this is the last thing I would want.
 

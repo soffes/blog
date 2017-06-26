@@ -1,7 +1,10 @@
 ---
-title: How to Install Ruby 1.9.3
-categories: ruby development
+tags:
+- ruby
+- development
 ---
+
+# How to Install Ruby 1.9.3
 
 I'm a fan of living on the edge. Ruby 1.9.3 [just came out](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/40527) today. It's apparently really stable as well!
 

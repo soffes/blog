@@ -1,7 +1,9 @@
 ---
-title: SoundCloud is Pretty Sweet
-categories: music
+tags:
+- music
 ---
+
+# SoundCloud is Pretty Sweet
 
 [SoundCloud](http://soundcloud.com/) is this really cool new service that hosts music files really well. It makes FTPing or using YouSendIt links to send someone a music file obsolete.
 

@@ -1,7 +1,11 @@
 ---
-title: Web App vs Native App
-categories: development web ios
+tags:
+- development
+- web
+- ios
 ---
+
+# Web App vs Native App
 
 This is the age old question for app developers. To state my bias, I make a living creating mostly native app and the occasional web app, but I greatly prefer working on native apps. I'll be referring to iOS devices for all of this, but it applies to the Mac (sorta, see the end), Android, and almost any other platform.
 

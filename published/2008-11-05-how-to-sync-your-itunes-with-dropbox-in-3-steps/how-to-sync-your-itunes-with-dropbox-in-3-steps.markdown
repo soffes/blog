@@ -1,6 +1,5 @@
----
-title: How To Sync Your iTunes With Dropbox in 3 Steps
----
+
+# How To Sync Your iTunes With Dropbox in 3 Steps
 
 So I have been trying to solve the problem of having my iTunes on all of my computers for a long time. I tried taking my MacBook Pro with me and mounting it in target disk mode, USB powered hard drives, and [rsync](http://samba.anu.edu.au/rsync/) (which was frustrating and I ended up giving up on that one).
 

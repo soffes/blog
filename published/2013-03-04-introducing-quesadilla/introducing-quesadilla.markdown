@@ -1,9 +1,11 @@
 ---
-title: Introducing Quesadilla
 cover_image: cover.jpg
-categories: development ruby
+tags:
+- development
+- ruby
 ---
 
+# Introducing Quesadilla
 
 I've been thinking about making this Ruby gem for awhile. It was originally called "cheddar-text", but I decided something that sounded more fun would be better. Awhile back, I was trying to rewrite this library in C and named the repo Quesadilla. It turns out, writing a C extensions that manipulates strings is really hard, so now the Ruby version is named [Quesadilla](https://github.com/soffes/quesadilla).
 

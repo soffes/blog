@@ -1,7 +1,8 @@
 ---
-title: Raising Your Profile
 cover_image: cover.jpg
 ---
+
+# Raising Your Profile
 
 Recently, I recorded [a video](http://teamtreehouse.com/library/treehouse-friends/raising-your-profile-sam-soffes) with my friend [Pasan](https://twitter.com/pasanpr) over at [Treehouse](http://teamtreehouse.com). We talked about raising your profile online.
 

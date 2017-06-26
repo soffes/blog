@@ -1,7 +1,11 @@
 ---
-categories: Ship It
-categories: quote development mac
+tags:
+- quote
+- development
+- mac
 ---
+
+# 
 
 One of my favorite quotes:
 

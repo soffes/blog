@@ -1,7 +1,10 @@
 ---
-title: Twitter from Quicksilver
-categories: development mac
+tags:
+- development
+- mac
 ---
+
+# Twitter from Quicksilver
 
 ==So I am a huge [Quicksilver](http://blacktree.com) fan!== I use it constantly. You can do so much with it. Since I love keyboard shortcuts so much, so it's probably one of my favorite apps. It is the first thing I download and install when I get a new Mac.
 

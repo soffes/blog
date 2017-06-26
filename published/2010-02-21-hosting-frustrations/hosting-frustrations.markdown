@@ -1,7 +1,10 @@
 ---
-title: Hosting Frustrations
-categories: development web
+tags:
+- development
+- web
 ---
+
+# Hosting Frustrations
 
 Lately I've been struggling with good hosting. Here's three stories about some stuff I've tried. (Skip to the bottom of the post if you just want my conclusion and don't care about the stories.)
 

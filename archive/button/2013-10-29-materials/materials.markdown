@@ -1,8 +1,10 @@
 ---
-title: Materials
-categories: button
 cover_image: cover.png
+tags:
+- button
 ---
+
+# Materials
 
 Today I had a realization about materials. The original goal was to use aluminum. The other student at my [class last night](/autocad-class) mentioned that I might have trouble with signals and aluminum. I hadn’t thought of that!
 

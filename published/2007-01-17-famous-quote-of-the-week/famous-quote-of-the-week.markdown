@@ -1,7 +1,9 @@
 ---
-title: Famous Quote of the Week
-categories: quote
+tags:
+- quote
 ---
+
+# Famous Quote of the Week
 
 > Honesty is the first chapter of the book of wisdom.
 

@@ -1,7 +1,12 @@
 ---
-title: Part of RubyMotion Open Sourced
-categories: development ruby ios industry
+tags:
+- development
+- ruby
+- ios
+- industry
 ---
+
+# Part of RubyMotion Open Sourced
 
 This is really amazing to hear.
 

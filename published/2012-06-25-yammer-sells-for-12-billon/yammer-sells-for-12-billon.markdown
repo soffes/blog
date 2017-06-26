@@ -1,7 +1,9 @@
 ---
-title: Yammer Sells for $1.2 Billon
-categories: industry
+tags:
+- industry
 ---
+
+# Yammer Sells for $1.2 Billon
 
 Microsoft just bought Yammer for $1.2 billion. That's insane.
 

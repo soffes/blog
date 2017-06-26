@@ -1,7 +1,11 @@
 ---
-title: How to Drastically Improve Your App with an Afternoon and Instruments
-categories: objective-c development ios
+tags:
+- objective-c
+- development
+- ios
 ---
+
+# How to Drastically Improve Your App with an Afternoon and Instruments
 
 I was [bragging on Twitter](http://twitter.com/soffes/status/40214844405710848) about how I just made my application way better with some simple tweaks. I wanted to write a quick post about what I did that really helped that will probably help most people. This stuff is a bit application specific, but I think you'll see parallels to your application.
 

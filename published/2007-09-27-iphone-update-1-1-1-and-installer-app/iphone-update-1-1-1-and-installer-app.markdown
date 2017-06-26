@@ -1,7 +1,9 @@
 ---
-title: iPhone Update 1.1.1 and Installer.app
-categories: jailbreak
+tags:
+- jailbreak
 ---
+
+# iPhone Update 1.1.1 and Installer.app
 
 I, like many others I waited in line on June 29, 2007 for the Apple iPhone. As you all know, I'm a coder. I like like to tinker with stuff and see how it works. I had apps on my phone long before [Null River](http://web.archive.org/web/20071014203346/http://nullriver.com/) released their [installer.app](http://web.archive.org/web/20071014203346/http://iphone.nullriver.com/). I was using jailbreak, iphoneinterface, and other random tools from the iphone-dev-team.
 

@@ -1,7 +1,9 @@
 ---
-title: WWDC 2006 & New at Apple
-categories: apple
+tags:
+- apple
 ---
+
+# WWDC 2006 & New at Apple
 
 I just finished watching the [keynote](http://events.apple.com.edgesuite.net/aug_2006/event/index.html) from the Apple World Wide Developer’s Conference 2006 (WWDC). I think I wet myself. First off, just [go watch it](http://events.apple.com.edgesuite.net/aug_2006/event/index.html). It is so worth your time (about an hour). They show off all the new stuff and of course there is some Vista bashing. For those of you who don’t care as much or don’t have time, I’ll list what I thought was simply amazing at the WWDC and recently at Apple.
 

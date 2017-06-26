@@ -1,6 +1,5 @@
----
-title: The Worst Recruiters
----
+
+# The Worst Recruiters
 
 The [Andiamo Group](http://andiamo-group.com/) is the worst recruiting group I have ever encountered. I have asked them repeatedly to stop emailing me and they will not. Their "job leads" are always uninteresting and often irrelevant to my skill set.
 
