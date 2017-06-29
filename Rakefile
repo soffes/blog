@@ -40,6 +40,12 @@ task :recent do
   open Dir['published/**/*.markdown'].last
 end
 
+desc 'Publish the blog posts'
+task :publish do
+  # For me only :P
+  system 'heroku run "rake import" --app soffes-blog'
+end
+
 private
 
 def open(path)
