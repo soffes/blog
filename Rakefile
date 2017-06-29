@@ -43,6 +43,7 @@ end
 desc 'Publish the blog posts'
 task :publish do
   # For me only :P
+  system 'git push'
   system 'heroku run "rake import" --app soffes-blog'
 end
 
