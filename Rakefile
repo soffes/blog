@@ -1,4 +1,4 @@
-EDITOR = 'subl'
+EDITOR = 'whiskey'
 
 desc 'Create a new post'
 task :new do
@@ -27,8 +27,21 @@ task :new do
 
   # Create markdown file
   path = "#{dir}/#{slug}.markdown"
-  system "touch #{path}"
+  File.open(path, 'w') do |f|
+    f.write("# #{title}\n\n")
+  end
 
   # Open in editor
+  open path
+end
+
+desc 'Edit the most recent post'
+task :recent do
+  open Dir['published/**/*.markdown'].last
+end
+
+private
+
+def open(path)
   system "#{EDITOR} #{path}"
 end
