@@ -16,7 +16,7 @@ When I show this fullscreen window, I simply call `NSCursor.hide()` and call `NS
 
 ==Here’s the catch.== If you violently move your mouse the cursor would come back. This took me awhile to figure out. If the system makes your cursor giant then it comes back. You never actually see it get giant though. This kinda seems like a bug. I know using `NSCursor` `hide` and `unhide` isn’t super reliable unless you control everything. I though having a full screen window was enough control. Oh well.
 
-There was a simply solution though:
+There was a simple solution though:
 
 ```swift
 override func mouseMoved(with event: NSEvent) {
