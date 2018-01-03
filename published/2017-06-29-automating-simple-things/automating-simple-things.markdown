@@ -6,7 +6,7 @@ Usually my scripts are for something tedious that can be easily automated. Here�
 
 ## Gather Dependencies
 
-Some of the most elaborate scripts I’ve written in projects have been to automate gathering dependencies. This is can be complicated depending on your setup. My goal is always for someone that isn’t a developer to clone, run the command, open Xcode, and build. That may seem like overkill, but if you make it that easy, you make it that easy for yourself and teammates which saves a ton of time.
+Some of the most elaborate scripts I’ve written in projects have been to automate gathering dependencies. This can be complicated depending on your setup. My goal is always for someone that isn’t a developer to clone, run the command, open Xcode, and build. That may seem like overkill, but if you make it that easy, you make it that easy for yourself and teammates which saves a ton of time.
 
 The key to making it this easy is being really vigilant about errors and handling everything that could go wrong with a helpful error message.
 
