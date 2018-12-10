@@ -12,4 +12,4 @@ We’re a small team relative to the rest of the engineering and design teams we
 
 ==The words “I don’t care” are rarely uttered.== When we do say them, it’s usually out of frustration or exhaustion. We support each other through this since we all know no one means it. We pride ourselves on always doing our best. This is difficult and often requires us to persevere through resistance.
 
-==Working this small group of people has been the most rewarding part of my career.== It’s so refreshing to be around others with the same sense of pride in their work and drive to always do their best. Thanks team.💖
+==Working with this small group of people has been the most rewarding part of my career.== It’s so refreshing to be around others with the same sense of pride in their work and drive to always do their best. Thanks team.💖
