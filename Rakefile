@@ -1,4 +1,4 @@
-EDITOR = 'whiskey'
+EDITOR = 'atom'
 
 desc 'Create a new post'
 task :new do
@@ -50,5 +50,6 @@ end
 private
 
 def open(path)
-  system "#{EDITOR} #{path}"
+  editor = `which #{EDITOR}`.empty? ? '$EDITOR' : EDITOR
+  system "#{editor} '#{File.expand_path(path)}'"
 end
