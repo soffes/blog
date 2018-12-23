@@ -1,3 +1,9 @@
+---
+tags:
+  - life
+  - work
+---
+
 # Staying Positive
 
 About 6 months ago, I tweeted that I want to be known for being positive.
