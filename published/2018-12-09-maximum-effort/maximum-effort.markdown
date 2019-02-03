@@ -1,3 +1,9 @@
+---
+tags:
+  - life
+  - work
+---
+
 # Maximum Effort
 
 A few of my coworkers and I say “Maximum Effort” to each other a lot. ==Don’t confuse Maximum Effort with perfectionism.==
