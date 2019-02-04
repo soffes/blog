@@ -3,13 +3,16 @@ tags:
   - development
   - ruby
   - markdown
+thanks:
+  - "Thanks to [Rafa](http://twitter.com/rafahari) for talking up Netlify and motivating this project!"
+  - "Thanks to [Bryn](https://twitter.com/superbryntendo) for encouragement along the way."
 ---
 
 # Static Blog
 
 So I redid my blog again. I don’t think there is a piece of software I have worked on more over the years. Way back in 2006, I remember constantly redoing my custom WordPress theme over and over again. Since then I rewrote it [in PHP a bunch of times](/i-am-addicted-to-redoing-my-blog), Rails a few times, and then [some weird stuff on top of Sinatra](/new-blog) for awhile. I tried [Jekyll on GitHub pages](/new-blog-on-github-and-jekyll), WordPress, Roon, Ghost, and probably some other stuff mixed in there too.
 
-This iteration is built on top of [Jekyll](https://jekyllrb.com). My [previous iteration](/new-blog) was built on the idea that I should store my posts separately in [a repo](https://github.com/soffes/blog) that’s just Markdown and the images used in the posts. I optimized for a format that I enjoy writing with the hope that it would help me write more. [The blog](https://github.com/soffes/soffes.blog) imported the posts and did a bunch of processing to eventually store the rendered posts in Redis.
+This iteration is built on top of [Jekyll](https://jekyllrb.com), a static site generator written in Ruby. My [previous iteration](/new-blog) was built on the idea that I should store my posts separately in [a repo](https://github.com/soffes/blog) that’s just Markdown and the images used in the posts. I optimized for a format that I enjoy writing with the hope that it would help me write more. [The blog](https://github.com/soffes/soffes.blog) imported the posts and did a bunch of processing to eventually store the rendered posts in Redis.
 
 Lately, I’ve been playing with [Netlify](https://netlify.com), a great static site host. It’s been really great of a bunch of simple projects. My blog was the last big thing I had on Heroku and wasn’t cheap to run. I figured since it was mostly static already, I could just convert it to Jekyll without too much effort.
 
