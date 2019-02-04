@@ -3,9 +3,7 @@ tags:
   - development
   - ruby
   - markdown
-thanks:
-  - "Thanks to [Rafa](http://twitter.com/rafahari) for talking up Netlify and motivating this project!"
-  - "Thanks to [Bryn](https://twitter.com/superbryntendo) for encouragement along the way."
+thanks: "Thanks to [Rafa](http://twitter.com/rafahari) for talking up Netlify and motivating this project! Thanks to [Bryn](https://twitter.com/superbryntendo) for encouragement along the way."
 ---
 
 # Static Blog
