@@ -34,4 +34,8 @@ Arriving relatively early makes it easier to leave early. I also get so much don
 
 ## Final Thoughts
 
-For me, having this separation and actively defending it is really important to me. If you do one thing from this, I’d recommend splitting your apps so you can control your notifications. I hope this was helpful. Now go live life!
+For me, having this separation and actively defending it is really important to me. If you do one thing from this, I’d recommend splitting your apps so you can control your notifications. I hope this was helpful.
+
+Also, no judgement if you do something different! This is just what works for me.
+
+Now go live life!
