@@ -28,21 +28,21 @@ Cole’s designs for this app are amazing. It’s definitely the most beautiful 
 
 ==Having the ability to propose ideas or just run with something to see how it turned out made this a really enjoyable project to work on.== That’s the key to my enjoyment of freelance work. Having the sense of some ownership of the end product’s direction is a great feeling.
 
-## Neat Things
+## Neat things
 
 There’s a bunch of stuff I’m proud of in this app. I’m just going to point out a few of them from a design or engineering perspective. (It’s not going to get too nerdy so stay with me.)
 
-### Parallax Everywhere
+### Parallax everywhere
 
 Everywhere an image appears (with the exception of the grid because that would be overwhelming) it parallaxes if it doesn’t fit on screen. My favorite way to try this out is loading up a panorama and heading over to adjustments. ==I didn’t use the built-in motion effects to make this. I rolled my own so everything would be silky smooth.==
 
-### Smart Adjustments
+### Smart adjustments
 
 This is a really great example of Cole’s amazing taste in color and some clever engineering. ==All of the adjustments aren’t simply what they say. They’re smart.==
 
 For example, exposure is a smart exposure. If you did a plain exposure adjust, it starts to look bad as you get too high or too low. We do a bunch of clever things to make sure your photo stays looking great all the time. Same for the rest of them. Vignette is my favorite. There’s some really neat magic at work.
 
-### Compare View
+### Compare view
 
 The compare view is probably my favorite thing. Cole posted this photo during the development of the app:
 
@@ -56,11 +56,11 @@ I thought it would be awesome to show this in the store for the sample images. I
 
 There’s a bunch of other neat stuff in the app like a file format I made specifically for storing Litely colors, all non-destructive editing, tons of custom transitions, and some clever localization techniques. I hope you enjoy the magic.
 
-### Open Source
+### Open source
 
 I used a bunch of open source stuff in the app. Here’s the [Podfile](https://gist.github.com/soffes/965622a80351e11c67f9) if you’re curious. All of them are stuff I’ve written except for [CMDAwesomeButton](https://github.com/calebd/CMDAwesomeButton) and [SVProgressHUD](https://github.com/samvermette/SVProgressHUD). Thanks [Caleb](https://twitter.com/calebd) and [Sam](https://twitter.com/samvermette)!
 
-## In Closing
+## In closing
 
 This was a really fun app to work on. We both have a lot we want to add to it. I’m excited to see what happens with it. It was really great working with such a great designer as a client.
 
