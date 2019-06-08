@@ -10,8 +10,8 @@ Being a great athlete or something isn’t interesting. That’ll fade. Being a 
 
 It’s not that I need everyone to think I’m great. It’s more that I want to prove to myself I could be great.
 
-I feel like I’m really that good at anything. I dabble in a lot of things but none of it is anything great. I realize I have high expectations for myself and maybe this whole thought process is unreasonable after all.
+I feel like I’m not really that good at anything. I dabble in a lot of things but none of it is anything great. I realize I have high expectations for myself and maybe this whole thought process is unreasonable after all.
 
-As I get older, I something think that I’m running out of time to do something great. Is how I’m spending my time now, the best way I can be spending it?
+As I get older, I sometimes think that I’m running out of time to do something great. Is how I’m spending my time now, the best way I can be spending it?
 
 I don’t really have a conclusion for this. Needs more thought.
