@@ -2,7 +2,7 @@
 cover_image: cover.jpg
 ---
 
-# Walking
+# Walking to Work
 
 Lately, I’ve been walking to work. I live about 5.5 miles from my office. Generally, it usually takes me about 1.5 hours but varies based on the route. I like to mix it often to see different parts of the city or different views.
 
