@@ -10,10 +10,10 @@ Here’s how to define variables:
 /* Define variables for Light Mode in this selector */
 :root {
   /* Variables must to start with `--` */
-  --foreground-color: #111;
+  --body-foreground: #111;
 
   /* You can name these variables whatever you want */
-  --background-color: #fff;
+  --body-background: #fff;
 }
 ```
 
@@ -34,8 +34,8 @@ Here’s how to use the variable:
 
 ```css
 body {
-  color: var(--foreground-color);
-  background-color: var(--background-color);
+  color: var(--body-foreground);
+  background-color: var(--body-background);
 }
 ```
 
