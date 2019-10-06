@@ -2,6 +2,7 @@
 title: Coit Tower
 cover_image: 09.jpg
 location: Telegraph Hill, San Francisco, CA, United States
+is_gallery: true
 ---
 
 # Coit Tower
