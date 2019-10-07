@@ -8,7 +8,7 @@ tags:
 
 # Introducing Shares
 
-<a href="http://useshares.com" class="image-left"><img src="http://assets.samsoff.es/images/shares-icon.png" alt="Shares" width="256" height="256" /></a> Really excited to finally be able to introduce [Shares](http://useshares.com). I started working on this app in November. It's come a really long way since then.
+<a href="http://useshares.com" class="image-left"><img src="shares-icon.png" alt="Shares" width="256" height="256" /></a> Really excited to finally be able to introduce [Shares](http://useshares.com). I started working on this app in November. It's come a really long way since then.
 
 ## The Pitch
 

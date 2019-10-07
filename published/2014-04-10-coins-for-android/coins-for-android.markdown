@@ -8,7 +8,7 @@ tags:
 
 ==Yesterday, I released my first Android app, [Coins](http://getcoinsapp.com), that I built in a day.== I first [made Coins in a day](/coins) for iOS in December. It’s a simple app for seeing how much a certain amount of bitcoins are worth.
 
-<a href="http://getcoinsapp.com/download/android" class="app-store" rel="external nofollow"><img src="http://getcoinsapp.com/assets/google-play.svg" width="186" height="55" alt="Get it on Google Play"></a>
+<a href="http://getcoinsapp.com/download/android" class="app-store" rel="external nofollow"><img src="google-play.svg" width="186" height="55" alt="Get it on Google Play"></a>
 
 ## Learning Android
 
@@ -26,9 +26,9 @@ I [made the iOS version in a day](/coins) and made the Android version in a day.
 
 If you’re interested, check out [Coins on Google Play](http://getcoinsapp.com/download/android).
 
-<a href="http://getcoinsapp.com/download/android" class="app-store" rel="external nofollow"><img src="http://getcoinsapp.com/assets/google-play.svg" width="186" height="55" alt="Get it on Google Play"></a>
+<a href="http://getcoinsapp.com/download/android" class="app-store" rel="external nofollow"><img src="google-play.svg" width="186" height="55" alt="Get it on Google Play"></a>
 
-<a href="http://getcoinsapp.com/download/ios" class="app-store" rel="external nofollow"><img src="http://getcoinsapp.com/assets/app-store.svg" width="186" height="55" alt="Download on the App Store"></a>
+<a href="http://getcoinsapp.com/download/ios" class="app-store" rel="external nofollow"><img src="app-store.svg" width="186" height="55" alt="Download on the App Store"></a>
 
 ---
 
