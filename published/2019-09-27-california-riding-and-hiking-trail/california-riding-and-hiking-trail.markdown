@@ -15,32 +15,32 @@ One of my favorite parts was seeing thunderstorms really far in the distance at 
 
 Here’s my [full gear list](https://lighterpack.com/r/9m6flr) for this hike.
 
-<div class="gallery">
-  <div class="gallery gallery-row2">
-    <a href="DSC02860.jpg"><img src="DSC02860.jpg"></a>
-    <a href="DSC02862.jpg"><img src="DSC02862.jpg"></a>
-  </div>
-  <div class="gallery gallery-row3">
-    <a href="DSC02864.jpg"><img src="DSC02864.jpg"></a>
-    <a href="DSC02868.jpg"><img src="DSC02868.jpg"></a>
-    <a href="DSC02869.jpg"><img src="DSC02869.jpg"></a>
-  </div>
-  <div class="gallery gallery-hero">
-    <a href="DSC02871.jpg"><img src="DSC02871.jpg"></a>
-  </div>
-  <div class="gallery gallery-hero">
-    <a href="DSC02872.jpg"><img src="DSC02872.jpg"></a>
-  </div>
-  <div class="gallery gallery-hero">
-    <a href="DSC02873.jpg"><img src="DSC02873.jpg"></a>
-  </div>
-  <div class="gallery gallery-row2">
-    <a href="DSC02875.jpg"><img src="DSC02875.jpg"></a>
-    <a href="DSC02877.jpg"><img src="DSC02877.jpg"></a>
-  </div>
-  <div class="gallery gallery-row3">
-    <a href="DSC02879.jpg"><img src="DSC02879.jpg"></a>
-    <a href="DSC02880.jpg"><img src="DSC02880.jpg"></a>
-    <a href="DSC02883.jpg"><img src="DSC02883.jpg"></a>
-  </div>
-</div>
+<photo-gallery>
+  <photo-row>
+    <img src="DSC02860.jpg">
+    <img src="DSC02862.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02864.jpg">
+    <img src="DSC02868.jpg">
+    <img src="DSC02869.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02871.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02872.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02873.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02875.jpg">
+    <img src="DSC02877.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02879.jpg">
+    <img src="DSC02880.jpg">
+    <img src="DSC02883.jpg">
+  </photo-row>
+</photo-gallery>

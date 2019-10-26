@@ -19,67 +19,67 @@ I shot a little vlog on my phone each day.
 
 The trail was really beautiful. I definitely hope to do all of it next year.
 
-<div class="gallery gallery-bottom">
-  <div class="gallery gallery-row3">
-    <a href="DSC02791.jpg"><img src="DSC02791.jpg" alt="First trail blaze"></a>
-    <a href="DSC02793.jpg"><img src="DSC02793.jpg" alt="Ski sign"></a>
-    <a href="DSC02794.jpg"><img src="DSC02794.jpg" alt="Power lines and the lake"></a>
-  </div>
-  <div class="gallery gallery-hero">
-    <a href="DSC02796.jpg"><img src="DSC02796.jpg"></a>
-  </div>
-  <div class="gallery gallery-row2">
-    <a href="DSC02800.jpg"><img src="DSC02800.jpg" alt="South Lake Tahoe"></a>
-    <a href="DSC02801.jpg"><img src="DSC02801.jpg"></a>
-  </div>
-  <div class="gallery gallery-row2">
-    <a href="DSC02803.jpg"><img src="DSC02803.jpg"></a>
-    <a href="DSC02807.jpg"><img src="DSC02807.jpg"></a>
-  </div>
-  <div class="gallery gallery-row2">
-    <a href="DSC02808.jpg"><img src="DSC02808.jpg"></a>
-    <a href="DSC02810.jpg"><img src="DSC02810.jpg"></a>
-  </div>
-  <div class="gallery gallery-hero">
-    <a href="DSC02814.jpg"><img src="DSC02814.jpg"></a>
-  </div>
-  <div class="gallery gallery-row2">
-    <a href="DSC02815.jpg"><img src="DSC02815.jpg" alt="Selfie"></a>
-    <a href="DSC02826.jpg"><img src="DSC02826.jpg" alt="Shoes in the show"></a>
-  </div>
-  <div class="gallery gallery-row2">
-    <a href="DSC02818.jpg"><img src="DSC02818.jpg"></a>
-    <a href="DSC02819.jpg"><img src="DSC02819.jpg"></a>
-  </div>
-  <div class="gallery gallery-row2">
-    <a href="DSC02821.jpg"><img src="DSC02821.jpg"></a>
-    <a href="DSC02827.jpg"><img src="DSC02827.jpg"></a>
-  </div>
-  <div class="gallery gallery-hero">
-    <a href="DSC02829.jpg"><img src="DSC02829.jpg"></a>
-  </div>
-  <div class="gallery gallery-row3">
-    <a href="DSC02830.jpg"><img src="DSC02830.jpg"></a>
-    <a href="DSC02832.jpg"><img src="DSC02832.jpg"></a>
-    <a href="DSC02835.jpg"><img src="DSC02835.jpg"></a>
-  </div>
-  <div class="gallery gallery-row2">
-    <a href="DSC02836.jpg"><img src="DSC02836.jpg"></a>
-    <a href="DSC02839.jpg"><img src="DSC02839.jpg"></a>
-  </div>
-  <div class="gallery gallery-row3">
-    <a href="DSC02844.jpg"><img src="DSC02844.jpg"></a>
-    <a href="DSC02853.jpg"><img src="DSC02853.jpg"></a>
-    <a href="DSC02854.jpg"><img src="DSC02854.jpg"></a>
-  </div>
-  <div class="gallery gallery-hero">
-    <a href="DSC02848.jpg"><img src="DSC02848.jpg"></a>
-  </div>
-  <div class="gallery gallery-hero">
-    <a href="DSC02855.jpg"><img src="DSC02855.jpg"></a>
-  </div>
-  <div class="gallery gallery-row2">
-    <a href="DSC02856.jpg"><img src="DSC02856.jpg"></a>
-    <a href="DSC02859.jpg"><img src="DSC02859.jpg"></a>
-  </div>
-</div>
+<photo-gallery>
+  <photo-row>
+    <img src="DSC02791.jpg" alt="First trail blaze">
+    <img src="DSC02793.jpg" alt="Ski sign">
+    <img src="DSC02794.jpg" alt="Power lines and the lake">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02796.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02800.jpg" alt="South Lake Tahoe">
+    <img src="DSC02801.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02803.jpg">
+    <img src="DSC02807.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02808.jpg">
+    <img src="DSC02810.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02814.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02815.jpg" alt="Selfie">
+    <img src="DSC02826.jpg" alt="Shoes in the show">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02818.jpg">
+    <img src="DSC02819.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02821.jpg">
+    <img src="DSC02827.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02829.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02830.jpg">
+    <img src="DSC02832.jpg">
+    <img src="DSC02835.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02836.jpg">
+    <img src="DSC02839.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02844.jpg">
+    <img src="DSC02853.jpg">
+    <img src="DSC02854.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02848.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02855.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC02856.jpg">
+    <img src="DSC02859.jpg">
+  </photo-row>
+</photo-gallery>

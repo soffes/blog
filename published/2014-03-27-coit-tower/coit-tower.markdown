@@ -11,48 +11,48 @@ An evening walk from Nob Hill to Telegraph Hill.
 
 ## Embarcadero
 
-<div class="gallery">
-  <div class="gallery-hero">
-    <a href="01.jpg"><img src="01.jpg"></a>
-  </div>
-  <div class="gallery-row3">
-    <a href="02.jpg"><img src="02.jpg"></a>
-    <a href="03.jpg"><img src="03.jpg"></a>
-    <a href="04.jpg"><img src="04.jpg"></a>
-  </div>
-</div>
+<photo-gallery>
+  <photo-row>
+    <img src="01.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="02.jpg">
+    <img src="03.jpg">
+    <img src="04.jpg">
+  </photo-row>
+</photo-gallery>
 
-<div class="gallery">
-  <div class="gallery-hero">
-    <a href="05.jpg"><img src="05.jpg"></a>
-  </div>
-  <div class="gallery-row2">
-    <a href="06.jpg"><img src="06.jpg"></a>
-    <a href="07.jpg"><img src="07.jpg"></a>
-  </div>
-</div>
+<photo-gallery>
+  <photo-row>
+    <img src="05.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="06.jpg">
+    <img src="07.jpg">
+  </photo-row>
+</photo-gallery>
 
-<div class="gallery">
-  <div class="gallery-hero">
-    <a href="08.jpg"><img src="08.jpg"></a>
-  </div>
-</div>
+<photo-gallery>
+  <photo-row>
+    <img src="08.jpg">
+  </photo-row>
+</photo-gallery>
 
 ## Coit Tower
 
-<div class="gallery">
-  <div class="gallery-hero">
-    <a href="09.jpg"><img src="09.jpg" class="primary"></a>
-  </div>
-</div>
+<photo-gallery>
+  <photo-row>
+    <img src="09.jpg" class="primary">
+  </photo-row>
+</photo-gallery>
 
 ## Headed Home
 
 <div class="gallery gallery-bottom">
   <div class="gallery-row2">
-    <a href="10.jpg"><img src="10.jpg"></a>
-    <a href="11.jpg"><img src="11.jpg"></a>
-  </div>
-</div>
+    <img src="10.jpg">
+    <img src="11.jpg">
+  </photo-row>
+</photo-gallery>
 
 Taken with a Canon 6D + 24-70mm f/2.8L II
