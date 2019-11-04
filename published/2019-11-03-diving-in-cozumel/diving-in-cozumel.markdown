@@ -5,7 +5,7 @@ cover_image: DSC03130.jpg
 
 # Diving in Cozumel
 
-Last week, I went diving in Cozumel, Mexico. Cozumel is a small island off the coast of Cancun. This is the forth year I’ve gone diving here. It’s one of my favorite places to dive because it’s relatively easy to travel to (versus something like Little Cayman) and has incredible wildlife. The water was 87°F with ~60ft of visibility. Incredible.
+Last week, I went diving in Cozumel, Mexico. Cozumel is a small island off the coast of Cancun. This is the fourth year I’ve gone diving here. It’s one of my favorite places to dive because it’s relatively easy to travel to (versus something like Little Cayman) and has incredible wildlife. The water was 87°F with ~60ft of visibility. Incredible.
 
 I think I’m starting to figure out my underwater camera setup. I’m really pleased with some of these photos. You’re probably here for the photos, so let’s get straight to that. More about the gear at the bottom of the post.
 
