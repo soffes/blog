@@ -9,6 +9,8 @@ Last week, I went diving in Cozumel, Mexico. Cozumel is a small island off the c
 
 I think I’m starting to figure out my underwater camera setup. I’m really pleased with some of these photos. You’re probably here for the photos, so let’s get straight to that. More about the gear at the bottom of the post.
 
+**Update:** My dive buddy (and brother-in-law), [Chris Sohl](https://www.youtube.com/channel/UC07sFZyjpX0GWneEcIXECeA), shot [a really great video of the trip](https://youtu.be/tcNn5JDsZT8). I’m the one with the big camera.
+
 <photo-gallery>
   <photo-row>
     <img src="DSC02998.jpg">
