@@ -20,9 +20,6 @@ An evening walk from Nob Hill to Telegraph Hill.
     <img src="03.jpg">
     <img src="04.jpg">
   </photo-row>
-</photo-gallery>
-
-<photo-gallery>
   <photo-row>
     <img src="05.jpg">
   </photo-row>
@@ -30,9 +27,6 @@ An evening walk from Nob Hill to Telegraph Hill.
     <img src="06.jpg">
     <img src="07.jpg">
   </photo-row>
-</photo-gallery>
-
-<photo-gallery>
   <photo-row>
     <img src="08.jpg">
   </photo-row>
@@ -48,8 +42,8 @@ An evening walk from Nob Hill to Telegraph Hill.
 
 ## Headed Home
 
-<div class="gallery gallery-bottom">
-  <div class="gallery-row2">
+<photo-gallery>
+  <photo-row>
     <img src="10.jpg">
     <img src="11.jpg">
   </photo-row>
