@@ -14,7 +14,7 @@ I set the text in [SF Compact](https://developer.apple.com/fonts) like the new M
 
 Designing the keycaps only took a few hours of arguing with myself in Illustrator. I tweaked a few of the symbols slightly. Nothing too crazy. They have [free templates](https://support.wasdkeyboards.com/hc/en-us/articles/115007847008-Download-Template-Files) you can download.
 
-[![Illustrator screenshot](screenshot.png)](https://soffes.s3.amazonaws.com/SoffesKeyboard.ai.zip)
+![Illustrator screenshot](screenshot.png)
 
 If you order one from WASD, you’re welcome to use my design. **[Download the Illustrator file](https://soffes.s3.amazonaws.com/SoffesKeyboard.ai.zip).** I highly recommend ordering their [wrist rest](http://www.wasdkeyboards.com/index.php/products/keyboard-accessories/14-wrist-pad.html). I also got their [fancy USB cable](http://www.wasdkeyboards.com/index.php/products/keyboard-accessories/custom-sleeved-micro-usb-cable.html) (black on black). I'm a sucker for good cables.
 
