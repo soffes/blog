@@ -7,7 +7,7 @@ tags:
 
 My friend, [@iTod](http://twitter.com/itod), just released a great application called [Shapes](http://shapesapp.com).
 
-[![Shapes App](screen.png)](http://shapesapp.com)
+![Shapes App](screen.png)
 
 It's a really great tool for sketching quick stuff. I've really been enjoying it lately. For me, it's great for drawing quick ideas.
 
