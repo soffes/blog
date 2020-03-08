@@ -104,6 +104,8 @@ Now that we can use Home Assistant to do all of this Sonos magic, it would be gr
 
 First, open [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) and hit the plus to create a new shortcut.
 
+**Update:** Instead of using the URL approach mentioned below, you can use the Call Service action from the [Home Assistant iOS app](https://apps.apple.com/us/app/home-assistant/id1099568401?mt=8) instead of creating URLs. Use the `script.turn_on` service.
+
 Add a URL action and enter something like this:
 
 ```
