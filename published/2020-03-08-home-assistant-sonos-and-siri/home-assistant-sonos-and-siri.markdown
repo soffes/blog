@@ -1,3 +1,7 @@
+---
+thanks: Thanks to [this post](https://community.home-assistant.io/t/ios-shortcuts-with-ha-no-ssl-required/89529) for inspiring this approach.
+---
+
 # Home Assistant, Sonos, and Siri
 
 Lately, I’ve really been getting into [Home Assistant](https://home-assistant.io). It’s a really fantastic way to connect everything in your house into one place and then control it however you want. I connect everything directly to Home Assistant and then add Home Assistant to HomeKit (Apple’s Home app). So HomeKit is just controlling Home Assistant which is controlling the real devices.
