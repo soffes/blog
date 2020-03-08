@@ -117,3 +117,5 @@ After creating one, be sure to tap it from the main screen Shortucts to run it o
 ## Conclusion
 
 That’s it! I’ve really been enjoying this approach! You can of course use it for anything—not just Sonos. The possibilities are endless!
+
+If you want to see my ever evolving configuration, it’s on GitHub: [github.com/soffes/home](https://github.com/soffes/home).
