@@ -26,7 +26,7 @@ I’m not sure why ~8 year old me really wanted this. Anyway, I saved up and got
 
 Anyway, let’s set some goals for this year.
 
-**Go backpacking a bunch.** I did [some](https://soffes.blog/lost-coast) [last](https://soffes.blog/tahoe-rim-trail) [https://soffes.blog/california-riding-and-hiking-trail](year) and it was great. I hope to do a lot more while I’m 31. Exercise and nature. Fantastic.
+**Go backpacking a bunch.** I did [some](https://soffes.blog/lost-coast) [last](https://soffes.blog/tahoe-rim-trail) [year](https://soffes.blog/california-riding-and-hiking-trail) and it was great. I hope to do a lot more while I’m 31. Exercise and nature. Fantastic.
 
 **Go diving at least a few times.** I only did a [few](https://soffes.blog/diving-in-cozumel) trips last year compared to previous years. I’d really like to keep it up and go more often.
 
