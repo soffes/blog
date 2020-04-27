@@ -12,7 +12,7 @@ That seems like such an old age. I remember thinking when I was 22 that I better
 
 I think I did a pretty good job of this last year. I think it had some of the highest highs and lowest lows of any year, but overall it was pretty great. ==I’m just trying to focus on the highs. No point in focusing on the negatives.==
 
-I spent a lot of time hiking, scuba diving, taking photos, and building things. In December, Ellen and I bought a house in San Francisco. Working on renovations, home automation, and other house things is some of the most fun I’ve had in a long time. ==I really like using my creativity of things other than software.==
+I spent a lot of time hiking, scuba diving, taking photos, and building things. In December, I bought a house in San Francisco. Working on renovations, home automation, and other house things is some of the most fun I’ve had in a long time. ==I really like using my creativity of things other than software.==
 
 That said, this coming Tuesday I start a new job at [GitHub](https://github.com). I’m really excited about it! I think there will be a lot more making than my previous job. ==All I want to do is make things.== Super excited to have more of an opportunity to do this with software again.
 
