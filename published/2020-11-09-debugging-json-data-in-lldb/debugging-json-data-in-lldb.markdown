@@ -46,6 +46,6 @@ Here’s how it works in action:
 
 Instead of `po`, you can now use the new `json` command to pretty print the JSON data or a JSON serializable type (dictionary, array, etc.)
 
-Either copy and paste the snippet into your LLDB console to add the command or add the snippet to `~/.lldbint` to make it always available.
+Either copy and paste the snippet into your LLDB console to add the command or add the snippet to `~/.lldbinit` to make it always available.
 
 Hopefully this saves you some time debugging network responses :)
