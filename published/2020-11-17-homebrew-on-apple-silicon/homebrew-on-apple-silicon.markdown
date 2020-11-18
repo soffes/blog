@@ -41,4 +41,4 @@ My workflow is trying to `brew install` like normal and if it fails prefix with 
 
 ---
 
-**Disclaimer:** This is as of 2011-11-17. Things are surely going to change. Follow along in [this issue](https://github.com/Homebrew/brew/issues/7857) for the latest from the Homebrew team.
+**Disclaimer:** This is as of 2020-11-17. Things are surely going to change. Follow along in [this issue](https://github.com/Homebrew/brew/issues/7857) for the latest from the Homebrew team.
