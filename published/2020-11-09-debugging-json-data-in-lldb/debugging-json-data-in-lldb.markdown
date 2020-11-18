@@ -5,7 +5,7 @@ Recently, I added a snippet to my `~/.lldbinit` for an easy way to print JSON in
 Here’s the snippet:
 
 ```
-command regex json 's/(.+)/expr let input = %1; print(String(data: try! JSONSerialization.data(withJSONObject: (input is Data ? (try! JSONSerialization.jsonObject(with: input as! Data, options: [])) : input as! Any), options: [.prettyPrinted]), encoding: .utf8)!)/'
+command regex json 's/(.+)/expr let input = %1; print(String(data: try! JSONSerialization.data(withJSONObject: (input is String ? try! JSONSerialization.jsonObject(with: (input as! String).data(using: .utf8)!, options: []) : (input is Data ? (try! JSONSerialization.jsonObject(with: input as! Data, options: [])) : input as! Any)), options: [.prettyPrinted]), encoding: .utf8)!)/'
 ```
 
 Let’s look at it in an easier to read format. Here’s some Swift psuedocode:
@@ -14,7 +14,10 @@ Let’s look at it in an easier to read format. Here’s some Swift psuedocode:
 func json(input: Any) {
   // Ensure we’re working with a deserialized JSON object
   let object: Any
-  if let data = input as? Data {
+  if let string = input as? String, let data = string.data(using: .utf8) {
+    // If the input was `String`, deserialize it
+    object = try! JSONSerialization.jsonObject(with: data, options: []))
+  } else if let data = input as? Data {
     // If the input was `Data`, deserialize it
     object = try! JSONSerialization.jsonObject(with: input, options: []))
   } else {
