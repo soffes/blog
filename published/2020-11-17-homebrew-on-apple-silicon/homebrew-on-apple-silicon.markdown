@@ -35,10 +35,21 @@ This creates a new directory, setups the right permissions, and downloads Homebr
 
 Be sure to add `/opt/homebrew/bin` to your `$PATH`!
 
-Now if you run plain `brew` you get this one in `/opt/homebrew`. You can run `arch -x86_64 brew` to get the Rosetta one in `/usr/local`.
+Whichever `brew` is in your path first will run when you use `brew`. If it’s the `/usr/local` one, you’ll need to add the `arch -x86_64` prefix every time. Your best bet for using both is to alias one of them.
 
-My workflow is trying to `brew install` like normal and if it fails prefix with `arch -x86_64` and try again. As long as you only install it with one of them, you don’t need to prefix things you’ve installed when you run them. Pretty great!
+I made sure `/opt/homebrew/bin` was in my path **before** `/usr/local/bin`. Then I aliased the Intel `brew` to `ibrew` so it’s easier to select. Here’s what I added to my ZSH configuration:
+
+```
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+alias ibrew='arch -x86_64 /usr/local/bin/brew'
+```
+
+Now you can easily run `brew` to get the native one or `ibrew` to get the Rosetta one. You could of course do this in the other order in your `$PATH` if you prefer and something like `abrew` (for Apple Silicon Homebrew) or whatever else.
+
+If you install things in both Homebrews, the one that is first in your path will be used.
 
 ---
 
 **Disclaimer:** This is as of 2020-11-17. Things are surely going to change. Follow along in [this issue](https://github.com/Homebrew/brew/issues/7857) for the latest from the Homebrew team.
+
+**Update 2020-11-18:** I realized both at the same time wasn’t working as I described. Updated the multi section.
