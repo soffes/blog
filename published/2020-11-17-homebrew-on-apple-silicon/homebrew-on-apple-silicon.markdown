@@ -6,7 +6,7 @@ The biggest issue for me was [Homebrew](https://brew.sh). According to [this iss
 
 ## Using Rosetta 2
 
-Rosetta 2 is Apple’s translation later. This lets you run Intel things with a little overhead. In Terminal, you can run any process with Rosetta by prefixing it with `arch -x86_64`.
+Rosetta 2 is Apple’s translation layer. This lets you run Intel things with a little overhead. In Terminal, you can run any process with Rosetta by prefixing it with `arch -x86_64`.
 
 To get Homebrew working, let’s install it using Rosetta:
 
