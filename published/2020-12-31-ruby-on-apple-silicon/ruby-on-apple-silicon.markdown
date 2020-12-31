@@ -25,6 +25,8 @@ If you are using Nokogiri, you’ll have some issues with the Ruby you just inst
     $ ibrew install libxml2
     $ gem install nokogiri -- --use-system-libraries --with-xml2-include=$(ibrew --prefix libxml2)/include/libxml2
 
+If you’re still having trouble with Nokogiri, checkout their normal [installation guide](https://nokogiri.org/tutorials/installing_nokogiri.html).
+
 Now, reinstall readline if you uninstalled it above:
 
     $ brew install readline.
