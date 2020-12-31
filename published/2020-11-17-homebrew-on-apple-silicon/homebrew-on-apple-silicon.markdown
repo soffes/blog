@@ -53,3 +53,5 @@ If you install things in both Homebrews, the one that is first in your path will
 **Disclaimer:** This is as of 2020-11-17. Things are surely going to change. Follow along in [this issue](https://github.com/Homebrew/brew/issues/7857) for the latest from the Homebrew team.
 
 **Update 2020-11-18:** I realized both at the same time wasn’t working as I described. Updated the multi section.
+
+**Update 2020-12-31:** If you are having trouble installing Ruby, check out [this post](https://soffes.blog/ruby-on-apple-silicon).
