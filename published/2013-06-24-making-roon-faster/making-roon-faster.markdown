@@ -18,7 +18,6 @@ The main problem here is webfonts. Users can't see any text on our pages until t
 
 Simply setting up a CloudFront distribution pointed at our S3 bucket and simply changing our asset host took less than a minute. Now all the fonts (as well as CSS and JavaScript) are quite snappy. That was easy!
 
-
 ## Less Queries
 
 The viewer (the part that serves users' blogs) is our #1 concern regarding performance. We absolutely want to make the best writing experience possible, but people reading your content is priority. I sat down for 30 minutes or so and used [mini-profiler](https://github.com/SamSaffron/MiniProfiler/tree/master/Ruby) to see what queries were being performed and why. It turns out there were a few things we could optimize. The main thing here was prefetching relationships on objects so it would do `n` queries.

@@ -15,11 +15,13 @@ I figured it was worth expanding a bit about this though. Mainly two things Roon
 
 We have _underline_ support. As far as I know, we are the only people that support this right now. Here's how you write it:
 
-    You can underline like _this_. This is still *italic*.
+``` markdown
+You can underline like _this_. This is still *italic*.
+```
 
 This is made possible by a feature [I contributed](https://github.com/vmg/redcarpet/pull/227). From the Markdown spec:
 
-> Markdown treats asterisks (*) and underscores (_) as indicators of emphasis. Text wrapped with one * or _ will be wrapped with an HTML `<em>` tag…
+> Markdown treats asterisks (`*`) and underscores (`_`) as indicators of emphasis. Text wrapped with one `*` or `_` will be wrapped with an HTML `<em>` tag…
 
 We figured why not treat `_this_` as underline since it's still emphasis. That way we didn't stomp on other Markdown things. The Redcarpet folks liked my patch at graciously merged it!
 

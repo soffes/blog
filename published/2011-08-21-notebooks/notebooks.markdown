@@ -1,4 +1,3 @@
-
 # Notebooks
 
 I've found whenever I get stuck on something hard, notebooks help. There is something about writing stuff down in a notebook that really helps me think.

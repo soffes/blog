@@ -28,28 +28,28 @@ Next, I needed a way to convert an integer into Roman numerals. I thought `NSNum
 
 ```swift
 extension UInt {
-	// Adapated from https://gist.github.com/kumo/a8e1cb1f4b7cff1548c7
-	var romanNumeral: String {
-		let romanValues = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"]
-		let arabicValues: [UInt] = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]
+  // Adapated from https://gist.github.com/kumo/a8e1cb1f4b7cff1548c7
+  var romanNumeral: String {
+    let romanValues = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"]
+    let arabicValues: [UInt] = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1]
 
-		var romanValue = ""
-		var startingValue = self
+    var romanValue = ""
+    var startingValue = self
 
-		for (index, romanChar) in romanValues.enumerate() {
-			let arabicValue = arabicValues[index]
-			let div = startingValue / arabicValue
+    for (index, romanChar) in romanValues.enumerate() {
+      let arabicValue = arabicValues[index]
+      let div = startingValue / arabicValue
 
-			if div > 0 {
-				for _ in 0..<div {
-					romanValue += romanChar
-				}
-				startingValue -= arabicValue * div
-			}
-		}
+      if div > 0 {
+        for _ in 0..<div {
+          romanValue += romanChar
+        }
+        startingValue -= arabicValue * div
+      }
+    }
 
-		return romanValue
-	}
+    return romanValue
+  }
 }
 ```
 
@@ -62,15 +62,15 @@ var widest: UInt = 0
 var width: CGFloat = 0
 
 let attributes = [
-	NSFontAttributeName: UIFont(name: "Times New Roman", size: 12)!
+  NSFontAttributeName: UIFont(name: "Times New Roman", size: 12)!
 ]
 
 for prime in primes {
-	let size = prime.romanNumeral.sizeWithAttributes(attributes)
-	if size.width >= width {
-		width = size.width
-		widest = prime
-	}
+  let size = prime.romanNumeral.sizeWithAttributes(attributes)
+  if size.width >= width {
+    width = size.width
+    widest = prime
+  }
 }
 
 print("widest prime less than 4000 when written as a Roman numeral in Times New Roman: \(widest)")

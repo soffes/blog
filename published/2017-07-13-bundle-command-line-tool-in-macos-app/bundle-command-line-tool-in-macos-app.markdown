@@ -2,13 +2,17 @@
 
 I spend a lot of time in Terminal. There are several things that I’ll reach for in Terminal before something like Spotlight or Alfred. Here’s an example:
 
-    $ c so<tab>/bl<tab>
-    # cd ~/Code/soffes/blog
-    $ s
+``` sh
+$ c so<tab>/bl<tab>
+# cd ~/Code/soffes/blog
+$ s
+```
 
 The `s` alias is [defined as](https://github.com/soffes/dotfiles/blob/master/.zsh/aliases.zsh#L21):
 
-    subl .
+``` sh
+$ subl .
+```
 
 This simply opens the current directory in Sublime Text, my editor of choice. ==I really love how fast this let’s me get started on something.== I first ran into this pattern with TextMate’s `mate` command. So great.
 

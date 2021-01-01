@@ -35,7 +35,6 @@ Did my first freelance project creating a CMS/website builder in my free time. T
 
 **December:** Got engaged to my high school sweetheart.
 
-
 ### 2008
 
 **January:** Moved from Kentucky to Oklahoma to start working at LifeChurch.tv.
@@ -47,7 +46,6 @@ Did my first freelance project creating a CMS/website builder in my free time. T
 This was the saddest time in my life. Hands down. In short, she changed her mind. Then, days later, the App Store launched to show off all of my work. It didn't even matter.
 
 **October:** Joined a local band. Had a lot of fun with those guys.
-
 
 ### 2009
 
@@ -62,7 +60,6 @@ This was the saddest time in my life. Hands down. In short, she changed her mind
 **June:** Attended WWDC for the first time. Met [Rick Chatham](http://twitter.com/rickchatham), founder of [Tasteful Works](http://tastefulworks.com).
 
 **September:** Accepted an offer from Tasteful Works. Sold my beloved house and left my band. Moved to Dallas, TX.
-
 
 ### 2010
 

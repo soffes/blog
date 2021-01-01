@@ -12,7 +12,7 @@ It's a simple Rack app you can mount in your own app. It provides a simple API f
 
 To get started:
 
-```
+``` sh
 $ gem install tincan
 ```
 

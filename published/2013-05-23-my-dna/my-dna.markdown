@@ -28,7 +28,6 @@ Height                  | Averaged 0.3–0.7cm taller
 
 It's crazy how all of them were right on. Fascinating.
 
-
 ## Disease Risk
 
 It also shows tons of diseases and your risk for them. Here are a few that are below for me.
@@ -55,3 +54,5 @@ This wasn't as interesting to me as the health/traits stuff, but still pretty co
 I posted my genome on GitHub: [github.com/soffes/dna](https://github.com/soffes/dna). You can download it and look through my source code. Pretty fascinating.
 
 Pull requests welcome.
+
+**Update:** Decided to not publicly post my raw genome after all.

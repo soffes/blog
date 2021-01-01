@@ -15,7 +15,6 @@ Sadly, no. I still do contract work to pay the bills. When I’m working on my s
 
 This has definitely cased a shift in my thinking for side projects. I now mainly focus on stuff that could make money instead of random things for fun. I still enjoy what I work on, but it’s a more focused approach.
 
-
 > #2 What do you think about trying to do contract work part time (to pay the bills) while working on your personal projects with your other time.  Or do you think that personal project businesses require full attention?
 
 This is what I do. I’m really bad at doing more than one thing at a time. I never book more than one client at a time anymore. It’s too stressful to manage everyone’s needs. If I do work on stuff on the side while I’m working on a client, it’s nights and weekends when I feel like it.

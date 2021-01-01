@@ -12,11 +12,9 @@ Today, we open sourced a framework for iOS we've been using a ton internally cal
 
 Static's goal is to separate model data from presentation. `Row`s and `Section`s are your “view models” for your cells. You simply specify a cell class to use and that handles all of the presentation. See the [Usage](https://github.com/venmo/Static/#usage) section below for details.
 
-
 ## Building
 
 Static is written in Swift 2 so Xcode 7b3 is required. There aren't any dependencies besides system frameworks.
-
 
 ## Installation
 
@@ -28,11 +26,9 @@ github "venmo/Static"
 
 For manual installation, it's recommended to add the project as a subproject to your project or workspace and adding the appropriate framework as a target dependency.
 
-
 ## Usage
 
 An [example app](https://github.com/venmo/Static/blob/master/Example) is included demonstrating Static's functionality. Check that out first if you prefer to learn by example.
-
 
 ### Getting Started
 
@@ -61,7 +57,6 @@ Section(header: "Money", rows: [
 
 Since this is Swift, we can provide instance methods instead of inline blocks for selections. This makes things really nice. You don't have to switch on index paths in a `tableView:didSelectRowAtIndexPath:` any more!
 
-
 ### Customizing Appearance
 
 The `Row` never has access to the cell. This is by design. The `Row` shouldn't care about its appearance other specifying what will handle it. In practice, this has been really nice. Our cells have one responsibility.
@@ -82,7 +77,6 @@ func configure(row row: Row)
 This gets called by [`DataSource`](https://github.com/venmo/Static/blob/master/Static/DataSource.swift) (which we'll look at more in a minute) to set the row on the cell. There is a default implementation provided by the protocol that simply sets the `Row`'s `text` on the cell's `textLabel`, etc. If you need to do custom things, this is a great place to hook in.
 
 `Row` also has a `context` property. You can put whatever you want in here that the cell needs to know. You should try to use this as sparingly as possible.
-
 
 ### Custom Row Accessories
 
@@ -108,7 +102,6 @@ There is an additional case called `.View` that takes a custom view. Here's a `R
 Row(text: "My Profile", accessory: .View(someEditButton))
 ```
 
-
 ### Custom Section Header & Footer Views
 
 `Section` has properties for `header` and `footer`. These take a `Section.Extremity`. This is an enum with `Title` and `View` cases. `Extremity` is `StringLiteralConvertible` you can simply specify strings if you want titles like we did the *Getting Started* section.
@@ -120,7 +113,6 @@ Section(header: .View(yourView))
 ```
 
 The height returned to the table view will be the view's `bounds.height` so be sure it's already sized properly.
-
 
 ### Working with the Data Source
 
@@ -142,7 +134,6 @@ dataSource.tableView = tableView
 ```
 
 Easy as that! If you modify your data source later, it will automatically update the table view for you. It is important that you don't change the table view's `dataSource` or `delegate`. The `DataSource` needs to be those so it can handle events correctly. The purpose of `Static` is to abstract all of that away from you.
-
 
 ### Wrapping Up
 

@@ -11,7 +11,6 @@ For iOS development, I don't use Interface Builder. I haven't willfully used a N
 
 Instead of mindlessly arguing on one side or the other of this, here's my go to points when I'm trying to win someone over.
 
-
 ## Choosing Explicit over Implicit
 
 Choosing to be explicit is my number one reason to do things in code instead. If someone new to the team opens up a view or view controller, they can see right away where everything is and not have to wonder if this file has a NIB.
@@ -53,6 +52,5 @@ I think this is a lot of people's biggest fear is working with layouts in code. 
 Interface Builder itself is not bad. It does encourage bad practices, prevent reusability, make working with others more difficult, and slow your workflow. Personally, I avoid using Interface Builder (including storyboards) as much as possible. All of the projects I've worked on since 2009 haven't had NIBs unless it was out of my control.
 
 I think you should save yourself some time, learn a few things, and start moving to code. We are programmers after all.
-
 
 **Update:** not to mention localization. It's a huge pain with IB. You end up making connections to everything. So much easier to do in code.

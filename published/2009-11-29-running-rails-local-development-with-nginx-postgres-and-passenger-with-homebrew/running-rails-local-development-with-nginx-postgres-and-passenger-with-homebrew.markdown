@@ -23,26 +23,34 @@ This probably goes without saying, but you'll need [Xcode installed](http://deve
 
     If you don't want to do it that way (I highly recommend doing it the above way), you can just run this command to install homebrew.
 
-        $ sudo chown -R $USER /usr/local
-        $ curl -Lsf http://github.com/mxcl/homebrew/tarball/master | tar xvz -C/usr/local --strip 1
+    ```sh
+    $ sudo chown -R $USER /usr/local
+    $ curl -Lsf http://github.com/mxcl/homebrew/tarball/master | tar xvz -C/usr/local --strip 1
+    ```
 
     You'll need to sudo install gems if you do it this way.
 
 2. Install the [Passenger][] gem
 
-        $ gem install passenger
+    ``` sh
+    $ gem install passenger
+    ```
 
     I also had to install the `fastthread` gem to get Passenger to play nice later. You might not have to do this. If you need to, all you have to do is `gem install fastthread`.
 
 3. Install [Nginx][] with the [Passenger][] module
 
-        $ brew install nginx --with-passenger
+    ``` sh
+    $ brew install nginx --with-passenger
+    ```
 
     > You can start Nginx with `sudo nginx` and stop it with `sudo nginx -s stop`.
 
 4. Install [PostgreSQL][]
 
-        $ brew install postgresql
+    ``` sh
+    $ brew install postgresql
+    ```
 
     After the installation completes, there will be instructions on how to initialize the database, start the server, start the server at login, and install the pg gem. ==Do all of this.==
 
@@ -110,7 +118,7 @@ This probably goes without saying, but you'll need [Xcode installed](http://deve
 
 3. You will need to edit your `/etc/hosts` for any virtual hosts you add. Mine looks like this:
 
-    ```
+    ``` txt
     ##
     # Host Database
     #
@@ -158,11 +166,16 @@ This probably goes without saying, but you'll need [Xcode installed](http://deve
 
 2. Enter the PostgreSQL prompt to create your user and databases:
 
-        $ psql  postgres
-        # CREATE USER samsoffes SUPERUSER;
-        # CREATE DATABASE samsoffes_development OWNER samsoffes;
-        # CREATE DATABASE samsoffes_test OWNER samsoffes;
-        # \q
+    ``` sh
+    $ psql  postgres
+    ```
+
+    ``` sql
+    CREATE USER samsoffes SUPERUSER;
+    CREATE DATABASE samsoffes_development OWNER samsoffes;
+    CREATE DATABASE samsoffes_test OWNER samsoffes;
+    \q
+    ```
 
     Note: you need to make your user a superuser for your tests to run correctly. More on this [here](http://blogs.law.harvard.edu/djcp/2009/01/rails-22-postgres-and-testing/comment-page-1/).
 
@@ -172,11 +185,13 @@ So, to review, you have just installed and configured Nginx, Passenger, and Post
 
 If you forgot to copy the commands out of the PostgreSQL install, here's how to start and stop PostgreSQL:
 
-    # Start
-    $ pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+``` sh
+# Start
+$ pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
 
-    # Stop
-    $ pg_ctl -D /usr/local/var/postgres stop -s -m fast
+# Stop
+$ pg_ctl -D /usr/local/var/postgres stop -s -m fast
+```
 
 Before, I found myself typing `sudo apachectl restart` a lot to reload my application. Now, you would run `sudo nginx -s reload` to reload the server configuration and restart the app. (You can of course do the `touch tmp/restart.txt` method as well.)
 

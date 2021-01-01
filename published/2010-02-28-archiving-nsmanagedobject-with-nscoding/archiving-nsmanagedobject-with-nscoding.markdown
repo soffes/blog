@@ -62,7 +62,6 @@ NSString *kURIRepresentationKey = @"URIRepresentation";
 @end
 ```
 
-
 I always add `+ (id)sharedAppDelegate` to my application delegate to save some typing:
 
 ``` objective-c

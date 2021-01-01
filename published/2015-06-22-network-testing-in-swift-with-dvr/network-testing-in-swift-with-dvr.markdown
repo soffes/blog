@@ -12,7 +12,6 @@ Personally, I’ve never been a fan of [mocks and stubs](https://en.wikipedia.or
 
 I think focusing on testing everything in isolation isn’t great. If you have stuff that is hard to test in isolation, either it should be redesigned to more encapsulated or due to the nature of it, you need to test it at a higher level.
 
-
 ## Testing Strategies
 
 I think network testing is best done at a broader level. When you’re building an API wrapper (or whatever else that talks to the networking), the core responsibility of the object is to create requests and handle responses—so that’s what we need to test.
@@ -22,7 +21,6 @@ In the best session of WWDC 2015, [Protocol-Oriented Programming in Swift](https
 > This kind of testing is really similar to what you get with mocks, **but it’s so much better**. ==Mocks are inherently fragile.== You have to couple your testing code with the implementation details of your test.
 
 He goes on to talk about how you can make interchangeable objects with the new protocols stuff in Swift 2 instead of stubbing. This is similar to the classic [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) approach. I think this it the best way to test networking.
-
 
 ## API Design
 
@@ -44,7 +42,6 @@ public init(token: String, URLSession: NSURLSession = NSURLSession.sharedSession
 There is a `URLSession` parameter that defaults to the shared session. This is handy since most of the time you won't have to change this. Internally, it uses this instance to do all of its networking.
 
 This is great because ==we can easily inject other sessions== instead of the regular shared session.
-
 
 ## Disabling Networking
 
@@ -78,7 +75,6 @@ func testDisabling() {
 
 This passes because out assertions in our test pass and the call to `XCTFail` is never hit. Great! Let's move onto the main event.
 
-
 ## Introducing DVR
 
 [DVR](https://github.com/venmo/dvr) is a project I recently wrote [at work](https://venmo.com). It’s heavily inspired by [VCR](https://github.com/vcr/vcr) for Ruby. There’s a few key differences though.
@@ -102,7 +98,6 @@ func testTracking() {
 ```
 
 Easy as that! No real network requests were made since I had [a cassette named "tracking"](https://github.com/soffes/Mixpanel/blob/master/Mixpanel/Tests/Fixtures/tracking.json) in my test bundle. DVR simply plays back the request.
-
 
 ## Playback
 
