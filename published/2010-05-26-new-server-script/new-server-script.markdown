@@ -29,7 +29,9 @@ For me, that's enough to get the bare bones of an app running. The rest, I let [
 
 All you have to do to setup your new server is run the following one line:
 
-    $ wget http://gist.github.com/raw/314865/new_server.sh;chmod +x new_server.sh;./new_server.sh
+```sh
+$ wget http://gist.github.com/raw/314865/new_server.sh;chmod +x new_server.sh;./new_server.sh
+```
 
 You'll have to press `y` twice at the beginning when yum asks you to install some stuff. After that, you can let it do its thing.
 
@@ -41,6 +43,8 @@ It's super easy to add a new Nginx virtual host. All you have to do is add a fil
 
 There's also [another little script](http://gist.github.com/314865#file_z_after.sh) that I run after the main one that is more specific to my needs. This little guy creates `/var/www/`, setups the proper permissions, and installs some database related gems. You can run it with the following one line:
 
-    $ wget http://gist.github.com/raw/314865/z_after.sh;chmod +x z_after.sh;./z_after.sh
+```sh
+$ wget http://gist.github.com/raw/314865/z_after.sh;chmod +x z_after.sh;./z_after.sh
+```
 
 **Updated 07/13/10:** Bumped versions of packages and fixed ImageMagick

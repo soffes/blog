@@ -4,13 +4,13 @@ Recently, I added a snippet to my `~/.lldbinit` for an easy way to print JSON in
 
 Here’s the snippet:
 
-```
+``` txt
 command regex json 's/(.+)/expr let input = %1; print(String(data: try! JSONSerialization.data(withJSONObject: (input is String ? try! JSONSerialization.jsonObject(with: (input as! String).data(using: .utf8)!, options: []) : (input is Data ? (try! JSONSerialization.jsonObject(with: input as! Data, options: [])) : input as! Any)), options: [.prettyPrinted]), encoding: .utf8)!)/'
 ```
 
 Let’s look at it in an easier to read format. Here’s some Swift psuedocode:
 
-```swift
+``` swift
 func json(input: Any) {
   // Ensure we’re working with a deserialized JSON object
   let object: Any
@@ -39,7 +39,7 @@ func json(input: Any) {
 
 Here’s how it works in action:
 
-```
+``` txt
 (lldb) json data
 {
   "given_name": "Sam",

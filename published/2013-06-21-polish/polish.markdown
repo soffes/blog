@@ -26,7 +26,9 @@ What I'm trying to say is, ==Apple can do better. I sincerely hope that they do.
 
 **Update:** After posting this, I've seen lots of tweets like this:
 
-<blockquote class="twitter-tweet"><p><a href="https://twitter.com/soffes">@soffes</a> Design is iterative. This was public version #1.</p>&mdash; Matthew Dicembrino (@sixsidedstudio) <a href="https://twitter.com/sixsidedstudio/statuses/348163883917275136">June 21, 2013</a></blockquote>
+<blockquote class="twitter-tweet">
+  <p><a href="https://twitter.com/soffes">@soffes</a> Design is iterative. This was public version #1.</p>&mdash; Matthew Dicembrino (@sixsidedstudio) <a href="https://twitter.com/sixsidedstudio/statuses/348163883917275136">June 21, 2013</a>
+</blockquote>
 
 I think this reply sums it up nicely:
 

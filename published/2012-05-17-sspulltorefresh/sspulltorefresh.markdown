@@ -15,7 +15,6 @@ SSPullToRefresh is highly customizable. There is a `contentView` property that a
 
 By default, a basic content view is set if you don't provide one. See the [readme](https://github.com/soffes/sspulltorefresh#readme) for the full details on customizing).
 
-
 ## Clean API
 
 You don't have to implement all of the `UIScrollViewDelegate` methods and forward them. This is silly. SSPullToRefresh uses [KVO](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html) to track the scrolling. This is all you have to do to add it your scroll view:
@@ -30,7 +29,7 @@ That's it. It will automatically add all of the necessary KVO, set its frame, an
 
 You can easily change the height of the view when it's fully expanded by setting the `expandedHeight` property. Easy as that.
 
-Every pull to refresh view I've ever used doesn't take into account that you may want to change the content inset on your own as well. When you initialize `SSPullToRefreshView` with a scroll view, it will detect any content inset and make all changes relative to that. If you need to update it later, just set `defaultContentInset ` on your pull to refresh view. Assuming you set it as a property in your view controller, here's what that looks like:
+Every pull to refresh view I've ever used doesn't take into account that you may want to change the content inset on your own as well. When you initialize `SSPullToRefreshView` with a scroll view, it will detect any content inset and make all changes relative to that. If you need to update it later, just set `defaultContentInset` on your pull to refresh view. Assuming you set it as a property in your view controller, here's what that looks like:
 
 ``` objective-c
 self.pullToRefreshView.defaultContentInset = newContentInset;

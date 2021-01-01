@@ -1,4 +1,3 @@
-
 # Does Free Diminish Value?
 
 Lately I've been thinking a lot about this question: ==Does free diminish value?== A recent Microsoft commercial about the new Surface something or rather mentioned they'd give you the best smartphone for free if you bought a Surface. Obviously it's some Microsoft phone and they are touting the camera.

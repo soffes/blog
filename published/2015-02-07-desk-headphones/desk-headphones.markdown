@@ -11,7 +11,6 @@ My whole setup with new headphones, case, DAC, preamp, and cables was a little u
 
 If you're looking for something on the cheap, I recommend a pair of [Sony MDR7506](http://www.amazon.com/gp/product/B000AJIF4E/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000AJIF4E&linkCode=as2&tag=nothimagic-20&linkId=6BXHOTUBHZAX5Q7M). Standard issue studio headphones. Can't go wrong for only $70.
 
-
 ## Headphones
 
 [![Beyerdynamic Custom One Pro](headphones.jpg)](http://www.amazon.com/gp/product/B00D8BP8H8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00D8BP8H8&linkCode=as2&tag=nothimagic-20&linkId=JBYGURZLIKS4QCWK)
@@ -32,7 +31,6 @@ I also picked up a hard case to protect my new investment.
 
 Ended up getting [Slappa HardBody PRO Headphone Case](http://www.amazon.com/gp/product/B009NE7B06/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009NE7B06&linkCode=as2&tag=nothimagic-20&linkId=KJDHEY2ABQXKPPW6) for only $30. Not bad. It's a bit bulky but it should fit nicely in a backpack. It's a little too big to fit comfortably in a messager bag unfortunately.
 
-
 ## DAC
 
 Next is the DAC ([digital-to-analog converter](http://en.wikipedia.org/wiki/Digital-to-analog_converter)). This takes the digital audio from your computer (via USB) and converts it to analog audio that your headphones can actuall produce. Your computer, phone, etc. has one of these built in since it has a headphone jack. Most stock ones are pretty low quality for audio nerds.
@@ -41,7 +39,6 @@ Next is the DAC ([digital-to-analog converter](http://en.wikipedia.org/wiki/Digi
 
 I ended up getting a [FiiO E10K](http://www.amazon.com/gp/product/B00LP3AMC2/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00LP3AMC2&linkCode=as2&tag=nothimagic-20&linkId=6DBJ5F2FVZRBP6FE) (also a recommendation from Bryn) which I'm super happy with. It sounds really great. Especially for being only $70. It's also powered by USB which is really nice.
 
-
 ## Headphone Amp
 
 Finally, I got a tube headphone amp. I'm a big fan of tubes. They make everything sound warm and full. My friend, [Sam McDonald](https://twitter.com/sammcd), recommended the one he had.
@@ -49,7 +46,6 @@ Finally, I got a tube headphone amp. I'm a big fan of tubes. They make everythin
 [![Bravo Audio V2 Class A 12AU7 Tube Multi-Hybrid Headphone Amplifier](amp.jpg)](http://www.amazon.com/gp/product/B00ADR2DTG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ADR2DTG&linkCode=as2&tag=nothimagic-20&linkId=T3R2C7KVBPGBNJR6)
 
 I've been really happy with the [Bravo Audio V2 Class A 12AU7 Tube Multi-Hybrid Headphone Amplifier](http://www.amazon.com/gp/product/B00ADR2DTG/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00ADR2DTG&linkCode=as2&tag=nothimagic-20&linkId=T3R2C7KVBPGBNJR6). My only complaints are the knob is a little close to the headphone jack and the input is on the side instead of the back, but those are just minor nitpicks. There's also a power cable you need to plug into the wall. That's expected for a tube preamp though. It sounds really good. Especially for only $70.
-
 
 ## Setting It Up
 

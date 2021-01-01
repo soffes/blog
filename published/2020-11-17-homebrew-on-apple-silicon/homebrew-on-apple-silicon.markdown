@@ -10,7 +10,7 @@ Rosetta 2 is Apple’s translation layer. This lets you run Intel things with a 
 
 To get Homebrew working, let’s install it using Rosetta:
 
-```
+``` sh
 $ arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
@@ -24,7 +24,7 @@ Homebrew does sorta work on Apple Silicon. See [this issue](https://github.com/H
 
 Homebrew for Apple Silicon is expected to be installed in `/opt/homebrew` instead of the `/usr/local` you’re expecting. Let’s get that set up:
 
-```
+``` sh
 $ sudo mkdir -p /opt/homebrew
 $ sudo chown -R $(whoami):staff /opt/homebrew
 $ cd /opt
@@ -39,7 +39,7 @@ Whichever `brew` is in your path first will run when you use `brew`. If it’s t
 
 I made sure `/opt/homebrew/bin` was in my path **before** `/usr/local/bin`. Then I aliased the Intel `brew` to `ibrew` so it’s easier to select. Here’s what I added to my ZSH configuration:
 
-```
+``` sh
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
 alias ibrew='arch -x86_64 /usr/local/bin/brew'
 ```

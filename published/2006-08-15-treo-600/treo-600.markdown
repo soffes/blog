@@ -1,4 +1,3 @@
-
 # Treo 600
 
 A while ago someone gave me an AT&T Treo 600. Treo’s run from $300 - $400 so I was really pumped to get one for free, but it was AT&T and I have Cingular. So I just left it sitting there and figured I couldn’t do anything about except play palm games on it.

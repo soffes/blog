@@ -108,7 +108,7 @@ First, open [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) and
 
 Add a URL action and enter something like this:
 
-```
+``` txt
 http://hass.local:8123/api/services/script/sonos_chill
 ```
 

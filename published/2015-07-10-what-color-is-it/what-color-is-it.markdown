@@ -14,7 +14,6 @@ One of my coworkers shared [What Colour Is It](http://whatcolourisit.scn9a.org/)
 
 It's [less than 100 lines of code](https://github.com/soffes/WhatColorIsIt/blob/master/What%20Color%20Is%20It/View.swift). Give it a look if you're interested. I'm particularly fond of the font. I'm using new Swift 2 runtime checking:
 
-
 ```swift
 if #available(OSX 10.11, *) {
     font = NSFont.systemFontOfSize(fontSize, weight: NSFontWeightThin)

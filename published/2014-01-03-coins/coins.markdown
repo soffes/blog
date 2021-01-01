@@ -13,7 +13,6 @@ I've had the idea for an app that would simply show you the value of your [bitco
 
 <a href="https://itunes.apple.com/app/id787299853" class="app-store" rel="external nofollow"><img src="app-store.svg" width="186" height="55" alt="Download on the App Store"></a>
 
-
 ## Starting
 
 This is the story of designing, building, and submitting the app in one day.

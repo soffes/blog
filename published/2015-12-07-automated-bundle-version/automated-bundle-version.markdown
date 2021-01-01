@@ -10,7 +10,7 @@ Lately I've been using a script to set my apps’ bundle version.
 
 Add a new Run Script build phase. Change the shell to:
 
-```
+``` sh
 /usr/bin/env ruby
 ```
 

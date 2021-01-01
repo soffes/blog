@@ -17,24 +17,40 @@ I did this with iTunes 8.2 (23) on OS 10.6 (10A380) on AT&T with iPhone 3.0 (7A3
 1. Quit iTunes and open up Terminal (/Applications/Utilities/Terminal.app)
 
 2. Run the following command to enable carrier testing. We'll need this later
-        defaults write com.apple.iTunes carrier-testing -bool TRUE
+
+    ```sh
+    $ defaults write com.apple.iTunes carrier-testing -bool TRUE
+    ```
 
 3. Now we need to get the list of carriers. Run this command:
-        curl -s -L http://phobos.apple.com/version | grep -i carrier
+
+    ```sh
+    $ curl -s -L http://phobos.apple.com/version | grep -i carrier
+    ```
 
 4. That command will return a big list of ipcc files. Look for the one that ends in your carrier. If you have AT&T, it will be called `ATT_US.ipcc`. Copy that URL between the `<string>` tags.
 
 5. Now type the last portion of the URL before `.ipcc` where it says `YOUR CARRIER` (mine would be `ATT_US`)
-        declare CARRIER="YOUR CARRIER"
+
+    ```txt
+    declare CARRIER="YOUR CARRIER"
+    ```
+
     So for AT&T, it would look like
-        declare CARRIER="ATT_US"
+
+    ```txt
+    declare CARRIER="ATT_US"
+    ```
 
 6. Type the following commands in Terminal. (Obviously paste the URL where it says.)
-        cd ~/Desktop
-        curl [PASTE URL HERE] > $CARRIER.zip
-        unzip $CARRIER.zip
-        rm -f $CARRIER.zip
-        open Payload
+
+    ```sh
+    $ cd ~/Desktop
+    $ curl [PASTE URL HERE] > $CARRIER.zip
+    $ unzip $CARRIER.zip
+    $ rm -f $CARRIER.zip
+    $ open Payload
+    ```
 
 7. There should now be a folder on your desktop named `Payload` that just opened. (If there is not, start back at step one and carefully follow the instructions this time.)
 
@@ -65,7 +81,10 @@ I did this with iTunes 8.2 (23) on OS 10.6 (10A380) on AT&T with iPhone 3.0 (7A3
 20. Now click on `Root` at the very top of the file. Click that same three horizontal lines icon. This time make the key `AllowEDGEEditing`. Change the type to `Boolean` and check the box in the value column. Save and quit Property List Editor. We're done with all of that. Phew.
 
 21. Back in Terminal, run the following command
-        zip $CARRIER.ipcc Payload
+
+    ```sh
+    $ zip $CARRIER.ipcc Payload
+    ```
 
 22. Now you can quit Terminal and open iTunes and connect your iPhone.
 

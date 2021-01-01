@@ -1,4 +1,3 @@
-
 # How To Rock at Craig's List
 
 Not to brag, but ==I rock at selling stuff on Craig's List==. I often sell things for close to what I paid for them. A [few friends](http://twitter.com/sammcd) can vouch for my Craig's List skills.

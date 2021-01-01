@@ -8,7 +8,9 @@ tags:
 
 To the wayward googler, if you are getting this error:
 
-    Failed to register for remote notifications. Error: Error Domain=NSCocoaErrorDomain Code=3000 UserInfo=0x2782a0 "no valid 'aps-environment' entitlement string found for application"
+``` txt
+Failed to register for remote notifications. Error: Error Domain=NSCocoaErrorDomain Code=3000 UserInfo=0x2782a0 "no valid 'aps-environment' entitlement string found for application"
+```
 
 You need to make sure that your provisioning profile has the app id of the app you have setup push for. Double check that you are actually building with it.
 

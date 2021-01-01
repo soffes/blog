@@ -12,7 +12,6 @@ I sat down to work on [Whiskey](http://usewhiskey.com) the other day and go supe
 
 Since this isn't terribly specific to Whiskey, ==I decided to [open source SyntaxKit](https://github.com/soffes/SyntaxKit).== It makes TextMate-style syntax highlighting easy. It works on iOS & OS X. There aren't any dependencies besides system frameworks. Boom.
 
-
 ## Installation
 
 [Carthage](https://github.com/carthage/carthage) is the recommended way to install SyntaxKit. Add the following to your Cartfile:
@@ -28,7 +27,6 @@ pod 'SyntaxKit'
 ```
 
 For manual installation, I recommend adding the project as a subproject to your project or workspace and adding the appropriate framework as a target dependency.
-
 
 ## Usage
 
@@ -59,7 +57,6 @@ parser.parse(input) { scope, range in
 
 `scope` is the name of an element. This is something like `"string"` or `"constant.numeric"`. `range` is an `NSRange` struct representing where the scope falls in the input string.
 
-
 ### Working with Attributed Strings
 
 SyntaxKit also comes with `AttributedParser`. This is a simple subclass of `Parser` that knows how to work with themes.
@@ -82,7 +79,6 @@ let attributedString = attributedParser.attributedStringForString(input)
 ```
 
 Easy as that. This method takes an optional `baseAttributes` parameter to customize how the string is created. This is great if you want to specify a font, etc.
-
 
 ### Custom Parsers
 
