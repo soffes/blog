@@ -1,9 +1,10 @@
+# frozen_string_literal: true
+
 EDITOR = 'atom'
 
 desc 'Create a new post'
 task :new do
   # Get title
-  ARGV.each { |a| task a.to_sym do ; end }
   unless (title = ARGV[1].to_s) && !title.empty?
     abort "\nUsage:\n\n    $ rake new 'My Great Title'\n\n"
   end
@@ -16,7 +17,7 @@ task :new do
 
   # Check slug
   Dir['published/*'].each do |published|
-    if published.sub(/^published\/\d{4}-\d{2}-\d{2}-/, '') == slug
+    if published.sub(%r{^published/\d{4}-\d{2}-\d{2}-}, '') == slug
       abort "\nError: '#{slug}' is already in use.\n\nPick a different title.\n\n"
     end
   end
@@ -32,12 +33,12 @@ task :new do
   end
 
   # Open in editor
-  open path
+  _open path
 end
 
 desc 'Edit the most recent post'
 task :recent do
-  open Dir['published/**/*.markdown'].last
+  _open Dir['published/**/*.markdown'].last
 end
 
 desc 'Publish the blog posts'
@@ -47,9 +48,33 @@ task :publish do
   system 'heroku run "rake import" --app soffes-blog'
 end
 
+namespace :lint do
+  desc 'Lint Markdown'
+  task :markdown do
+    system 'bundle exec mdl -i published'
+  end
+
+  desc 'Lint Ruby'
+  task :ruby do
+    system 'bundle exec rubocop --parallel --config .rubocop.yml'
+  end
+
+  desc 'Lint YAML'
+  task :yaml do
+    if `which yamllint`.chomp.empty?
+      abort 'yamllint is not installed. Install it with `pip3 install yamllint`.'
+    end
+
+    system 'yamllint -c .yamllint.yml .'
+  end
+end
+
+desc 'Run all linters'
+task lint: %i[lint:markdown lint:ruby lint:yaml]
+
 private
 
-def open(path)
+def _open(path)
   editor = `which #{EDITOR}`.empty? ? '$EDITOR' : EDITOR
   system "#{editor} '#{File.expand_path(path)}'"
 end
