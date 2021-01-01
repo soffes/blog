@@ -1,0 +1,19 @@
+require:
+  - rubocop-rake
+
+AllCops:
+  # Enable new cops by default
+  NewCops: enable
+
+  # Exclude code we didn’t write.
+  Exclude:
+    - bin/**/*
+    - vendor/**/*
+
+Style/AsciiComments:
+  # Disabled because this isn’t fun.
+  Enabled: false
+
+Style/IfUnlessModifier:
+  # Disabled because this makes things harder to read in my opinion.
+  Enabled: false

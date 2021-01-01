@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Enable all rules by default
 all
 
