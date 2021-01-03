@@ -14,7 +14,6 @@ I really wanted to use Bluetooth to setup Button. They said the only work around
 
 The other thing is electric imp can’t make local network requests. This is a big deal to me. This prevents users from controlling stuff like [Sonos](http://sonos.com) or [Hue](http://meethue.com) easily.
 
-
 ## Solution
 
 I was talking with [Lockitron](http://lockitron.com/) on the phone to get help setting up my Lockitron. They use electric imp (which is actually where I heard about it). I asked him how he liked it and if they were going to work around the BlinkUp. He said they didn’t plan on it because electric imp told them they couldn’t.
@@ -28,7 +27,6 @@ Here’s a demo right after I got it working:
 Not too exciting, but yay it works. I thought I’d see if I could control Sonos with the new chip (since that was the whole point). After a little playing around with my sonos gem, I finally got it going! Here’s a demo:
 
 <iframe src="https://player.vimeo.com/video/78323160?color=0a9afa&amp;title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 
 ## Onward
 

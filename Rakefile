@@ -51,7 +51,7 @@ end
 namespace :lint do
   desc 'Lint Markdown'
   task :markdown do
-    system 'bundle exec mdl -i published'
+    system 'bundle exec mdl -i .'
   end
 
   desc 'Lint Ruby'

@@ -1,4 +1,3 @@
-
 # Selling Cheddar
 
 ==I am a little sad and very excited to be [selling Cheddar](https://cheddarapp.com/buy].== It has been a crazy ride along the way. Thank so much to all of you who have supported me along the way. It’s truly humbling that you take the time to use something I spent a lot of time making.

@@ -1,4 +1,3 @@
-
 # Meet The Man Behind Cheddar
 
 Hi everyone. I’m [Sam](http://soff.es). I make Cheddar. I’ve done all of the design (with a few small exceptions), development, support, marketing, etc. It’s just me.

@@ -15,7 +15,6 @@ At first, I set out to build a smartwatch. The thought of making an operating sy
 
 In the spirit of iteration, I decided to build something simpler: ==**a button**==. I was frustrated with the iPhone app that controls the WiFi lights in my apartment (first-world problems, I know). I thought, what if I could make a button to just toggle my lights? How hard could that be? Then it struck me, ==I should make a button that can perform an HTTP request.== That’s what I’m making.
 
-
 ## No Nonsense
 
 I want to make a button that simply performs a request and that’s it. You could make it do anything.
@@ -23,7 +22,6 @@ I want to make a button that simply performs a request and that’s it. You coul
 Smack it on your way out of the office to text a loved one you’re on your way home. Tap it to send you a text in 30 minutes on your way to the laundry room so you don’t forget to go back. You could put one by your bed to toggle all of the lights in your house. The possibilities are endless.
 
 I’d love to integrate with [IFTTT](http://ifttt.com) so it’s easy to get started if you don’t want to be nerdy. It’s just a button that you can make do whatever you want. Plain and simple.
-
 
 ## Transparency
 
