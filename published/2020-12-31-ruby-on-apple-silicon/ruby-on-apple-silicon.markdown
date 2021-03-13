@@ -1,6 +1,6 @@
 # Ruby on Apple Silicon
 
-I’ve been [Homebrew on Apple Silicon](https://soffes.blog/homebrew-on-apple-silicon) for a few weeks now and it’s been working well.
+I’ve been using [Homebrew on Apple Silicon](https://soffes.blog/homebrew-on-apple-silicon) for a few weeks now and it’s been working well.
 
 With Ruby 3.0.0, I haven’t had any issues installing it with [rbenv](https://github.com/rbenv/rbenv). Today, I needed to install an older version and had some trouble getting it. Here’s what I did to figure it out. (This assumes your Homebrews are setup like I described in [my post](https://soffes.blog/homebrew-on-apple-silicon).)
 
