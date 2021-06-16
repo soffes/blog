@@ -40,7 +40,7 @@ If you’re still having trouble with Nokogiri, checkout their normal [installat
 Now, reinstall readline if you uninstalled it above:
 
 ``` sh
-$ brew install readline.
+$ brew install readline
 ```
 
 Kind of a pain, but the speed of your fancy new Mac is worth the hassle, right?
