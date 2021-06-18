@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-ruby '3.0.0'
+ruby '3.0.1'
 
 group :development do
   gem 'mdl', require: false

@@ -2,8 +2,10 @@ GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.2)
-    chef-utils (16.10.17)
-    kramdown (2.3.0)
+    chef-utils (17.2.29)
+      concurrent-ruby
+    concurrent-ruby (1.1.9)
+    kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -25,7 +27,7 @@ GEM
     rake (13.0.3)
     regexp_parser (2.1.1)
     rexml (3.2.5)
-    rubocop (1.16.1)
+    rubocop (1.17.0)
       parallel (~> 1.10)
       parser (>= 3.0.0.0)
       rainbow (>= 2.2.2, < 4.0)
@@ -53,7 +55,7 @@ DEPENDENCIES
   rubocop-rake
 
 RUBY VERSION
-   ruby 3.0.0p0
+   ruby 3.0.1p64
 
 BUNDLED WITH
-   2.2.3
+   2.2.20
