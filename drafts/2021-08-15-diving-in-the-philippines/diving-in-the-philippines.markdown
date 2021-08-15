@@ -1,6 +1,6 @@
 ---
 is_gallery: true
-cover_image: DSC04272.jpg
+cover_image: DSC05527.jpg
 ---
 
 # Diving in The Philippines
@@ -102,6 +102,19 @@ This was some of the most wild things I’ve ever seen diving. Look at these thi
 ## Ultraviolet Diving
 
 This was another night dive. Some of the creatures in the sandy areas are ultraviolet at night. I dove with a UV filter on my mask, a filter in front of my camera lens, and a blacklight flashlight. It so neat to see the different colors glowing at night.
+
+<photo-gallery>
+  <photo-row>
+    <img src="DSC05317.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05297.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05323.jpg">
+    <img src="DSC05326.jpg">
+  </photo-row>
+</photo-gallery>
 
 ---
 
