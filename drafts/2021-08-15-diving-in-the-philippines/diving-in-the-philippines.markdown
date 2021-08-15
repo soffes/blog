@@ -50,6 +50,30 @@ This trip was the first time I had heard of [muck diving](https://en.wikipedia.o
 
 An hour or so boat ride from the place we were starting was [Apo Island](https://en.wikipedia.org/wiki/Apo_Island). It was totally different. Apo had tons of huge coral formations kinda like the Caribbean. So cool to see the contrast between the sand and all of the formations.
 
+<photo-gallery>
+  <photo-row>
+    <img src="DSC04674.jpg" alt="Some cool clam">
+    <img src="DSC04692.jpg" alt="Coral">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04713.jpg" alt="Sea snake">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04765.jpg" alt="Turtle">
+    <img src="DSC04800.jpg" alt="Turtle">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04894.jpg" alt="Coral">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04937.jpg" alt="Clownfish">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04903.jpg" alt="Coral">
+    <img src="DSC04968.jpg" alt="Eel">
+  </photo-row>
+</photo-gallery>
+
 ## Black Water Diving
 
 [Blue water diving](https://en.wikipedia.org/wiki/Open-water_diving#Blue-water_diving) is when you dive in the water column. Usually is super, super deep (like thousands of feet). All you can see in every direction is blue. Definitely a little intense since it’s hard to gauge your depth since there’s no references. The appeal is you can sometimes see big ocean creatures out there.
@@ -58,11 +82,31 @@ An hour or so boat ride from the place we were starting was [Apo Island](https:/
 
 This was some of the most wild things I’ve ever seen diving. Look at these things! Tons of weird, tiny, see through creatures. I had such a good time on this dive.
 
+<photo-gallery>
+  <photo-row>
+    <img src="DSC05046.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05057.jpg">
+    <img src="DSC05068.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05078.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05079.jpg">
+    <img src="DSC05080.jpg">
+  </photo-row>
+</photo-gallery>
+
 ## Ultraviolet Diving
 
 This was another night dive. Some of the creatures in the sandy areas are ultraviolet at night. I dove with a UV filter on my mask, a filter in front of my camera lens, and a blacklight flashlight. It so neat to see the different colors glowing at night.
 
 ---
+
+<img src="DSC05002.jpg" alt="Dave">
+<img src="DSC04736.jpg" alt="Cory">
 
 > Maybe remove?
 
