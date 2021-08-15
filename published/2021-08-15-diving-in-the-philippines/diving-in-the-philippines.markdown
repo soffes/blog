@@ -13,11 +13,38 @@ This trip was my first time in Asia. Unfortunately, I didn’t get to see much b
 
 Most of the diving I’ve done has been in the Caribbean. The wildlife was so different in The Philippines. I absolutely loved seeing all of the diversity across the world.
 
-On this trip, I did lots of different kinds of diving, so I organized my photos by type. Enjoy 😊
-
-## Muck Diving
+## Macro & Muck Diving
 
 This trip was the first time I had heard of [muck diving](https://en.wikipedia.org/wiki/Muck_diving). It’s diving on mostly sand and looking for little creatures. Normally, you wouldn’t dive sandy spots since there’s usually nothing there. Here, the sand was so full of life. I bought a macro lens (Sony 90mm) for this trip. Really enjoyed shooting all of the little creatures.
+
+<photo-gallery>
+  <photo-row>
+    <img src="DSC04318.jpg">
+    <img src="DSC04333.jpg" alt="Eel">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04335.jpg" alt="Nudibranch">
+    <img src="DSC04337.jpg" alt="Toad fish">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04343.jpg" alt="Coral">
+    <img src="DSC04365.jpg" alt="Coral">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04484.jpg" alt="Seahorse">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04488.jpg" alt="Lionfish">
+    <img src="DSC04517.jpg" alt="Lionfish">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04529.jpg" alt="Cuddlefish">
+  </photo-row>
+  <photo-row>
+    <img src="DSC04592.jpg" alt="Blue-ringed octopus">
+    <img src="DSC04614.jpg" alt="Blue-ringed octopus">
+  </photo-row>
+</photo-gallery>
 
 ## Apo Island
 
