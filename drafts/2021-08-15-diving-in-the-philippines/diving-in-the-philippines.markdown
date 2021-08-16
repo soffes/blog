@@ -1,6 +1,6 @@
 ---
 is_gallery: true
-cover_image: DSC05527.jpg
+cover_image: DSC05089.jpg
 ---
 
 # Diving in The Philippines
@@ -72,6 +72,13 @@ An hour or so boat ride from the place we were starting was [Apo Island](https:/
     <img src="DSC04903.jpg" alt="Coral">
     <img src="DSC04968.jpg" alt="Eel">
   </photo-row>
+  <photo-row>
+    <img src="DSC05002.jpg" alt="Dave">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05724.jpg" alt="Don">
+    <img src="DSC04736.jpg" alt="Cory">
+  </photo-row>
 </photo-gallery>
 
 ## Black Water Diving
@@ -118,15 +125,50 @@ This was another night dive. Some of the creatures in the sandy areas are ultrav
 
 ---
 
-<img src="DSC05002.jpg" alt="Dave">
-<img src="DSC04736.jpg" alt="Cory">
-
-> Maybe remove?
-
-## Whale Sharks
-
-Usually after diving several days in a row, you can’t fly right after diving. (The reason is super fascinating. Maybe I’ll have to write a post or make a video to explain this sometime.) On most dive trips, there’s usually some small excursion the last day that is some exotic snorkeling.
-
-I’ve swam with whale sharks near Cozumel before. That was super cool since they happen to migrate through that region every year, so you could see them in the wild.
-
-This was o
+<img src="DSC05349.jpg">
+<img src="DSC05354.jpg">
+<img src="DSC05370.jpg">
+<img src="DSC05376.jpg">
+<img src="DSC05387.jpg">
+<img src="DSC05392.jpg">
+<img src="DSC05393.jpg">
+<img src="DSC05419.jpg">
+<img src="DSC05426.jpg">
+<img src="DSC05437.jpg">
+<img src="DSC05438.jpg">
+<img src="DSC05454.jpg">
+<img src="DSC05527.jpg">
+<img src="DSC05546.jpg">
+<img src="DSC05577.jpg">
+<img src="DSC05588.jpg">
+<img src="DSC05606.jpg">
+<img src="DSC05623.jpg">
+<img src="DSC05654.jpg">
+<img src="DSC05659.jpg">
+<img src="DSC05669.jpg">
+<img src="DSC05724.jpg">
+<img src="DSC05744.jpg">
+<img src="DSC05749.jpg">
+<img src="DSC05783.jpg">
+<img src="DSC05795.jpg">
+<img src="DSC05832.jpg">
+<img src="DSC05856.jpg">
+<img src="DSC05857.jpg">
+<img src="DSC05866.jpg">
+<img src="DSC05890.jpg">
+<img src="DSC05944.jpg">
+<img src="DSC05975.jpg">
+<img src="DSC05984.jpg">
+<img src="DSC05986.jpg">
+<img src="DSC05994.jpg">
+<img src="DSC06001.jpg">
+<img src="DSC06012.jpg">
+<img src="DSC06039.jpg">
+<img src="DSC06045.jpg">
+<img src="DSC06052.jpg">
+<img src="DSC06055.jpg">
+<img src="DSC06073.jpg">
+<img src="DSC06089.jpg">
+<img src="DSC06105.jpg">
+<img src="DSC06109.jpg">
+<img src="DSC06121.jpg">
