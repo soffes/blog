@@ -34,8 +34,8 @@ This trip was the first time I had heard of [muck diving](https://en.wikipedia.o
     <img src="DSC04484.jpg" alt="Seahorse">
   </photo-row>
   <photo-row>
+    <img src="DSC05437.jpg" alt="Lionfish">
     <img src="DSC04488.jpg" alt="Lionfish">
-    <img src="DSC04517.jpg" alt="Lionfish">
   </photo-row>
   <photo-row>
     <img src="DSC04529.jpg" alt="Cuddlefish">
@@ -43,6 +43,61 @@ This trip was the first time I had heard of [muck diving](https://en.wikipedia.o
   <photo-row>
     <img src="DSC04592.jpg" alt="Blue-ringed octopus">
     <img src="DSC04614.jpg" alt="Blue-ringed octopus">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05588.jpg" alt="Peacock mantis shrimp">
+    <img src="DSC05606.jpg" alt="Peacock mantis shrimp">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05349.jpg" alt="Peacock mantis shrimp">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05354.jpg" alt="Peacock mantis shrimp">
+  </photo-row>
+  <photo-row>
+    <img src="DSC06045.jpg" alt="Peacock mantis shrimp">
+  </photo-row>
+  <photo-row>
+    <img src="DSC06089.jpg" alt="Flamboyant cuddlefish">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05387.jpg" alt="Nudibranch">
+    <img src="DSC05392.jpg" alt="Nudibranch">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05426.jpg" alt="Nudibranch">
+    <img src="DSC05546.jpg" alt="Nudibranch">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05393.jpg" alt="Cool coral that looks like tiny little hands">
+    <img src="DSC05419.jpg" alt="Tiny crab">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05438.jpg" alt="Seahorse">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05527.jpg" alt="Clownfish">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05577.jpg">
+    <img src="DSC05623.jpg">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05984.jpg">
+    <img src="DSC05994.jpg" alt="Crab">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05975.jpg" alt="Shrimp">
+    <img src="DSC06001.jpg" alt="Shrimp">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05376.jpg" alt="Octopus">
+    <img src="DSC05454.jpg" alt="Pufferfish">
+  </photo-row>
+  <photo-row>
+    <img src="DSC06012.jpg">
+    <img src="DSC05654.jpg" alt="Eel">
+    <img src="DSC06109.jpg" alt="Lionfish">
   </photo-row>
 </photo-gallery>
 
@@ -59,8 +114,8 @@ An hour or so boat ride from the place we were starting was [Apo Island](https:/
     <img src="DSC04713.jpg" alt="Sea snake">
   </photo-row>
   <photo-row>
-    <img src="DSC04765.jpg" alt="Turtle">
-    <img src="DSC04800.jpg" alt="Turtle">
+    <img src="DSC05744.jpg" alt="Turtle">
+    <img src="DSC05832.jpg" alt="Turtle">
   </photo-row>
   <photo-row>
     <img src="DSC04894.jpg" alt="Coral">
@@ -78,6 +133,37 @@ An hour or so boat ride from the place we were starting was [Apo Island](https:/
   <photo-row>
     <img src="DSC05724.jpg" alt="Don">
     <img src="DSC04736.jpg" alt="Cory">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05866.jpg" alt="Turtle">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05795.jpg" alt="Coral">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05669.jpg" alt="Coral that looks like mushrooms">
+    <img src="DSC06052.jpg" alt="Coral that looks like mushrooms">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05659.jpg" alt="Crab">
+    <img src="DSC06121.jpg" alt="Crab">
+  </photo-row>
+  <photo-row>
+    <img src="DSC06105.jpg" alt="Crab">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05783.jpg" alt="Clownfish">
+    <img src="DSC05856.jpg" alt="Clownfish">
+    <img src="DSC05857.jpg" alt="Clownfish">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05986.jpg" alt="Clownfish">
+    <img src="DSC06073.jpg" alt="Clownfish">
+  </photo-row>
+  <photo-row>
+    <img src="DSC05944.jpg" alt="Nudibranch">
+    <img src="DSC06039.jpg" alt="Nudibranch">
+    <img src="DSC06055.jpg" alt="Nudibranch">
   </photo-row>
 </photo-gallery>
 
@@ -123,52 +209,4 @@ This was another night dive. Some of the creatures in the sandy areas are ultrav
   </photo-row>
 </photo-gallery>
 
----
-
-<img src="DSC05349.jpg">
-<img src="DSC05354.jpg">
-<img src="DSC05370.jpg">
-<img src="DSC05376.jpg">
-<img src="DSC05387.jpg">
-<img src="DSC05392.jpg">
-<img src="DSC05393.jpg">
-<img src="DSC05419.jpg">
-<img src="DSC05426.jpg">
-<img src="DSC05437.jpg">
-<img src="DSC05438.jpg">
-<img src="DSC05454.jpg">
-<img src="DSC05527.jpg">
-<img src="DSC05546.jpg">
-<img src="DSC05577.jpg">
-<img src="DSC05588.jpg">
-<img src="DSC05606.jpg">
-<img src="DSC05623.jpg">
-<img src="DSC05654.jpg">
-<img src="DSC05659.jpg">
-<img src="DSC05669.jpg">
-<img src="DSC05724.jpg">
-<img src="DSC05744.jpg">
-<img src="DSC05749.jpg">
-<img src="DSC05783.jpg">
-<img src="DSC05795.jpg">
-<img src="DSC05832.jpg">
-<img src="DSC05856.jpg">
-<img src="DSC05857.jpg">
-<img src="DSC05866.jpg">
-<img src="DSC05890.jpg">
-<img src="DSC05944.jpg">
-<img src="DSC05975.jpg">
-<img src="DSC05984.jpg">
-<img src="DSC05986.jpg">
-<img src="DSC05994.jpg">
-<img src="DSC06001.jpg">
-<img src="DSC06012.jpg">
-<img src="DSC06039.jpg">
-<img src="DSC06045.jpg">
-<img src="DSC06052.jpg">
-<img src="DSC06055.jpg">
-<img src="DSC06073.jpg">
-<img src="DSC06089.jpg">
-<img src="DSC06105.jpg">
-<img src="DSC06109.jpg">
-<img src="DSC06121.jpg">
+Such an amazing trip. The ocean’s beauty is truly magnificent.
