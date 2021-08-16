@@ -5,7 +5,7 @@ cover_image: DSC05089.jpg
 
 # Diving in The Philippines
 
-In January 2020, I went on a dive trip to Dumaguete, Philippines. I think I barely heard of COVID-19 at the time. By the end of the trip, there was lots on the news about this new virus in China in the airport on my way home. I remember thinking, "wow, this must be serious" when the US Border Patrol folks were wearing masks.
+In January 2020, I went on a dive trip to Dumaguete, Philippines. I think I had barely heard of COVID-19 at the time. By the end of the trip, there was lots on the news about this new virus in China in the airport on my way home. I remember thinking, "wow, this must be serious" when the US Border Patrol folks were wearing masks.
 
 A lot [has happened](https://soffes.blog/2020) in my life since this trip. I’ve been meaning to get to these photos for a long time. I took over 1,600 photos on this trip, so narrowing them down took some time. Since I’m headed to Mexico this week for more diving, I figured it was time to finally finish these.
 
@@ -38,7 +38,7 @@ This trip was the first time I had heard of [muck diving](https://en.wikipedia.o
     <img src="DSC04488.jpg" alt="Lionfish">
   </photo-row>
   <photo-row>
-    <img src="DSC04529.jpg" alt="Cuddlefish">
+    <img src="DSC04529.jpg" alt="Cuttlefish">
   </photo-row>
   <photo-row>
     <img src="DSC04592.jpg" alt="Blue-ringed octopus">
@@ -58,7 +58,7 @@ This trip was the first time I had heard of [muck diving](https://en.wikipedia.o
     <img src="DSC06045.jpg" alt="Peacock mantis shrimp">
   </photo-row>
   <photo-row>
-    <img src="DSC06089.jpg" alt="Flamboyant cuddlefish">
+    <img src="DSC06089.jpg" alt="Flamboyant Cuttlefish">
   </photo-row>
   <photo-row>
     <img src="DSC05387.jpg" alt="Nudibranch">
