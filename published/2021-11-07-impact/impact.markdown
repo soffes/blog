@@ -9,3 +9,7 @@ Lately, I realized I don’t care about “world impact” as much as I used to.
 Now, I’m of the mindset that the process along the way is part of the output. ==I can see value in spending time on something purely because I enjoy it or because I’m learning something.== Younger me, had a really hard time with this.
 
 At [Along](https://along.video) (the company I started last year with my friend, Bryn), there’s a good chance we’re not going to change the world. We have a lot of ideas we’re really excited about, but if it doesn’t work out, that’s okay. ==My experience of working with people I really like and learning new things is value enough for me.==
+
+---
+
+I mean not that I don’t want to change the world for the better, but I’m also trying to enjoy as I go.
