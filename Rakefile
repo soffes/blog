@@ -28,9 +28,7 @@ task :new do
 
   # Create markdown file
   path = "#{dir}/#{slug}.markdown"
-  File.open(path, 'w') do |f|
-    f.write("# #{title}\n\n")
-  end
+  File.write(path, "# #{title}\n\n")
 
   # Open in editor
   _open path
