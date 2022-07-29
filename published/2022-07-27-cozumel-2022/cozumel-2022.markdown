@@ -70,3 +70,5 @@ Earlier this month, I spent 10 days in Cozumel, Mexico. The trip was a mix of di
 I shot all of these on a Sony a7R iii in a Nauticam housing.
 
 Feel free to follow me on Instagram to see more scuba and travel photos. I’m [@soffes](https://instagram.com/soffes) over there.
+
+You may also enjoy my [Cozumel 2019 photos](/diving-in-cozumel) or my [Philippines 2020 photos](/diving-in-the-philippines) if you were into this.
