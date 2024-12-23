@@ -19,67 +19,65 @@ I shot a little vlog on my phone each day.
 
 The trail was really beautiful. I definitely hope to do all of it next year.
 
-<photo-gallery>
-  <photo-row>
-    <img src="DSC02791.jpg" alt="First trail blaze">
-    <img src="DSC02793.jpg" alt="Ski sign">
-    <img src="DSC02794.jpg" alt="Power lines and the lake">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02796.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02800.jpg" alt="South Lake Tahoe">
-    <img src="DSC02801.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02803.jpg">
-    <img src="DSC02807.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02808.jpg">
-    <img src="DSC02810.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02814.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02815.jpg" alt="Selfie">
-    <img src="DSC02826.jpg" alt="Shoes in the show">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02818.jpg">
-    <img src="DSC02819.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02821.jpg">
-    <img src="DSC02827.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02829.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02830.jpg">
-    <img src="DSC02832.jpg">
-    <img src="DSC02835.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02836.jpg">
-    <img src="DSC02839.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02844.jpg">
-    <img src="DSC02853.jpg">
-    <img src="DSC02854.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02848.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02855.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC02856.jpg">
-    <img src="DSC02859.jpg">
-  </photo-row>
-</photo-gallery>
+<photo-row>
+  <img src="DSC02791.jpg" alt="First trail blaze">
+  <img src="DSC02793.jpg" alt="Ski sign">
+  <img src="DSC02794.jpg" alt="Power lines and the lake">
+</photo-row>
+<photo-row>
+  <img src="DSC02796.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02800.jpg" alt="South Lake Tahoe">
+  <img src="DSC02801.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02803.jpg">
+  <img src="DSC02807.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02808.jpg">
+  <img src="DSC02810.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02814.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02815.jpg" alt="Selfie">
+  <img src="DSC02826.jpg" alt="Shoes in the show">
+</photo-row>
+<photo-row>
+  <img src="DSC02818.jpg">
+  <img src="DSC02819.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02821.jpg">
+  <img src="DSC02827.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02829.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02830.jpg">
+  <img src="DSC02832.jpg">
+  <img src="DSC02835.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02836.jpg">
+  <img src="DSC02839.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02844.jpg">
+  <img src="DSC02853.jpg">
+  <img src="DSC02854.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02848.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02855.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC02856.jpg">
+  <img src="DSC02859.jpg">
+</photo-row>

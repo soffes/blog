@@ -11,132 +11,130 @@ I think I’m starting to figure out my underwater camera setup. I’m really pl
 
 **Update:** My dive buddy, [Chris Sohl](https://www.youtube.com/channel/UC07sFZyjpX0GWneEcIXECeA), shot [a really great video of the trip](https://youtu.be/tcNn5JDsZT8). I’m the one with the big camera.
 
-<photo-gallery>
-  <photo-row>
-    <img src="DSC02998.jpg">
-    <img src="DSC03073.jpg">
-    <img src="DSC03088.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03104.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03107.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03130.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03138.jpg">
-    <img src="DSC03139.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03144.jpg" alt="Lobster">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03155.jpg">
-    <img src="DSC03187.jpg">
-    <img src="DSC03227.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03195.jpg" alt="Selfie">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03227.jpg">
-    <img src="DSC03333.jpg" alt="Deep">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03248.jpg" alt="Hermit crab">
-    <img src="DSC03264.jpg" alt="Queen angle fish">
-    <img src="DSC03296.jpg" alt="Trunk fish">
-    <img src="DSC03441.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03459.jpg" alt="Robyn and Jordan">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03468.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03502.jpg">
-    <img src="DSC03509.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03522.jpg" alt="Eel">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03567.jpg">
-    <img src="DSC03593.jpg">
-    <img src="DSC03615.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03616.jpg">
-    <img src="DSC03622.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03655.jpg">
-    <img src="DSC03719.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03724.jpg">
-    <img src="DSC03735.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03743.jpg" alt="Nurse shark">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03786.jpg">
-    <img src="DSC03818.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03976.jpg" alt="Lobsters">
-    <img src="DSC03984.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC03994.jpg" alt="Freediver">
-    <img src="DSC04005.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04013.jpg" alt="C-53">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04021.jpg">
-    <img src="DSC04032.jpg">
-    <img src="DSC04035.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04040.jpg" alt="Moray eel">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04044.jpg" alt="Clam">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04051.jpg">
-    <img src="DSC04056.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04057.jpg" alt="Crab">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04063.jpg" alt="Toilets inside a shipwreck">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04115.jpg">
-    <img src="DSC04131.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04117.jpg">
-    <img src="DSC04133.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04166.jpg">
-    <img src="DSC04205.jpg">
-  </photo-row>
-  <photo-row>
-    <img src="DSC04152.jpg">
-    <img src="DSC04217.jpg">
-  </photo-row>
-</photo-gallery>
+<photo-row>
+  <img src="DSC02998.jpg">
+  <img src="DSC03073.jpg">
+  <img src="DSC03088.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03104.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03107.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03130.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03138.jpg">
+  <img src="DSC03139.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03144.jpg" alt="Lobster">
+</photo-row>
+<photo-row>
+  <img src="DSC03155.jpg">
+  <img src="DSC03187.jpg">
+  <img src="DSC03227.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03195.jpg" alt="Selfie">
+</photo-row>
+<photo-row>
+  <img src="DSC03227.jpg">
+  <img src="DSC03333.jpg" alt="Deep">
+</photo-row>
+<photo-row>
+  <img src="DSC03248.jpg" alt="Hermit crab">
+  <img src="DSC03264.jpg" alt="Queen angle fish">
+  <img src="DSC03296.jpg" alt="Trunk fish">
+  <img src="DSC03441.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03459.jpg" alt="Robyn and Jordan">
+</photo-row>
+<photo-row>
+  <img src="DSC03468.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03502.jpg">
+  <img src="DSC03509.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03522.jpg" alt="Eel">
+</photo-row>
+<photo-row>
+  <img src="DSC03567.jpg">
+  <img src="DSC03593.jpg">
+  <img src="DSC03615.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03616.jpg">
+  <img src="DSC03622.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03655.jpg">
+  <img src="DSC03719.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03724.jpg">
+  <img src="DSC03735.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03743.jpg" alt="Nurse shark">
+</photo-row>
+<photo-row>
+  <img src="DSC03786.jpg">
+  <img src="DSC03818.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03976.jpg" alt="Lobsters">
+  <img src="DSC03984.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC03994.jpg" alt="Freediver">
+  <img src="DSC04005.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC04013.jpg" alt="C-53">
+</photo-row>
+<photo-row>
+  <img src="DSC04021.jpg">
+  <img src="DSC04032.jpg">
+  <img src="DSC04035.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC04040.jpg" alt="Moray eel">
+</photo-row>
+<photo-row>
+  <img src="DSC04044.jpg" alt="Clam">
+</photo-row>
+<photo-row>
+  <img src="DSC04051.jpg">
+  <img src="DSC04056.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC04057.jpg" alt="Crab">
+</photo-row>
+<photo-row>
+  <img src="DSC04063.jpg" alt="Toilets inside a shipwreck">
+</photo-row>
+<photo-row>
+  <img src="DSC04115.jpg">
+  <img src="DSC04131.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC04117.jpg">
+  <img src="DSC04133.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC04166.jpg">
+  <img src="DSC04205.jpg">
+</photo-row>
+<photo-row>
+  <img src="DSC04152.jpg">
+  <img src="DSC04217.jpg">
+</photo-row>
 
 ## Camera Gear
 
