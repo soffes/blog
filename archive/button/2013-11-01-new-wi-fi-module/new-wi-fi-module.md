@@ -1,5 +1,5 @@
 ---
-cover_image: cover.png
+cover_image: cover.jpg
 tags:
 - button
 ---

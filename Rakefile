@@ -76,7 +76,7 @@ namespace :lint do
     errors = []
 
     # Loop through post directories
-    (Dir["published/*"] + Dir["drafts/*"]).each do |directory|
+    (Dir["published/*"] + Dir["archive/*/*"] + Dir["drafts/*"]).each do |directory|
       next unless File.directory?(directory)
 
       Dir.chdir(directory) do
@@ -109,11 +109,16 @@ namespace :lint do
         used_images.filter! { |u| u && u.match(/https?:\/\//) == nil }
 
         # Find images on disk
-        disk_images = Dir["*.jpg"]
+        disk_images = Dir["*.{png,jpg,svg}"]
 
         # Add errors for unused images
         (disk_images - used_images).each do |image|
           errors << "error: #{File.join(directory, image)} is unused"
+        end
+
+        # Add errors for missing images
+        (used_images - disk_images).each do |image|
+          errors << "error: #{File.join(directory, image)} is missing"
         end
       end
     end
