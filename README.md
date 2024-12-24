@@ -2,8 +2,6 @@
 
 This is the content for [my blog](https://blog.soff.es/). The source code for the site is [also on GitHub](https://github.com/soffes/blog.soff.es).
 
-If you're looking for [my website](https://soff.es), the source is [over here](https://github.com/soffes/soff.es).
-
 Please do not use or distribute my posts without permission.
 
 
@@ -11,7 +9,7 @@ Please do not use or distribute my posts without permission.
 
 Posts are structured with the following format:
 
-    published/YYYY-MM-DD-PERMALINK/PERMALINK.markdown
+    published/YYYY-MM-DD-PERMALINK/PERMALINK.md
 
 The markdown file may contain [front matter](https://jekyllrb.com/docs/frontmatter/). The first `<h1>`'s text will be treated as the title of the post unless it is specified in front matter. If both are missing, the permalink is used.
 
