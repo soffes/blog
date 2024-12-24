@@ -24,5 +24,3 @@ While trying to be as unbiased as possible, I thought about this a lot. At first
 Recently, I encouraged a friend to charge for his service. It's a premium service that is currently invite only and is free. My thinking was if you're not trying to get everyone on earth to sign up (which they aren't to keep the quality of interactions high) then there is value in charging. Obviously charging for things will decrease the number of people that use it, but these people will be better customers.
 
 ==My point was he should charge something like $5 or $12 one time. Not to make money off of those users, but to enter into this contract of users expecting quality and them being obligated to provide it.== It also solves the problem of a more curated segment of users.
-
-

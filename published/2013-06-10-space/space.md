@@ -27,5 +27,3 @@ There is a ton of really interesting stuff going on. [Watch some of his videos](
 I think Chris' tweets and Elon Musk's [SpaceX](http://spacex.com) have made me a space fan. After researching all of this, I discovered ==I really enjoy learning==. All of this stuff, is for the heck of it. None of this is useful at all, but I love it.
 
 Anyway, go learn something. It will make your day better.
-
-

@@ -16,15 +16,15 @@ Here's the highlights from my results.
 
 The most fascinating part was the traits. Here are a few of the interesting ones:
 
-Trait                   | Outcome
-------------------------|--------------------------------
-Alcohol Flush Reaction  | Does Not Flush
-Bitter Taste Perception | Unlikely to Taste
-Eye Color               | Likely Brown
-Hair Curl               | Slightly Curlier Hair
-Lactose Intolerance     | Likely Tolerant
-Caffeine Consumption    | Slightly Higher Amount Per Day
-Height                  | Averaged 0.3–0.7cm taller
+| Trait                   | Outcome                        |
+|-------------------------|--------------------------------|
+| Alcohol Flush Reaction  | Does Not Flush                 |
+| Bitter Taste Perception | Unlikely to Taste              |
+| Eye Color               | Likely Brown                   |
+| Hair Curl               | Slightly Curlier Hair          |
+| Lactose Intolerance     | Likely Tolerant                |
+| Caffeine Consumption    | Slightly Higher Amount Per Day |
+| Height                  | Averaged 0.3–0.7cm taller      |
 
 It's crazy how all of them were right on. Fascinating.
 
@@ -32,12 +32,12 @@ It's crazy how all of them were right on. Fascinating.
 
 It also shows tons of diseases and your risk for them. Here are a few that are below for me.
 
-Disease                          | Risk
----------------------------------|------
-Alzheimer's Disease              | 4.9%
-Age-related Macular Degeneration | 1.6%
-Rheumatoid Arthritis             | 1.5%
-Type 1 Diabetes                  | 0.17%
+| Disease                          | Risk  |
+|----------------------------------|-------|
+| Alzheimer's Disease              | 4.9%  |
+| Age-related Macular Degeneration | 1.6%  |
+| Rheumatoid Arthritis             | 1.5%  |
+| Type 1 Diabetes                  | 0.17% |
 
 Of the ones that had increased risk, none of them were too scary thankfully. Before they tell you a few of them, they present a ton of information and you have to click I understand before they tell you the result (Alzheimer's for one). Thankfully, I have a lower risk for all of those.
 

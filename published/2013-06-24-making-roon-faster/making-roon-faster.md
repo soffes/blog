@@ -35,4 +35,3 @@ Anyway, he was saying using Unicorn over Puma really helped their stuff and expl
 ## Enjoy
 
 So, I hope you enjoy these speed improvements. The whole site is definitely noticeably faster. If you haven't tried [Roon](http://roon.io), check it out. Maybe write about what you do on an average day at work or something. You'd be surprised about the interesting stuff you find when you just sit down to write about a topic.
-

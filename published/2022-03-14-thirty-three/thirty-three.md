@@ -49,4 +49,3 @@ I’m hoping to see lots of friends and experience new things while 33. I’m al
 I’ve already lost 20 pounds since Christmas though, so things are going well on that front.
 
 Anyway, I’m really optimistic for the future. It’s definitely scary not having a plan or direction right now, but I’m embracing the opportunity to grow.
-

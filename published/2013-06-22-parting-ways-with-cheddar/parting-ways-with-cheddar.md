@@ -18,13 +18,13 @@ I'm really glad Josh is taking it over though. It is good hands. ==I think Chedd
 
 Here's a few stats as of right now.
 
-Thing             | Count
-------------------|--------
-Users             | 45,725
-Lists             | 94,605
-Tasks             | 884,462
-Third-party Apps  | 1,090
-Lines of Code     | 15,907
+| Thing             | Count   |
+| ------------------|---------|
+| Users             | 45,725  |
+| Lists             | 94,605  |
+| Tasks             | 884,462 |
+| Third-party Apps  | 1,090   |
+| Lines of Code     | 15,907  |
 
 I wrote (almost) all of that [code](https://github.com/soffes), [designed](https://dribbble.com/soffes) everything (except the logo and icon), responded (or sometimes ignored) all of the support, etc. All of it. There is an iPhone/iPad app, Mac app, web App, open API, and open source Objective-C library. ==That's a lot of stuff for one person. It was exhausting.==
 

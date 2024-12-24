@@ -25,4 +25,3 @@ I’m actually really looking forward to selling my house when I’m done and do
 I guess all I’m trying to say is, it took me awhile to appreciate the process of learning something. Picking up a new skill is so rewarding. Learning how to do something new is almost as much fun as doing the thing for me.
 
 Life is good.
-

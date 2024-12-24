@@ -19,4 +19,3 @@ Since my posts are in their own repo, a simple ==post-commit hook can update my 
 One of my favorite parts is all of the images live in this posts repo. That way, the images aren't tied to any particular host. As [part of the importer](https://github.com/soffes/blog.soff.es/blob/master/lib/soffes/blog/importer.rb#L77), it finds all `<img>` tags, looks for local images in the repo, uploads them to S3, and then updates the tag from a relative link to an absolute link for the newly uploaded image. (It also caches what it knows it uploaded to speed up the process on future runs.)
 
 I'm really enjoying writing posts in [my favorite Markdown editor](http://usewhiskey.com) and simply running `git push` to publish posts!
-

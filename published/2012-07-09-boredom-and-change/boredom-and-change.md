@@ -22,4 +22,3 @@ I figured I'd give it a shot. Mainly to test [Cheddar](http://cheddarapp.com) in
 ==Besides learning new things is good.== The future is exciting. Don't get me wrong, I'm not going to stop doing iOS anytime soon. I'm also way excited to work on Cheddar for Mac.
 
 **Update 06/22/2013:** I no longer own Cheddar. [More info](http://soff.es/parting-ways-with-cheddar).
-
