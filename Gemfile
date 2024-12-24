@@ -7,6 +7,5 @@ group :development do
   gem "nokogiri", require: false
   gem "rake", require: false
   gem "redcarpet", require: false
-  gem "rubocop-rake", require: false
-  gem "rubocop", require: false
+  gem "standard", require: false
 end

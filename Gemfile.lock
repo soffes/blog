@@ -11,6 +11,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     language_server-protocol (3.17.0.3)
+    lint_roller (1.1.0)
     mdl (0.13.0)
       kramdown (~> 2.3)
       kramdown-parser-gfm (~> 1.1)
@@ -50,9 +51,22 @@ GEM
       unicode-display_width (>= 2.4.0, < 4.0)
     rubocop-ast (1.37.0)
       parser (>= 3.3.1.0)
-    rubocop-rake (0.6.0)
-      rubocop (~> 1.0)
+    rubocop-performance (1.23.0)
+      rubocop (>= 1.48.1, < 2.0)
+      rubocop-ast (>= 1.31.1, < 2.0)
     ruby-progressbar (1.13.0)
+    standard (1.43.0)
+      language_server-protocol (~> 3.17.0.2)
+      lint_roller (~> 1.0)
+      rubocop (~> 1.69.1)
+      standard-custom (~> 1.0.0)
+      standard-performance (~> 1.6)
+    standard-custom (1.0.2)
+      lint_roller (~> 1.0)
+      rubocop (~> 1.50)
+    standard-performance (1.6.0)
+      lint_roller (~> 1.1)
+      rubocop-performance (~> 1.23.0)
     tomlrb (2.0.3)
     unicode-display_width (3.1.2)
       unicode-emoji (~> 4.0, >= 4.0.4)
@@ -67,8 +81,7 @@ DEPENDENCIES
   nokogiri
   rake
   redcarpet
-  rubocop
-  rubocop-rake
+  standard
 
 BUNDLED WITH
    2.3.17

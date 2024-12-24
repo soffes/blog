@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-EDITOR = 'atom'
+EDITOR = "code"
 
-desc 'Create a new post'
+desc "Create a new post"
 task :new do
   # Get title
   unless (title = ARGV[1].to_s) && !title.empty?
@@ -10,14 +10,14 @@ task :new do
   end
 
   # Get date
-  date = Time.now.strftime('%Y-%m-%d')
+  date = Time.now.strftime("%Y-%m-%d")
 
   # Calculate slug
-  slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  slug = title.downcase.strip.tr(" ", "-").gsub(/[^\w-]/, "")
 
   # Check slug
-  Dir['published/*'].each do |published|
-    if published.sub(%r{^published/\d{4}-\d{2}-\d{2}-}, '') == slug
+  Dir["published/*"].each do |published|
+    if published.sub(%r{^published/\d{4}-\d{2}-\d{2}-}, "") == slug
       abort "\nError: '#{slug}' is already in use.\n\nPick a different title.\n\n"
     end
   end
@@ -34,39 +34,32 @@ task :new do
   _open path
 end
 
-desc 'Edit the most recent post'
+desc "Edit the most recent post"
 task :recent do
-  _open Dir['published/**/*.markdown'].last
-end
-
-desc 'Publish the blog posts'
-task :publish do
-  # For me only :P
-  system 'git push'
-  system 'heroku run "rake import" --app soffes-blog'
+  _open Dir["published/**/*.markdown"].last
 end
 
 namespace :lint do
-  desc 'Lint Markdown'
+  desc "Lint Markdown"
   task :markdown do
-    system 'bundle exec mdl -i published'
+    system "bundle exec mdl -i published"
   end
 
-  desc 'Lint Ruby'
+  desc "Lint Ruby"
   task :ruby do
-    system 'bundle exec rubocop --parallel --config .rubocop.yml'
+    system "bundle exec standardrb"
   end
 
-  desc 'Lint YAML'
+  desc "Lint YAML"
   task :yaml do
     if `which yamllint`.chomp.empty?
-      abort 'yamllint is not installed. Install it with `pip3 install yamllint`.'
+      abort "yamllint is not installed. Install it with `pip3 install yamllint`."
     end
 
-    system 'yamllint -c .yamllint.yml .'
+    system "yamllint -c .yamllint.yml ."
   end
 
-  desc 'Lint posts'
+  desc "Lint posts"
   task :posts do
     require "nokogiri"
     require "redcarpet"
@@ -106,7 +99,7 @@ namespace :lint do
         end
 
         # Filter to relative images
-        used_images.filter! { |u| u && u.match(/https?:\/\//) == nil }
+        used_images.filter! { |u| u && u.match(/https?:\/\//).nil? }
 
         # Find images on disk
         disk_images = Dir["*.{png,jpg,svg}"]
@@ -133,12 +126,12 @@ namespace :lint do
   end
 end
 
-desc 'Run all linters'
+desc "Run all linters"
 task lint: %i[lint:markdown lint:ruby lint:yaml lint:posts]
 
 private
 
 def _open(path)
-  editor = `which #{EDITOR}`.empty? ? '$EDITOR' : EDITOR
+  editor = `which #{EDITOR}`.empty? ? "$EDITOR" : EDITOR
   system "#{editor} '#{File.expand_path(path)}'"
 end
