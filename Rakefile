@@ -65,10 +65,71 @@ namespace :lint do
 
     system 'yamllint -c .yamllint.yml .'
   end
+
+  desc 'Lint posts'
+  task :posts do
+    require "nokogiri"
+    require "redcarpet"
+    require "yaml"
+
+    renderer = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+    errors = []
+
+    # Loop through post directories
+    (Dir["published/*"] + Dir["drafts/*"]).each do |directory|
+      next unless File.directory?(directory)
+
+      Dir.chdir(directory) do
+        # Markdown path
+        md_path = File.basename(directory).sub(/^\d{4}-\d{2}-\d{2}-(.*)$/, '\1.md')
+        unless File.exist?(md_path)
+          errors << "error: #{File.join(directory, md_path)} doesn't exist"
+          next
+        end
+
+        # Find images in Markdown
+        md = File.read(md_path)
+        html = renderer.render(md)
+        doc = Nokogiri::HTML(html)
+        used_images = doc.css("img").map { |i| i["src"] }
+
+        # Find front matter image
+        sections = md.split("---\n")
+        if sections.length >= 3
+          begin
+            front_matter = YAML.parse(sections[1])
+            used_images << front_matter.to_ruby["cover_image"]
+          rescue
+            # Ignore front matter parse errors since this is a really bad way to parse front matter.
+            # I should make sure the front matter is at the beginning of the document, etc.
+          end
+        end
+
+        # Filter to relative images
+        used_images.filter! { |u| u && u.match(/https?:\/\//) == nil }
+
+        # Find images on disk
+        disk_images = Dir["*.jpg"]
+
+        # Add errors for unused images
+        (disk_images - used_images).each do |image|
+          errors << "error: #{File.join(directory, image)} is unused"
+        end
+      end
+    end
+
+    exit 0 if errors.empty?
+
+    errors.each do |error|
+      puts error
+    end
+
+    exit 1
+  end
 end
 
 desc 'Run all linters'
-task lint: %i[lint:markdown lint:ruby lint:yaml]
+task lint: %i[lint:markdown lint:ruby lint:yaml lint:posts]
 
 private
 
