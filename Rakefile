@@ -76,7 +76,7 @@ namespace :lint do
         # Markdown path
         md_path = File.basename(directory).sub(/^\d{4}-\d{2}-\d{2}-(.*)$/, '\1.md')
         unless File.exist?(md_path)
-          errors << "error: #{File.join(directory, md_path)} doesn't exist"
+          errors << "error: #{File.join(directory, md_path)}: Post is missing"
           next
         end
 
@@ -106,23 +106,23 @@ namespace :lint do
 
         # Add errors for unused images
         (disk_images - used_images).each do |image|
-          errors << "error: #{File.join(directory, image)} is unused"
+          errors << "error: #{File.join(directory, image)}: Image is unused"
         end
 
         # Add errors for missing images
         (used_images - disk_images).each do |image|
-          errors << "error: #{File.join(directory, image)} is missing"
+          errors << "error: #{File.join(directory, image)}: Image is missing"
         end
       end
     end
 
-    exit 0 if errors.empty?
+    exit(0) if errors.empty?
 
     errors.each do |error|
       puts error
     end
 
-    exit 1
+    exit(1)
   end
 end
 
