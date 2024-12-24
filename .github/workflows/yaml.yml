@@ -4,8 +4,6 @@ on:
     paths:
       - '**/*.yml'
       - '**/*.yaml'
-      - Procfile
-      - .custom_binaries
   push:
     branches:
       - main
