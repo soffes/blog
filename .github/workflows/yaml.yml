@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
       - name: Install dependencies
         run: python -m pip install --upgrade pip setuptools wheel yamllint
-      - name: Lint
+      - name: Run YAML Lint
         run: |
           yamllint --version >/dev/null 2>&1 || pip3 install yamllint
           yamllint -c .yamllint.yml .

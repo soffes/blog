@@ -21,10 +21,10 @@ jobs:
       RAILS_ENV: test
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
-      - name: Run Rubocop
+      - name: Run Linter
         run: bundle exec rake lint:posts
