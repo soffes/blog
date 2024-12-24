@@ -23,10 +23,12 @@
 			"</photo-row>",
 		]
 	},
-	"Image tag appending .jpg": {
-		"prefix": "imgjpg",
+	"Single photo row": {
+		"prefix": "photo-single",
 		"body": [
-			"<img src=\"${TM_SELECTED_TEXT}.jpg\">$1"
+			"<photo-row>",
+			"  <img src=\"${TM_SELECTED_TEXT}.jpg\">",
+			"</photo-row>$1",
 		]
 	}
 }
