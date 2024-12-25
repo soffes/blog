@@ -1,6 +1,5 @@
 ---
 cover_image: DSC02848.jpg
-is_gallery: true
 ---
 
 # Tahoe Rim Trail

@@ -1,6 +1,5 @@
 ---
 cover_image: DSC02746.jpg
-is_gallery: true
 ---
 
 # Lost Coast

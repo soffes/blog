@@ -1,5 +1,4 @@
 ---
-is_gallery: true
 cover_image: DSC07699.jpg
 ---
 

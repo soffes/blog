@@ -1,6 +1,5 @@
 ---
 cover_image: DSC02860.jpg
-is_gallery: true
 ---
 
 # California Riding and Hiking Trail
