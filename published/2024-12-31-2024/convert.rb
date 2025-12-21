@@ -9,18 +9,22 @@
 
 require "pathname"
 
-INPUT_DIRECTORY = "~/Desktop/2024"
-OUTPUT_DIRECTORY = "~/Developer/soffes/blog/drafts/2024-12-31-2024"
+unless (input_directory = ARGV[0]) && (output_directory = ARGV[1])
+  puts "Usage: ruby convert.rb INPUT_DIRECTORY OUTPUT_DIRECTORY"
+  exit 1
+end
+
 DIMENSION = 2048
 
 # Loop through all files in input directory. This assumes they are all images.
-Dir[File.expand_path(File.join(INPUT_DIRECTORY, "*"))].each do |input|
+Dir[File.expand_path(File.join(input_directory, "*"))].each do |input|
   # Construct output path. Specifying `jpg` as the extension will cause them to be converted while resizing.
-  output = File.expand_path(File.join(OUTPUT_DIRECTORY, Pathname(input).sub_ext(".jpg").basename.to_s))
+  output = File.expand_path(File.join(output_directory, Pathname(input).sub_ext(".jpg").basename.to_s))
 
   # Skip if it already exists
   next if File.exist?(output)
 
   # Resize so the longest edge is <= `DIMENSION` and remove orientation
   `magick #{input} -resize "#{DIMENSION}x#{DIMENSION}>" -auto-orient #{output}`
+  puts File.basename(output)
 end
