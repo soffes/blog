@@ -129,6 +129,45 @@ end
 desc "Run all linters"
 task lint: %i[lint:markdown lint:ruby lint:yaml lint:posts]
 
+# Resize a folder of images to a maximum size.
+#
+# Dependencies:
+#     $ brew install imagemagick
+desc "Convert images"
+task :convert_images, %i[input output] do |task, args|
+  require "fileutils"
+  require "pathname"
+
+  if `which magick`.empty?
+    puts "Please install ImageMagick:\n\n    $ brew install imagemagick"
+    exit 1
+  end
+
+  unless (input_directory = args[:input]) && (output_directory = args[:output])
+    puts 'Usage: rake "convert_images[path/to/input, path/to/output]"'
+    exit 1
+  end
+
+  input_directory = File.expand_path(input_directory)
+  output_directory = File.expand_path(output_directory)
+  FileUtils.mkdir_p(output_directory)
+
+  dimension = 2048
+
+  # Loop through all files in input directory. This assumes they are all images.
+  Dir[File.join(input_directory, "*")].each do |input|
+    # Construct output path. Specifying `jpg` as the extension will cause them to be converted while resizing.
+    output = File.join(output_directory, Pathname(input).sub_ext(".jpg").basename.to_s)
+
+    # Skip if it already exists
+    next if File.exist?(output)
+
+    # Resize so the longest edge is <= `dimension` and remove orientation
+    `magick "#{input}" -auto-orient -resize "#{dimension}x#{dimension}>" "#{output}"`
+    puts File.basename(output)
+  end
+end
+
 private
 
 def _open(path)
