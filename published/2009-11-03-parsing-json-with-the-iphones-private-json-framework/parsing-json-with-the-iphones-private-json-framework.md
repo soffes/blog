@@ -17,4 +17,4 @@ It really sucks that this is private. It works really well. I wish Apple would o
 
 Anyway, it's kinda a cool discovery. ==[Check out my sample project on GitHub](http://github.com/soffes/private-json-test)==.
 
-**Update 03/03/12:** As of iOS 5.0, you can now use [NSJSONSerialization](https://developer.apple.com/library/ios/#documentation/Foundation/Reference/NSJSONSerialization_Class/Reference/Reference.html#//apple_ref/doc/uid/TP40010946). Yay for Apple making their parser public (although it seems to be a different implementation).
+**Update 03/03/12:** As of iOS 5.0, you can now use [NSJSONSerialization](https://developer.apple.com/documentation/foundation/jsonserialization?language=objc). Yay for Apple making their parser public (although it seems to be a different implementation).
