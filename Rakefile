@@ -27,7 +27,7 @@ task :new do
   system "mkdir #{dir}"
 
   # Create markdown file
-  path = "#{dir}/#{slug}.markdown"
+  path = "#{dir}/#{slug}.md"
   File.write(path, "# #{title}\n\n")
 
   # Open in editor
@@ -36,18 +36,18 @@ end
 
 desc "Edit the most recent post"
 task :recent do
-  _open Dir["published/**/*.markdown"].last
+  _open Dir["published/**/*.md"].last
 end
 
 namespace :lint do
   desc "Lint Markdown"
   task :markdown do
-    system "bundle exec mdl -i published"
+    sh "bundle exec mdl -i published"
   end
 
   desc "Lint Ruby"
   task :ruby do
-    system "bundle exec standardrb"
+    sh "bundle exec standardrb"
   end
 
   desc "Lint YAML"
@@ -56,7 +56,7 @@ namespace :lint do
       abort "yamllint is not installed. Install it with `pip3 install yamllint`."
     end
 
-    system "yamllint -c .yamllint.yml ."
+    sh "yamllint -c .yamllint.yml ."
   end
 
   desc "Lint posts"
@@ -136,7 +136,6 @@ task lint: %i[lint:markdown lint:ruby lint:yaml lint:posts]
 desc "Convert images"
 task :convert_images, %i[input output] do |task, args|
   require "fileutils"
-  require "pathname"
 
   if `which magick`.empty?
     puts "Please install ImageMagick:\n\n    $ brew install imagemagick"
